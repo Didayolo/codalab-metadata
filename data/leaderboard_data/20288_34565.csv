@@ -1,0 +1,18 @@
+submission_pk,User,Task1,Duration
+619303,a.ollagnier,- (-),0.00 (1),
+614773,ardaakdemir,- (-),0.00 (1),
+504135,htanev,- (-),0.00 (1),
+496378,alisafaya,- (-),0.00 (1),
+488129,priyam,- (-),0.00 (1),
+submission_pk,User,Task2
+488129,priyam,- (-),
+496378,alisafaya,- (-),
+504135,htanev,- (-),
+614773,ardaakdemir,- (-),
+619303,a.ollagnier,- (-),
+submission_pk,User,Task 3,Precision,Recall
+488129,priyam,- (-),,,
+496378,alisafaya,- (-),,,
+504135,htanev,- (-),,,
+614773,ardaakdemir,- (-),,,
+619303,a.ollagnier,- (-),,,

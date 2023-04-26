@@ -1,0 +1,11 @@
+submission_pk,User,Accuracy
+650330,AlexCrosby,0.9542 (1),
+643281,benf,0.9341 (2),
+659245,zz,0.9299 (3),
+660633,yang1094,0.9222 (4),
+656937,Abdalrhman,0.9024 (5),
+645220,mutaz,0.8961 (6),
+630983,Alexa,0.8802 (7),
+630168,ai-soco_tfidf_knn_baseline,0.6213 (8),
+630176,ai-soco_char_logistic_baseline,0.2925 (9),
+630172,ai-soco_random_baseline,0.0006 (10),

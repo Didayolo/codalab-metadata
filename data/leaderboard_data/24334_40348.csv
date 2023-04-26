@@ -1,0 +1,5 @@
+submission_pk,User,With Generated Sentences,With Generated Sentences,With Generated Sentences,With Generated Sentences
+,F1_all_per_sent,F1_loc_per_sent,F1_all,F1_loc
+899867,RUCer-RLD,0.465 (1),,,,,
+596745,activitynet-entities,0.244 (2),,,,,
+621331,chihyaoma,0.154 (3),,,,,

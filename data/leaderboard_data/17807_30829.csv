@@ -1,0 +1,20 @@
+submission_pk,User,Errors (pixels),Errors (pixels),Errors (pixels),Errors (pixels),Errors (pixels),Errors (pixels),Accuracy (%),Accuracy (%),Accuracy (%),Runtime
+,mse (× 10e-4),rms,logrms,absrel,sqrrel,bumpness,delta(1.25),delta(1.25^2),delta(1.25^3),secs
+822021,yangfengt123,0.57 (1),97.39 (2),0.04 (3),,,,,,,,,,,
+1093752,Ko20210216,0.60 (3),97.94 (1),0.02 (1),,,,,,,,,,,
+826332,evanhsau,0.74 (7),95.73 (4),0.12 (7),,,,,,,,,,,
+827880,Mr_tsai,0.73 (6),95.70 (5),0.12 (4),,,,,,,,,,,
+830245,ren,0.71 (5),95.85 (3),0.12 (6),,,,,,,,,,,
+830869,MTKJustin,0.63 (4),93.55 (7),0.02 (2),,,,,,,,,,,
+455475,hazirbas,0.59 (2),92.98 (8),0.59 (8),,,,,,,,,,,
+830380,strongbro5566,0.79 (8),93.92 (6),0.12 (5),,,,,,,,,,,
+submission_pk,User,Errors (meters),Errors (meters),Errors (meters),Errors (meters),Errors (meters),Errors (meters),Accuracy (%),Accuracy (%),Accuracy (%)
+,mse,rms,logrms,absrel,sqrrel,bumpness,delta(1.25),delta(1.25^2),delta(1.25^3)
+1093752,Ko20210216,2.50 (4),98.00 (1),,,,,,,,,,
+822021,yangfengt123,2.05 (1),97.41 (2),,,,,,,,,,
+830245,ren,2.58 (6),95.78 (3),,,,,,,,,,
+826332,evanhsau,2.55 (5),95.48 (5),,,,,,,,,,
+827880,Mr_tsai,2.72 (7),95.53 (4),,,,,,,,,,
+830869,MTKJustin,2.14 (2),93.60 (7),,,,,,,,,,
+830380,strongbro5566,2.78 (8),93.74 (6),,,,,,,,,,
+455475,hazirbas,2.35 (3),92.86 (8),,,,,,,,,,

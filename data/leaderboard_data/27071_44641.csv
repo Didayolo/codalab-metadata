@@ -1,0 +1,10 @@
+submission_pk,User,BG,DA,ET,FA,HR,JA,KO,NL,ZH,AVG
+710670,tommasopasini,58.28 (1),64.86 (1),62.56 (1),71.50 (1),63.97 (1),62.26 (1),59.76 (1),63.84 (1),69.36 (1),64.04 (1),
+729267,qlqlqlql,- (2),- (2),- (2),- (2),- (2),- (2),- (2),- (2),- (2),- (2),
+submission_pk,User,DE,FR,IT,AVG
+710670,tommasopasini,58.15 (1),- (-),- (-),58.15 (1),
+729267,qlqlqlql,- (2),- (-),- (-),- (2),
+submission_pk,User,German,German,German,French,French,French,Italian,Italian,Italian,AVG
+,DE,DE IV,DE OOV,FR,FR IV,FR OOV,IT,IT IV,IT OOV
+710670,tommasopasini,70.08 (1),71.24 (1),68.54 (1),73.89 (1),,,,,,,,,,
+729267,qlqlqlql,- (2),- (2),- (2),- (2),,,,,,,,,,

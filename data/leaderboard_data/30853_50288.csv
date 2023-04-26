@@ -1,0 +1,4 @@
+submission_pk,User,Mean-Average-Precision,Average-Precision,R-Precision,Reciprical-Rank,Precision@3,Precision@5,Precision@10
+872118,Oumaymaa,0.909 (1),0.909 (1),0.823 (1),1.000 (1),1.000 (1),1.000 (1),1.000 (1),
+867558,maramhasanain,0.852 (2),0.852 (2),0.766 (2),1.000 (1),1.000 (1),1.000 (1),1.000 (1),
+867588,ibaris,0.814 (3),0.814 (3),0.725 (3),1.000 (1),1.000 (1),1.000 (1),1.000 (1),

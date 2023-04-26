@@ -1,0 +1,3 @@
+submission_pk,User,Micro precision,Micro recall,Micro F1 score,Macro precision,Macro recall,Macro F1 score,Averaged precision,Averaged recall,Averaged F1 score,Mean Squared Error (MSE)
+886345,Timen,-1.000000 (1),-1.000000 (1),-1.000000 (1),0.560976 (1),1.000000 (1),0.718750 (1),-1.000000 (1),-1.000000 (1),-1.000000 (1),-1.000000 (1),
+886400,hugo.jair,-1.000000 (1),-1.000000 (1),-1.000000 (1),0.560976 (1),1.000000 (1),0.718750 (1),-1.000000 (1),-1.000000 (1),-1.000000 (1),-1.000000 (1),

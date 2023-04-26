@@ -1,0 +1,12 @@
+submission_pk,User,Score (Average F1)
+463522,tass18-task3,0.914 (1),
+463516,ygutierrez,0.914 (1),
+submission_pk,User,F1,Precision,Recall
+463522,tass18-task3,0.84 (1),0.84 (1),0.83 (1),
+463516,ygutierrez,0.84 (1),0.84 (1),0.83 (1),
+submission_pk,User,F1,Precision,Recall
+463522,tass18-task3,0.96 (1),0.95 (1),0.97 (1),
+463516,ygutierrez,0.96 (1),0.95 (1),0.97 (1),
+submission_pk,User,F1,Precision,Recall
+463522,tass18-task3,0.94 (1),0.92 (1),0.96 (1),
+463516,ygutierrez,0.94 (1),0.92 (1),0.96 (1),

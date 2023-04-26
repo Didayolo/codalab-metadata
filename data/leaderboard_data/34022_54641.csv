@@ -1,0 +1,40 @@
+submission_pk,User,English,English,English,Spanish,Spanish,Spanish,French,French,French,Italian,Italian,Italian,Russian,Russian,Russian
+,MvSc.,S-BLEU,L-BLEU,MvSc.,S-BLEU,L-BLEU,MvSc.,S-BLEU,L-BLEU,MvSc.,S-BLEU,L-BLEU,MvSc.,S-BLEU,L-BLEU
+1089657,cunliang.kong,0.03906 (2),0.05624 (2),0.03738 (1),0.10147 (1),0.07074 (1),,,,,,,,,,,,,,,,
+1100193,talent404,0.03629 (3),- (5),- (4),- (5),- (4),,,,,,,,,,,,,,,,
+1103993,dkorenci,0.04183 (1),0.06419 (1),0.03403 (2),0.01511 (2),0.03614 (2),,,,,,,,,,,,,,,,
+1090780,Locchi,0.02720 (4),0.02623 (3),- (4),0.01222 (3),- (4),,,,,,,,,,,,,,,,
+1130217,sahar.rajabi,0.01839 (5),- (5),- (4),- (5),- (4),,,,,,,,,,,,,,,,
+1091204,WENGSYX,0.00466 (6),0.00431 (4),0.00453 (3),0.00525 (4),0.00520 (3),,,,,,,,,,,,,,,,
+1099868,chlrbgus321,- (7),- (5),- (4),- (5),- (4),,,,,,,,,,,,,,,,
+1096233,zhwa3087,- (7),- (5),- (4),- (5),- (4),,,,,,,,,,,,,,,,
+submission_pk,User,English,English,English,Spanish,Spanish,Spanish,French,French,French,Italian,Italian,Italian,Russian,Russian,Russian
+,MSE,Cos,Rank,MSE,Cos,Rank,MSE,Cos,Rank,MSE,Cos,Rank,MSE,Cos,Rank
+1091204,WENGSYX,0.32907 (2),0.25102 (1),0.28214 (2),0.22995 (1),0.18712 (1),,,,,,,,,,,,,,,,
+1090780,Locchi,0.39422 (3),- (2),- (3),0.38598 (2),- (3),,,,,,,,,,,,,,,,
+1096233,zhwa3087,0.31190 (1),- (2),0.25353 (1),- (3),0.21398 (2),,,,,,,,,,,,,,,,
+1099868,chlrbgus321,0.50043 (4),- (2),- (3),- (3),- (3),,,,,,,,,,,,,,,,
+1130217,sahar.rajabi,- (5),- (2),- (3),- (3),- (3),,,,,,,,,,,,,,,,
+1103993,dkorenci,- (5),- (2),- (3),- (3),- (3),,,,,,,,,,,,,,,,
+1100193,talent404,- (5),- (2),- (3),- (3),- (3),,,,,,,,,,,,,,,,
+1089657,cunliang.kong,- (5),- (2),- (3),- (3),- (3),,,,,,,,,,,,,,,,
+submission_pk,User,English,English,English,French,French,French,Russian,Russian,Russian
+,MSE,Cos,Rank,MSE,Cos,Rank,MSE,Cos,Rank
+1090780,Locchi,0.47784 (3),- (3),- (3),,,,,,,,,,
+1099868,chlrbgus321,0.50008 (4),- (3),- (3),,,,,,,,,,
+1091204,WENGSYX,0.47773 (2),0.47763 (2),0.42021 (2),,,,,,,,,,
+1096233,zhwa3087,0.43288 (1),0.42465 (1),0.36757 (1),,,,,,,,,,
+1130217,sahar.rajabi,- (5),- (3),- (3),,,,,,,,,,
+1103993,dkorenci,- (5),- (3),- (3),,,,,,,,,,
+1100193,talent404,- (5),- (3),- (3),,,,,,,,,,
+1089657,cunliang.kong,- (5),- (3),- (3),,,,,,,,,,
+submission_pk,User,English,English,English,Spanish,Spanish,Spanish,French,French,French,Italian,Italian,Italian,Russian,Russian,Russian
+,MSE,Cos,Rank,MSE,Cos,Rank,MSE,Cos,Rank,MSE,Cos,Rank,MSE,Cos,Rank
+1090780,Locchi,0.48667 (3),- (2),- (3),0.47833 (1),- (3),,,,,,,,,,,,,,,,
+1099868,chlrbgus321,0.50043 (4),- (2),- (3),- (3),- (3),,,,,,,,,,,,,,,,
+1096233,zhwa3087,0.45142 (1),- (2),0.40776 (1),- (3),0.37747 (1),,,,,,,,,,,,,,,,
+1091204,WENGSYX,0.48599 (2),0.50121 (1),0.51862 (2),0.49603 (2),0.47229 (2),,,,,,,,,,,,,,,,
+1130217,sahar.rajabi,- (5),- (2),- (3),- (3),- (3),,,,,,,,,,,,,,,,
+1103993,dkorenci,- (5),- (2),- (3),- (3),- (3),,,,,,,,,,,,,,,,
+1100193,talent404,- (5),- (2),- (3),- (3),- (3),,,,,,,,,,,,,,,,
+1089657,cunliang.kong,- (5),- (2),- (3),- (3),- (3),,,,,,,,,,,,,,,,

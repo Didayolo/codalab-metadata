@@ -1,0 +1,14 @@
+submission_pk,User,MAE,RMSE,R
+949512,shisen,9.2215 (1),14.1761 (1),0.4681 (1),
+949583,danielmcduff,9.3695 (2),14.5861 (2),0.4395 (3),
+949584,benjamin.kossack,10.1521 (3),15.3845 (4),0.4448 (2),
+949448,jysim,10.6026 (4),15.6300 (5),0.3681 (4),
+949364,qcomas,11.0557 (5),16.7764 (6),0.1803 (6),
+948734,yassineouzar,11.6010 (6),14.9001 (3),0.1952 (5),
+submission_pk,User,MAE,RMSE,R
+949448,jysim,- (-),,,
+949583,danielmcduff,- (-),,,
+949584,benjamin.kossack,- (-),,,
+949512,shisen,- (-),,,
+949364,qcomas,- (-),,,
+948734,yassineouzar,- (-),,,

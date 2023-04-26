@@ -1,0 +1,4 @@
+submission_pk,User,Mean-Average-Precision,Average-Precision,R-Precision,Reciprical-Rank,Precision@3,Precision@5,Precision@10
+877950,Vongola,0.402 (1),0.402 (1),0.403 (1),0.917 (1),0.833 (1),0.750 (1),0.600 (1),
+877663,sshaar,0.235 (2),0.235 (2),0.263 (2),0.792 (2),0.583 (2),0.500 (2),0.400 (2),
+879204,NLytics,0.135 (3),0.135 (3),0.130 (3),0.345 (3),0.125 (3),0.100 (3),0.138 (3),

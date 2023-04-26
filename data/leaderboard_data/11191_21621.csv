@@ -1,0 +1,4 @@
+submission_pk,User,F1 score,Precision,Recall
+308001,bowang,0.699115 (1),0.580882 (1),0.877778 (1),
+398606,DISQUALIFIED,0.633929 (2),0.550388 (3),0.747368 (2),
+398598,ForgotMyPassword,0.626728 (3),0.557377 (2),0.715789 (3),

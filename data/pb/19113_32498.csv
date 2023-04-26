@@ -1,0 +1,14 @@
+submission_pk,User,Per Category Accuracy,Per Category Accuracy,Per Category Accuracy,Per Category Accuracy,Per Category Accuracy,Per Category Accuracy,Per Category Accuracy,Per Category Accuracy,Per Category Accuracy,Per Category Accuracy,Per Category Accuracy,Per Category Accuracy,Per Category Accuracy,Known,Mean
+,plane,bcycl,bus,car,horse,horse,mcycl,person,plant,sktbd,train,truck,unknown
+479000,Yingwei.Pan,77.2 (1),93.5 (1),92.3 (1),,,,,,,,,,,,,,
+479113,youkaichao,42.2 (8),70.5 (3),68.3 (3),,,,,,,,,,,,,,
+479059,lianqing,9.8 (12),73.9 (2),69.0 (2),,,,,,,,,,,,,,
+479107,jinjiren,34.4 (11),68.2 (5),65.6 (6),,,,,,,,,,,,,,
+478051,Ange,40.9 (9),67.7 (6),65.7 (5),,,,,,,,,,,,,,
+473274,visda_SE,59.9 (6),62.7 (7),62.5 (7),,,,,,,,,,,,,,
+475280,Yk,62.1 (5),60.6 (9),60.7 (9),,,,,,,,,,,,,,
+479084,lcsong,36.7 (10),68.3 (4),65.9 (4),,,,,,,,,,,,,,
+479065,Chen,72.9 (2),61.3 (8),62.2 (8),,,,,,,,,,,,,,
+477909,Daiki,68.5 (3),53.3 (10),54.5 (10),,,,,,,,,,,,,,
+478016,whiplash,68.2 (4),46.3 (11),47.9 (11),,,,,,,,,,,,,,
+476694,andrewbo29,46.5 (7),24.0 (12),25.7 (12),,,,,,,,,,,,,,

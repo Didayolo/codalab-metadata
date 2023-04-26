@@ -1,0 +1,8 @@
+submission_pk,User,By Answer Type,By Answer Type,By Answer Type,Overall
+,Yes/No,Other,Number
+309691,dteney,74.97 (1),74.37 (1),,,,
+237131,MIL,56.19 (2),71.18 (2),,,,
+178991,vt_ques-lstm-global-image,52.90 (3),69.21 (3),,,,
+179011,vt_ques-lstm-alone,49.65 (4),61.41 (4),,,,
+165331,vt_arl_binary,0.21 (6),35.25 (5),,,,
+165381,vt-all_yes,0.22 (5),29.15 (6),,,,

@@ -1,0 +1,10 @@
+submission_pk,User,MAE,RMSE,R
+932653,danielmcduff,7.8670 (1),11.5541 (1),0.5355 (1),
+933532,yassineouzar,11.3536 (2),14.6735 (2),0.0098 (4),
+932664,benjamin.kossack,12.1293 (3),19.3364 (3),0.2996 (2),
+932845,shisen,12.2825 (4),19.7726 (4),0.2994 (3),
+submission_pk,User,MAE,RMSE,R
+932664,benjamin.kossack,- (-),,,
+933532,yassineouzar,- (-),,,
+932845,shisen,- (-),,,
+932653,danielmcduff,- (-),,,

@@ -1,0 +1,5 @@
+submission_pk,User,SLS,SLS,SLS,mAP@0.1 (%),mAP@0.1 (%),mAP@0.1 (%),mAP@0.2 (%),mAP@0.2 (%),mAP@0.2 (%),mAP@0.3 (%),mAP@0.3 (%),mAP@0.3 (%),mAP@0.4 (%),mAP@0.4 (%),mAP@0.4 (%),mAP@0.5 (%),mAP@0.5 (%),mAP@0.5 (%),Avg. mAP (%),Avg. mAP (%),Avg. mAP (%)
+,PT,TL,TD,Verb,Noun,Action,Verb,Noun,Action,Verb,Noun,Action,Verb,Noun,Action,Verb,Noun,Action,Verb,Noun,Action
+889466,ZiyuanHuang,3.0 (1),18.76 (1),17.73 (1),16.26 (1),14.91 (1),12.87 (1),16.11 (1),,,,,,,,,,,,,,,,,,,,,,
+892691,evangelion,3.0 (1),8.77 (2),8.04 (2),7.40 (2),6.31 (2),5.07 (2),7.12 (2),,,,,,,,,,,,,,,,,,,,,,
+767207,EPIC_BMN_SLOWFAST,3.0 (1),6.40 (3),5.37 (3),4.41 (3),3.36 (3),2.47 (3),4.40 (3),,,,,,,,,,,,,,,,,,,,,,

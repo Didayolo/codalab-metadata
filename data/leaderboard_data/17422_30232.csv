@@ -1,0 +1,5 @@
+submission_pk,User,2_extraction_F1
+442013,tenebroso,20.0 (1),
+451992,angelocsc,-999.0 (2),
+submission_pk,User,1.1_classification_macro-average_F1,1.2_classification_macro-average_F1,2_classification_macro-average_F1
+Exception parsing scores!

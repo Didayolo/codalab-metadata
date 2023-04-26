@@ -1,0 +1,21 @@
+submission_pk,User,Task1,Duration
+619243,a.ollagnier,- (-),0.00 (1),
+614772,ardaakdemir,- (-),0.00 (1),
+511896,simgeekiz,- (-),0.00 (1),
+504136,htanev,- (-),0.00 (1),
+485235,alisafaya,- (-),0.00 (1),
+484469,priyam,- (-),0.00 (1),
+submission_pk,User,Task2
+511896,simgeekiz,0.7211 (1),
+485235,alisafaya,0.6547 (2),
+619243,a.ollagnier,0.4820 (3),
+484469,priyam,0.4479 (4),
+504136,htanev,0.3463 (5),
+614772,ardaakdemir,0.0000 (6),
+submission_pk,User,Task 3,Precision,Recall
+504136,htanev,- (-),,,
+619243,a.ollagnier,- (-),,,
+485235,alisafaya,- (-),,,
+614772,ardaakdemir,- (-),,,
+484469,priyam,- (-),,,
+511896,simgeekiz,- (-),,,

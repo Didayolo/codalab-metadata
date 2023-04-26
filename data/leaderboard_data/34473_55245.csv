@@ -1,0 +1,4 @@
+submission_pk,User,Accuracy
+1121880,ByteCode,0.0000 (1),
+submission_pk,User,Mean joint error (left hand),Mean joint error (right hand),3D PCK@15mm (left hand),3D PCK@15mm (right hand),3D PCK@30mm (left hand),3D PCK@30mm (right hand)
+1121880,ByteCode,0.0368 (1),0.0365 (1),14.1165 (1),9.8411 (1),48.0227 (1),41.1289 (1),

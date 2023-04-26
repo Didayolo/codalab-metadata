@@ -1,0 +1,2 @@
+submission_pk,User,Mean-Average-Precision,Average-Precision,R-Precision,Reciprical-Rank,Precision@3,Precision@5,Precision@10
+861348,sshaar,0.071 (1),0.071 (1),0.046 (1),0.184 (1),0.037 (1),0.044 (1),0.033 (1),

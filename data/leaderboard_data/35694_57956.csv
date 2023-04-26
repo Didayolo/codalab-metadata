@@ -1,0 +1,5 @@
+submission_pk,User,Category-level accuracy [%],Species-level accuracy [%]
+,mean,mean
+994457,savadikarc,91.72 (1),86.70 (1),,,
+994490,ratanimmi,90.54 (2),85.21 (2),,,
+994508,haruizdev,13.57 (3),2.51 (3),,,

@@ -1,0 +1,6 @@
+submission_pk,User,Strict macro,Strict macro,Strict macro,Strict micro,Strict micro,Strict micro,Overlap macro,Overlap macro,Overlap macro,Overlap micro,Overlap micro,Overlap micro
+,P,R,F1,P,R,F1,P,R,F1,P,R,F1
+477297,Arjun,- (-),,,,,,,,,,,,,,,,
+submission_pk,User,Strict macro,Strict macro,Strict macro,Strict micro,Strict micro,Strict micro,Overlap macro,Overlap macro,Overlap macro,Overlap micro,Overlap micro,Overlap micro
+,Pds,Rds,F1ds,Pds,Rds,F1ds,Pds,Rds,F1ds,Pds,Rds,F1ds
+477297,Arjun,0.9076 (1),0.9383 (1),- (-),- (-),,,,,,,,,,,,,

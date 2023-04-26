@@ -1,0 +1,2 @@
+submission_pk,User,AP,AP IoU=.50,AP IoU=.75,AP large,AP medium,AP small,AR large,AR max=1,AR max=10,AR max=100,AR medium,AR small
+666527,CKboss,0.56 (1),0.74 (1),0.61 (1),0.68 (1),0.58 (1),0.37 (1),0.84 (1),0.40 (1),0.67 (1),0.71 (1),0.74 (1),0.55 (1),

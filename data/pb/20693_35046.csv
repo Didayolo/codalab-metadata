@@ -1,0 +1,12 @@
+submission_pk,User,F1-score,Precision,True Positive Rate,False Positives Count
+690818,of,- (-),,,,
+694619,Faustine,- (-),,,,
+497807,exoim_baseline,- (-),,,,
+565213,dino.mesa,- (-),,,,
+539637,jruffio,- (-),,,,
+submission_pk,User,F1-score,Precision,True Positive Rate,False Positives Count
+539637,jruffio,1.13 (1),1.00 (1),1.30 (1),0.00 (1),
+690818,of,0.82 (2),1.00 (1),0.70 (2),0.00 (1),
+694619,Faustine,0.59 (3),0.62 (2),0.57 (3),8.00 (2),
+497807,exoim_baseline,0.33 (4),0.35 (3),0.30 (5),13.00 (3),
+565213,dino.mesa,0.15 (5),0.09 (4),0.52 (4),122.00 (4),

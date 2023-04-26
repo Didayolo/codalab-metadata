@@ -1,0 +1,6 @@
+submission_pk,User,< Rank >,Classification (AUC ROC),Feature Selection (AUC ROC)
+480480,ortofasfat,1.0000 (1),0.8346 (1),0.7937 (1),
+481089,olyerickson,1.5000 (2),0.8255 (2),0.7937 (1),
+480952,bennek,1.5000 (2),0.8255 (2),0.7937 (1),
+512395,acletournel,2.5000 (3),-0.0839 (3),0.0952 (2),
+507091,pavao,2.5000 (3),- (4),0.7937 (1),

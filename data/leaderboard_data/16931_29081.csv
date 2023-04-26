@@ -1,0 +1,18 @@
+submission_pk,User,Question Types
+,diagram question accuracy
+410763,beethoven,0.3175 (1),,
+410797,mlh,0.3139 (2),,
+410577,tuanluu,0.3050 (3),,
+410774,Daesik,0.2588 (4),,
+410576,akshay107,0.2581 (5),,
+410636,AI2_tqa_random_performance,0.2511 (6),,
+410721,freerailway,0.0000 (7),,
+submission_pk,User,Question Types
+,text question accuracy
+410797,mlh,0.4208 (1),,
+410763,beethoven,0.4200 (2),,
+410577,tuanluu,0.4100 (3),,
+410774,Daesik,0.4021 (4),,
+410576,akshay107,0.3822 (5),,
+410721,freerailway,0.3436 (6),,
+410636,AI2_tqa_random_performance,0.3272 (7),,

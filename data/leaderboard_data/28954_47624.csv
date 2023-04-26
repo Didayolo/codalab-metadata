@@ -1,0 +1,13 @@
+submission_pk,User,Gaze Direction Angular Error / deg,Point-of-Gaze Euclidean Error / px,Point-of-Gaze Euclidean Error / cm,Pupil Size Mean Absolute Error / mm
+827118,HDU_CS,1.95 (1),75.2 (1),2.17 (1),2.74 (4),
+849881,MonIIT,2.12 (2),81.2 (2),2.34 (2),0.25 (1),
+817500,EVE_GazeRefineNet_CGRU_oa_skip,2.37 (3),91.4 (3),2.63 (3),0.29 (3),
+817501,EVE_GazeRefineNet_CGRU_oa,2.38 (4),92.0 (4),2.65 (4),0.29 (3),
+817493,EVE_GazeRefineNet_CRNN_oa_skip,2.44 (5),94.2 (5),2.71 (5),0.29 (3),
+817494,EVE_GazeRefineNet_CRNN_oa,2.54 (6),98.2 (6),2.83 (6),0.29 (3),
+817496,EVE_GazeRefineNet_static_oa,2.68 (7),103.2 (7),2.97 (7),0.29 (3),
+817492,EVE_GazeRefineNet_static_oa_sk,2.75 (8),106.1 (8),3.06 (8),0.29 (3),
+817498,EVE_GazeRefineNet_CLSTM_oa_ski,3.20 (9),123.4 (9),3.56 (9),0.29 (3),
+817456,EVE_GazeRefineNet_static,3.20 (10),123.7 (10),3.56 (10),0.29 (3),
+896554,vramiv,3.39 (11),130.7 (11),3.76 (11),0.27 (2),
+817499,EVE_GazeRefineNet_CLSTM_oa,7.38 (12),284.3 (12),8.19 (12),0.29 (3),

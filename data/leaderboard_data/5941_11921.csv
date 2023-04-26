@@ -1,0 +1,5 @@
+submission_pk,User,Schedule 1,Schedule 1,Schedule 1,Schedule 1,Schedule 2,Schedule 2,Schedule 2,Schedule 2
+,Accuracy,Precision,Recall,F-measure,Accuracy,Precision,Recall,F-measure
+87421,Anonymous,0.505 (1),0.568 (1),,,,,,,,,
+84151,Anonymous,0.259 (3),0.343 (2),,,,,,,,,
+84171,Anonymous,0.265 (2),0.291 (3),,,,,,,,,

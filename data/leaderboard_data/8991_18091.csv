@@ -1,0 +1,3 @@
+submission_pk,User,Accuracy,F-score,MRR,MAP
+187821,andrew.finch,0.5830 (1),0.9089 (1),0.6815 (1),0.5819 (1),
+184101,amirhj,0.2860 (2),0.8224 (2),0.4019 (2),0.2856 (2),

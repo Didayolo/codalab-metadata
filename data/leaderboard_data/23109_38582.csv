@@ -1,0 +1,8 @@
+submission_pk,User,test-public,test-public,test-public,test-public
+,BLEU@4,METEOR,Rouge-L,CIDEr-D
+955596,TKD-AI,56.59 (1),,,,,
+624880,cse232,49.98 (2),,,,,
+870428,silence_killer,48.97 (3),,,,,
+851883,zhouchang,48.07 (4),,,,,
+910234,hard_computer,45.45 (5),,,,,
+546083,TVQA,45.05 (6),,,,,

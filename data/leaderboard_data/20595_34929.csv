@@ -1,0 +1,3 @@
+submission_pk,User,PDQ Score,Average pPDQ,Average Spatial Quality,Average Label Quality,Average FP Label Quality,True Positives,False Positives,False Negatives
+653200,Choi_jae_woong,22.467 (1),0.564 (1),0.507 (1),0.816 (1),0.057 (2),45040.0 (1),24122.0 (1),45193.0 (2),
+484936,ACRV,18.058 (2),0.554 (2),0.450 (2),0.794 (2),0.286 (1),32451.0 (2),12941.0 (2),57782.0 (1),

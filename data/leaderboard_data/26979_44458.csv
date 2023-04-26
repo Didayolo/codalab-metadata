@@ -1,0 +1,4 @@
+submission_pk,User,Exact Match,Exact Match 95%,Row Accuracy,Column Accuracy,Alnum Accuracy,Latex Token Accuracy,Latex Symbol Accuracy,Symbols Accuracy
+845908,qixianbiao,0.54 (1),0.72 (1),- (-),- (-),0.84 (1),0.74 (1),0.97 (1),0.61 (1),
+711127,icdariitgn,0.40 (2),0.63 (2),- (-),- (-),0.75 (2),0.66 (2),0.96 (2),0.48 (2),
+845358,icedream,0.00 (3),0.51 (3),- (-),- (-),0.64 (3),0.56 (3),0.92 (3),0.33 (3),

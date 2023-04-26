@@ -1,0 +1,6 @@
+submission_pk,User,SLS,SLS,SLS,mean Average Precision (%),mean Average Precision (%),mean Average Precision (%),normalised Discounted Cumulative Gain (%),normalised Discounted Cumulative Gain (%),normalised Discounted Cumulative Gain (%)
+,PT,TL,TD,Avg.,T2V,V2T,Avg.,T2V,V2T
+851423,haoxiaoshuai,3.0 (1),44.23 (1),53.56 (1),,,,,,,,,,
+765522,JPoSE,3.0 (1),44.01 (2),53.53 (2),,,,,,,,,,
+765217,MLP,3.0 (1),38.49 (3),48.49 (3),,,,,,,,,,
+876607,MI-MM,3.0 (1),29.21 (4),44.79 (4),,,,,,,,,,

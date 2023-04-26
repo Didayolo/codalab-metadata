@@ -1,0 +1,32 @@
+submission_pk,User,Average,CIFAR10-IC,LabelMe-IC,PDIS,Gimpel-POS,CrowthTruth-FD,AURC-8
+779657,oseibrefo,0.5321 (1),0.7227 (1),0.1091 (2),0.5574 (1),0.7581 (1),- (-),0.5131 (1),
+807855,alexandraG,0.1641 (2),0.0000 (2),0.8203 (1),0.0000 (2),0.0000 (3),- (-),0.0000 (2),
+805964,thanet.mar,0.0228 (3),0.0000 (2),0.0000 (3),0.0000 (2),0.1142 (2),- (-),0.0000 (2),
+submission_pk,User,Average,CIFAR10-IC,LabelMe-IC,PDIS,Gimpel-POS,CrowthTruth-FD,AURC-8
+779657,oseibrefo,1.6185 (1),0.9984 (1),1.6211 (1),0.6865 (1),1.0893 (1),- (-),3.6974 (1),
+807855,alexandraG,8000.3263 (2),10000.0000 (2),1.6313 (2),10000.0000 (2),10000.0000 (3),- (-),10000.0000 (2),
+805964,thanet.mar,8000.4681 (3),10000.0000 (2),10000.0000 (3),10000.0000 (2),2.3405 (2),- (-),10000.0000 (2),
+submission_pk,User,F1,CrossEntropy
+779657,oseibrefo,0.7227 (1),0.9984 (1),
+807855,alexandraG,0.0000 (2),10000.0000 (2),
+805964,thanet.mar,0.0000 (2),10000.0000 (2),
+submission_pk,User,F1,CrossEntropy
+807855,alexandraG,0.8203 (1),1.6313 (2),
+779657,oseibrefo,0.1091 (2),1.6211 (1),
+805964,thanet.mar,0.0000 (3),10000.0000 (3),
+submission_pk,User,F1,CrossEntropy
+779657,oseibrefo,0.5574 (1),0.6865 (1),
+807855,alexandraG,0.0000 (2),10000.0000 (2),
+805964,thanet.mar,0.0000 (2),10000.0000 (2),
+submission_pk,User,F1,CrossEntropy
+779657,oseibrefo,0.7581 (1),1.0893 (1),
+805964,thanet.mar,0.1142 (2),2.3405 (2),
+807855,alexandraG,0.0000 (3),10000.0000 (3),
+submission_pk,User,F1,CrossEntropy
+779657,oseibrefo,- (-),,
+805964,thanet.mar,- (-),,
+807855,alexandraG,- (-),,
+submission_pk,User,F1,CrossEntropy
+779657,oseibrefo,0.5131 (1),3.6974 (1),
+807855,alexandraG,0.0000 (2),10000.0000 (2),
+805964,thanet.mar,0.0000 (2),10000.0000 (2),

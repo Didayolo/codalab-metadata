@@ -1,0 +1,4 @@
+submission_pk,User,Accuracy (80% percentile),Accuracy (median),Accuracy (mean),Duration
+478057,fnand,0.9096 (1),0.8649 (1),0.8557 (1),0.00 (2),
+475747,vbelavin,0.8417 (2),0.7067 (2),0.7075 (2),0.00 (1),
+478443,coreyjadams,0.0000 (3),0.0000 (3),0.0000 (3),0.00 (3),

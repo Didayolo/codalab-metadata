@@ -1,0 +1,28 @@
+submission_pk,User,F1,P,R
+587067,UMCResearch,- (-),,,
+626076,kalyan0611nlp,- (-),,,
+579333,now_you_see,- (-),,,
+submission_pk,User,F1,P,R
+587067,UMCResearch,- (-),,,
+626076,kalyan0611nlp,- (-),,,
+579333,now_you_see,- (-),,,
+submission_pk,User,F1 relaxed,P relaxed,R relaxed,F strict,P strict,R strict
+587067,UMCResearch,- (-),,,,,,
+626076,kalyan0611nlp,- (-),,,,,,
+579333,now_you_see,- (-),,,,,,
+submission_pk,User,F1,P,R
+587067,UMCResearch,- (-),,,
+626076,kalyan0611nlp,- (-),,,
+579333,now_you_see,- (-),,,
+submission_pk,User,F1,P,R
+587067,UMCResearch,- (-),,,
+626076,kalyan0611nlp,- (-),,,
+579333,now_you_see,- (-),,,
+submission_pk,User,F1,P,R
+587067,UMCResearch,0.81 (1),0.7412 (1),0.8882 (1),
+626076,kalyan0611nlp,0.78 (2),0.7025 (2),0.8819 (2),
+579333,now_you_see,0.60 (3),0.5405 (3),0.6751 (3),
+submission_pk,User,F1,P,R
+587067,UMCResearch,- (-),,,
+626076,kalyan0611nlp,- (-),,,
+579333,now_you_see,- (-),,,

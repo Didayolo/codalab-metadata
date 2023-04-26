@@ -1,0 +1,4 @@
+submission_pk,User,With Generated Sentences,With Generated Sentences,With Generated Sentences,With Generated Sentences,With Generated Sentences,With Generated Sentences,With GT Sentences
+,F1_all,precision_all,recall_all,F1_loc,precision_loc,recall_loc,localization_accuracy
+532146,activitynet-entities,0.238 (1),0.342 (1),,,,,,,,
+532892,wadewest,0.238 (2),0.326 (2),,,,,,,,

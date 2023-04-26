@@ -1,0 +1,797 @@
+title; url; id; phases_id
+ChaLearn Looking at People 2014 - Track 2: Action Recognition; https://competitions.codalab.org/competitions/981; 981; 1561,1571
+ChaLearn Looking at People 2014 - Track 1: Human Pose Recovery; https://competitions.codalab.org/competitions/971; 971; 1541,1551
+ChaLearn Looking at People 2014 - Track 3: Gesture Recognition; https://competitions.codalab.org/competitions/991; 991; 1581,1591
+The MICCAI 2014 Machine Learning Challenge; https://competitions.codalab.org/competitions/1471; 1471; 2441
+ChaLearn Looking at People 2015 - Track 2: Action Recognition; https://competitions.codalab.org/competitions/2241; 2241; 4151,4161
+ChaLearn Looking at People 2015 - Track 4: Cultural Event Recognition; https://competitions.codalab.org/competitions/2611; 2611; 5571,5581
+ChaLearn Looking at People 2015 - Track 1: Human Pose Recovery; https://competitions.codalab.org/competitions/2231; 2231; 4131,4141
+Dialog State Tracking Challenge 4 (DSTC4); https://competitions.codalab.org/competitions/4971; 4971; 10351,10361
+Dialog State Tracking Challenge 4 (DSTC4) for Development Set; https://competitions.codalab.org/competitions/5941; 5941; 11921
+ChaLearn Looking at People 2015 - Track 1: Age Estimation; https://competitions.codalab.org/competitions/4711; 4711; 9731,9741
+ChaLearn Looking at People 2015 - Track 2: Cultural Event Recognition; https://competitions.codalab.org/competitions/4081; 4081; 9041,9051
+ChaLearn Looking at People 2016 - Track 1: Age Estimation; https://competitions.codalab.org/competitions/7511; 7511; 14851,14861
+NEWS 2016 (Non-standard Submissions); https://competitions.codalab.org/competitions/9021; 9021; 18441,18451,18461,18471,18481,18491,18501,18511,18521,18531,18541,18551,18561,18571
+NEWS 2016 (Standard Submissions); https://competitions.codalab.org/competitions/8991; 8991; 18021,18031,18041,18051,18061,18071,18081,18091,18101,18111,18121,18131,18141,18151
+VQA Abstract Scene Challenge (Multiple-Choice); https://competitions.codalab.org/competitions/6991; 6991; 14021,14031
+VQA Real Image Challenge (Open-Ended); https://competitions.codalab.org/competitions/6961; 6961; 13941,13951,13961
+VQA Real Image Challenge (Multiple-Choice); https://competitions.codalab.org/competitions/6971; 6971; 13971,13981,13991
+VQA Abstract Scene Challenge (Open-Ended); https://competitions.codalab.org/competitions/6981; 6981; 14001,14011
+ChaLearn Automatic Machine Learning Challenge (AutoML); https://competitions.codalab.org/competitions/2321; 2321; 4961,4971,4981,4991,5001,5011,5021,5031,5041,5051,5061,5071,5081,5091,5101
+ChaLearn LAP. Apparent Personality Analysis: First Impressions (first round); https://competitions.codalab.org/competitions/9181; 9181; 18691,18701
+Dialog State Tracking Challenge 5 (DSTC5); https://competitions.codalab.org/competitions/10851; 10851; 20961,20971
+3D Face Alignment in the Wild Challenge; https://competitions.codalab.org/competitions/10261; 10261; 19951,19961,26719
+ChaLearn LAP Large-scale Isolated Gesture Recognition Challenge; https://competitions.codalab.org/competitions/10331; 10331; 20051,20061
+ChaLearn LAP Large-scale Continuous Gesture Recognition Challenge; https://competitions.codalab.org/competitions/10341; 10341; 20071,20081
+ChaLearn LAP. Apparent Personality Analysis: First Impressions (second round); https://competitions.codalab.org/competitions/10751; 10751; 20801,20811
+Data Science Game 2016: Final; https://competitions.codalab.org/competitions/11711; 11711; 21941,21951
+Context of Experience Challenge; https://competitions.codalab.org/competitions/10581; 10581; 20521,20531
+SemEval-2017 Task 9 (parsing subtask): English Biomedical AMR parsing; https://competitions.codalab.org/competitions/15437; 15437; 26861,26862
+SemEval-2017 Task 9 (generation subtask): English News/Forum generation from AMR; https://competitions.codalab.org/competitions/15436; 15436; 26859,26860
+SemEval-2017 Task 4C Arabic, Sentiment Analysis in Twitter; https://competitions.codalab.org/competitions/15940; 15940; 27636,27637
+SemEval-2017 Task 4A English, Sentiment Analysis in Twitter; https://competitions.codalab.org/competitions/15885; 15885; 27544,27545
+SemEval-2017 Task 4A Arabic, Sentiment Analysis in Twitter; https://competitions.codalab.org/competitions/15887; 15887; 27548,27549
+SemEval-2017 Task 4E Arabic, Sentiment Analysis in Twitter; https://competitions.codalab.org/competitions/15968; 15968; 27674,27675
+SemEval-2017 Task 4C English, Sentiment Analysis in Twitter; https://competitions.codalab.org/competitions/15937; 15937; 27630,27631
+SemEval-2017 Task 4E English, Sentiment Analysis in Twitter; https://competitions.codalab.org/competitions/15939; 15939; 27634,27635
+SemEval-2017 Task 4B English, Sentiment Analysis in Twitter; https://competitions.codalab.org/competitions/15888; 15888; 27550,27551
+SemEval-2017 Task 4B Arabic, Sentiment Analysis in Twitter; https://competitions.codalab.org/competitions/15889; 15889; 27552,27553
+SemEval-2017 Task 4D Arabic, Sentiment Analysis in Twitter; https://competitions.codalab.org/competitions/15967; 15967; 27672,27673
+SemEval-2017 Task 4D English, Sentiment Analysis in Twitter; https://competitions.codalab.org/competitions/15938; 15938; 27632,27633
+SemEval-2017 Task 6: #HashtagWars Learning a Sense of Humor - Subtask B; https://competitions.codalab.org/competitions/15689; 15689; 27253,27254
+SemEval-2017 Task 6: #HashtagWars Learning a Sense of Humor - Subtask A; https://competitions.codalab.org/competitions/15682; 15682; 27233,27234
+SemEval-2017 Task 2 Subtask 1, Multilingual Word Similarity; https://competitions.codalab.org/competitions/15961; 15961; 27667
+SemEval-2017 Task 2 Subtask 2, Cross-lingual Word Similarity; https://competitions.codalab.org/competitions/15962; 15962; 27668
+SemEval-2017 Task 3 Subtask C; https://competitions.codalab.org/competitions/15636; 15636; 27141,27142
+SemEval-2017 Task 3 Subtask A; https://competitions.codalab.org/competitions/15632; 15632; 27133,27134
+SemEval-2017 Task 3 Subtask D; https://competitions.codalab.org/competitions/15637; 15637; 27143,27144
+SemEval-2017 Task 3 Subtask B; https://competitions.codalab.org/competitions/15635; 15635; 27139,27140
+SemEval 2017 Task 10 ScienceIE; https://competitions.codalab.org/competitions/15898; 15898; 27570,27571
+RumourEval-2017, subtask A; https://competitions.codalab.org/competitions/16171; 16171; 27929,27930
+RumourEval-2017, subtask B (closed); https://competitions.codalab.org/competitions/16173; 16173; 27933,27934
+SemEval-2017 Task 1: Semantic Textual Similarity; https://competitions.codalab.org/competitions/16051; 16051; 28084,27789,28006
+Head pose challenge; https://competitions.codalab.org/competitions/15972; 15972; 27682,27683
+ChaLearn Looking at People - Job Candidate Screening Coopetition; https://competitions.codalab.org/competitions/15975; 15975; 27688,27689,28090,28092
+NTIRE 2017 Super-Resolution Challenge - Track 2: Unknown downscaling - x3; https://competitions.codalab.org/competitions/16307; 16307; 28145,28146
+NTIRE 2017 Super-Resolution Challenge - Track 1: Bicubic downscaling - x4; https://competitions.codalab.org/competitions/16305; 16305; 28141,28142
+NTIRE 2017 Super-Resolution Challenge - Track 1: Bicubic downscaling - x2; https://competitions.codalab.org/competitions/16303; 16303; 28137,28138
+NTIRE 2017 Super-Resolution Challenge - Track 2: Unknown downscaling - x2; https://competitions.codalab.org/competitions/16306; 16306; 28143,28144
+NTIRE 2017 Super-Resolution Challenge - Track 1: Bicubic downscaling - x3; https://competitions.codalab.org/competitions/16304; 16304; 28139,28140
+NTIRE 2017 Super-Resolution Challenge - Track 2: Unknown downscaling - x4; https://competitions.codalab.org/competitions/16308; 16308; 28147,28148
+MediaEval 2016 Context of Experience Task; https://competitions.codalab.org/competitions/11191; 11191; 21611,21621
+Hackathon JCDecaux; https://competitions.codalab.org/competitions/16816; 16816; 28877,28878
+Syngenta AI Challenge - Harness data to help feed our rising population; https://competitions.codalab.org/competitions/16194; 16194; 27965,27966,27967,27968
+Fake News Challenge Stage 1 (FNC-I) - Stance Detection; https://competitions.codalab.org/competitions/16843; 16843; 28907,28908
+ChaLearn LAP Real Versus Fake Expressed Emotion Challenge @ICCV 2017 ; https://competitions.codalab.org/competitions/16611; 16611; 28589,28590
+ChaLearn LAP Large-scale Continuous Gesture Recognition Challenge (Round 2) @ICCV 2017; https://competitions.codalab.org/competitions/16499; 16499; 28457,28458
+ChaLearn LAP Large-scale Isolated Gesture Recognition Challenge (Round 2) @ICCV 2017; https://competitions.codalab.org/competitions/16491; 16491; 28449,28450
+Textbook Question Answering - CVPR 2017 Workshop; https://competitions.codalab.org/competitions/16931; 16931; 29080,29081
+THOR Challenge - CVPR 2017 Workshop; https://competitions.codalab.org/competitions/16929; 16929; 29078,29079
+Charades Challenge - CVPR 2017 Workshop; https://competitions.codalab.org/competitions/16932; 16932; 29082,29083
+CIKM AnalytiCup 2017: Lazada Product Title Quality Challenge; https://competitions.codalab.org/competitions/16652; 16652; 28642,28643
+RedICA Text-Image Matching (RICATIM) Challenge; https://competitions.codalab.org/competitions/17120; 17120; 29451,29452
+Large-Scale Video Classification Challenge; https://competitions.codalab.org/competitions/17332; 17332; 30036,30037
+COCO Detection Challenge (Bounding Box); https://competitions.codalab.org/competitions/20794; 20794; 35160,35161,35213
+The Large Scale Movie Description Challenge (LSMDC) 2017 : Movie Description; https://competitions.codalab.org/competitions/6121; 6121; 12221,12231
+UH COSC 7336 - Author Profiling; https://competitions.codalab.org/competitions/17449; 17449; 30294,30295
+2017 Visual Domain Adaptation (VisDA2017) Classification Challenge ; https://competitions.codalab.org/competitions/17052; 17052; 29361,29362
+COSC7336 - Text Summarizations; https://competitions.codalab.org/competitions/17545; 17545; 30517,30518
+COSC7336 - Community Question & Answering; https://competitions.codalab.org/competitions/17581; 17581; 30568
+SemEval-2018 task 3 - Irony detection in English tweets; https://competitions.codalab.org/competitions/17468; 17468; 30351,30352,30353,30354,30355
+Metaphor Shared Task; https://competitions.codalab.org/competitions/17805; 17805; 30935,30936
+2018 Duolingo Shared Task on Second Language Acquisition Modeling (SLAM); https://competitions.codalab.org/competitions/18491; 18491; 31656,31657
+NTIRE 2018 Image Dehazing Challenge - Track 2: Outdoor; https://competitions.codalab.org/competitions/18047; 18047; 31010,31011
+NTIRE 2018 Super-Resolution Challenge - Track 1: Classic Bicubic - x8; https://competitions.codalab.org/competitions/18015; 18015; 30964,30965
+NTIRE 2018 Image Dehazing Challenge - Track 1: Indoor; https://competitions.codalab.org/competitions/18046; 18046; 31008,31009
+NTIRE 2018 Super-Resolution Challenge - Track 3: Realistic difficult - x4; https://competitions.codalab.org/competitions/18025; 18025; 30981,30983
+NTIRE 2018 Spectral Reconstruction Challenge - Track 1: Clean; https://competitions.codalab.org/competitions/18034; 18034; 30988,30989
+NTIRE 2018 Super-Resolution Challenge - Track 2: Realistic mild - x4; https://competitions.codalab.org/competitions/18024; 18024; 30980,30982
+NTIRE 2018 Spectral Reconstruction Challenge - Track 2: Real World; https://competitions.codalab.org/competitions/18033; 18033; 30986,30987
+NTIRE 2018 Super-Resolution Challenge - Track 4: Realistic wild - x4; https://competitions.codalab.org/competitions/18026; 18026; 30984,30985
+CALCS 2018 [ENG-SPA] - Named Entity Recognition on Code-switched Data ; https://competitions.codalab.org/competitions/18725; 18725; 31838,32205
+CALCS 2018 [MSA-EGY] - Named Entity Recognition on Code-switched Data ; https://competitions.codalab.org/competitions/18724; 18724; 31837,32204
+DeepGlobe Road Extraction Challenge; https://competitions.codalab.org/competitions/18467; 18467; 31633,32231,32229,33606
+DeepGlobe Building Extraction Challenge; https://competitions.codalab.org/competitions/18544; 18544; 31669,31670
+DeepGlobe Land Cover Classification Challenge; https://competitions.codalab.org/competitions/18468; 18468; 31635,32233
+NEWS 2018 (Standard Submissions); https://competitions.codalab.org/competitions/18905; 18905; 32197,32196,32195,32194,32192,32191,32186,32185,32182,32181,32187,32190,32193,32189,32198,32199,32188,32183,32184
+The DAVIS Challenge on Video Object Segmentation @ CVPR 2018; https://competitions.codalab.org/competitions/16526; 16526; 28503,28502,31467
+eHealth KD @TASS18; https://competitions.codalab.org/competitions/18188; 18188; 31211,31212,31213
+WebVision Challenge 2018; https://competitions.codalab.org/competitions/18622; 18622; 31727,31728
+MCS 2018. Adversarial Attacks on Black Box Face Recognition; https://competitions.codalab.org/competitions/19090; 19090; 32479,32480
+HWxPI Handwritten texts for Personality Identification; https://competitions.codalab.org/competitions/18362; 18362; 31490,31491
+WIDER Face & Pedestrain Challenge - Track 1: Face Detection; https://competitions.codalab.org/competitions/19053; 19053; 32434,32435
+WIDER Face & Pedestrain Challenge - Track 3: Person Search; https://competitions.codalab.org/competitions/19055; 19055; 32438,32439
+WIDER Face & Pedestrain Challenge - Track 2: Pedestrian Detection; https://competitions.codalab.org/competitions/19118; 19118; 32505,32506
+Chalearn LAP Inpainting Competition Track 2 - Video decaptioning; https://competitions.codalab.org/competitions/18421; 18421; 31557,31558
+Chalearn LAP Inpainting Competition Track 1 - Inpainting of still images; https://competitions.codalab.org/competitions/18423; 18423; 31561,31562
+Chalearn LAP Inpainting Competition Track 3 - Fingerprint Denoising and Inpainting; https://competitions.codalab.org/competitions/18426; 18426; 31567,31568
+Animal Behavior Challenge (ABC2018) for understanding animal behavior; https://competitions.codalab.org/competitions/16283; 16283; 28099,28100
+PIRM 2018 Spectral Image Super-Resolution Challenge- Track 1; https://competitions.codalab.org/competitions/19226; 19226; 32672,32673,32674
+PIRM 2018 Spectral Image Super-Resolution Challenge- Track 2 Colour Guidance; https://competitions.codalab.org/competitions/19227; 19227; 32675,32676,32677
+COCO 2018 DensePose Challenge; https://competitions.codalab.org/competitions/19636; 19636; 33467,33468
+COCO Detection Challenge (deprecated); https://competitions.codalab.org/competitions/5181; 5181; 10971,14301,14341,14351,30178,30179
+ECCV 2018 PoseTrack DensePose Challenge; https://competitions.codalab.org/competitions/19650; 19650; 33493,33494
+2018 Visual Domain Adaptation (VisDA2018) Detection Challenge; https://competitions.codalab.org/competitions/18892; 18892; 32149,32150
+2018 Visual Domain Adaptation (VisDA2018) Open-Set Classification Challenge; https://competitions.codalab.org/competitions/19113; 19113; 32497,32498
+The 1st Large-scale Video Object Segmentation Challenge; https://competitions.codalab.org/competitions/19544; 19544; 33352,33353
+Telenav MapAI Contest; https://competitions.codalab.org/competitions/19024; 19024; 32384
+Human Behavior Challenge (HBC2018) for understanding human behavior; https://competitions.codalab.org/competitions/17401; 17401; 30176,30177
+WASSA 2018 Implicit Emotion Shared Task; https://competitions.codalab.org/competitions/19214; 19214; 32650,32651,32652
+AutoML3 ::  AutoML for Lifelong Machine Learning; https://competitions.codalab.org/competitions/19836; 19836; 33760,33761
+SemEval 2019 Task 9 - SubTask A - Suggestion Mining from Online Reviews and Forums; https://competitions.codalab.org/competitions/19955; 19955; 33995,33996
+MLCAS 2019 Challenge - Sorghum head detection; https://competitions.codalab.org/competitions/20130; 20130; 34270
+WIDER Face & Person Challenge 2019 - Track 3: Cast Search by Portrait; https://competitions.codalab.org/competitions/20140; 20140; 34291,34292
+WIDER Face & Person Challenge 2019 - Track 4: Person Search by Language; https://competitions.codalab.org/competitions/20142; 20142; 34295,34296
+WIDER Face & Person Challenge 2019 - Track 2: Pedestrian Detection; https://competitions.codalab.org/competitions/20132; 20132; 34275,34276
+WIDER Face & Person Challenge 2019 - Track 1: Face Detection; https://competitions.codalab.org/competitions/20146; 20146; 34306,34307,34308
+Quantification of tumor heterogeneity; https://competitions.codalab.org/competitions/20369; 20369; 34632
+The 2nd Large-scale Video Object Segmentation Challenge - Track 2: Video Instance Segmentation; https://competitions.codalab.org/competitions/20128; 20128; 34265,34266
+The 2nd Large-scale Video Object Segmentation Challenge - Track 1: Video Object Segmentation; https://competitions.codalab.org/competitions/20127; 20127; 34262,34264
+2019 PRMU challenge on old Japanese character recognition; https://competitions.codalab.org/competitions/20388; 20388; 34669,34670
+AIM 2019 RAW to RGB Mapping Challenge - Track 2: Perceptual; https://competitions.codalab.org/competitions/20159; 20159; 34327,34328
+AIM 2019 Bokeh Effect Challenge - Track 1: Fidelity; https://competitions.codalab.org/competitions/20156; 20156; 34321,34322
+AIM 2019 Extreme Super-Resolution Challenge - Track 1: Fidelity; https://competitions.codalab.org/competitions/20235; 20235; 34475,34476
+AIM 2019 Bokeh Effect Challenge - Track 2: Perceptual; https://competitions.codalab.org/competitions/20157; 20157; 34323,34324
+AIM 2019 Constrained Super-Resolution Challenge - Track 2: Inference optimization; https://competitions.codalab.org/competitions/20168; 20168; 34341,34342
+AIM 2019 Real World Super-Resolution Challenge - Track 2: Target domain; https://competitions.codalab.org/competitions/20164; 20164; 34333,34334
+AIM 2019 Real World Super-Resolution Challenge - Track 1: Source domain; https://competitions.codalab.org/competitions/20163; 20163; 34331,34332
+AIM 2019 RAW to RGB Mapping Challenge - Track 1: Fidelity; https://competitions.codalab.org/competitions/20158; 20158; 34325,34326
+AIM 2019 Constrained Super-Resolution Challenge - Track 3: Fidelity optimization; https://competitions.codalab.org/competitions/20169; 20169; 34343,34344
+AIM 2019 Video Extreme Super-Resolution Challenge - Track 2: Perceptual; https://competitions.codalab.org/competitions/20249; 20249; 34495,34496
+AIM 2019 Video Extreme Super-Resolution Challenge - Track 1: Fidelity; https://competitions.codalab.org/competitions/20248; 20248; 34493,34494
+AIM 2019 Video Temporal Super-Resolution Challenge; https://competitions.codalab.org/competitions/20244; 20244; 34486,34487
+AIM 2019 Constrained Super-Resolution Challenge - Track 1: Parameters optimization; https://competitions.codalab.org/competitions/20167; 20167; 34339,34340
+AIM 2019 Extreme Super-Resolution Challenge - Track 2: Perceptual; https://competitions.codalab.org/competitions/20236; 20236; 34477,34478
+VisDA2019: Multi-Source Domain Adaptation Challenge; https://competitions.codalab.org/competitions/20256; 20256; 34497,34498
+VisDA2019: Semi-Supervised Domain Adaptation Challenge; https://competitions.codalab.org/competitions/20257; 20257; 34499,34500
+VATEX Captioning Challenge 2019 - Multilingual Video Captioning; https://competitions.codalab.org/competitions/20696; 20696; 35049,35048,35051,35050
+DSTC 8: End-to-End Multi-Domain Dialog Challenge Track - Task 1; https://competitions.codalab.org/competitions/20162; 20162; 34329,34330
+IROS 2019 Lifelong Robotic Vision Challenge: Lifelong SLAM; https://competitions.codalab.org/competitions/21505; 21505; 36152
+DSTC 8: End-to-End Multi-Domain Track - Task 2 - Fast Adaptation; https://competitions.codalab.org/competitions/20152; 20152; 34319,34320
+IROS 2019 Lifelong Robotic Vision Challenge: Lifelong SLAM Final Round; https://competitions.codalab.org/competitions/21504; 21504; 36151
+2019 Untapped Energy reCLAIM Data Competition: Classification Challenge; https://competitions.codalab.org/competitions/21522; 21522; 36181
+2019 Untapped Energy reCLAIM Data Competition: Regression Challenge; https://competitions.codalab.org/competitions/21523; 21523; 36182
+UCSB CS165B Fall19 HW3; https://competitions.codalab.org/competitions/21713; 21713; 36432
+UCSB CS165B Fall19 HW3 Late Submission; https://competitions.codalab.org/competitions/21891; 21891; 36759
+Health Data Challenge 2019; https://competitions.codalab.org/competitions/21949; 21949; 36861,36862,36863
+RecoGym Challenge; https://competitions.codalab.org/competitions/21546; 21546; 36209,36210
+Competicio Xarxes Neurals, UAB 2019; https://competitions.codalab.org/competitions/19711; 19711; 33581
+viewpoint_mining_of_comments_on_e-commerce; https://competitions.codalab.org/competitions/21751; 21751; 36489,36490,36491
+DriveML Huawei Autonomous Vehicles Challenge; https://competitions.codalab.org/competitions/21639; 21639; 36352,36353,36608
+ChaLearn Looking at People: Identity-preserved Human Detection (Track 3: Depth-Thermal fusion); https://competitions.codalab.org/competitions/21928; 21928; 36831,36832
+ChaLearn Looking at People: Identity-preserved Human Detection (Track 2: Thermal); https://competitions.codalab.org/competitions/21927; 21927; 36829,36830
+ChaLearn Looking at People: Identity-preserved Human Detection (Track 1: Depth); https://competitions.codalab.org/competitions/21926; 21926; 36827,36828
+Fake Life Recognition Contest; https://competitions.codalab.org/competitions/20612; 20612; 34955
+OSACT4 Shared Task on Offensive Language Detection (Subtask B); https://competitions.codalab.org/competitions/22826; 22826; 38246,38247
+OSACT4 Shared Task on Offensive Language Detection (Subtask A); https://competitions.codalab.org/competitions/22825; 22825; 38244,38245
+GramEval-2020; https://competitions.codalab.org/competitions/22902; 22902; 38297,38298
+Chalearn Multi-modal Cross-ethnicity Face anti-spoofing Recognition Challenge@CVPR2020; https://competitions.codalab.org/competitions/22036; 22036; 36929,37000
+Chalearn Multi-modal Cross-ethnicity Face anti-spoofing Recognition Challenge@CVPR2020（Phase2）; https://competitions.codalab.org/competitions/23318; 23318; 38844,38845
+Chalearn Single-modal (RGB) Cross-ethnicity Face anti-spoofing Recognition Challenge@CVPR2020; https://competitions.codalab.org/competitions/22151; 22151; 37095,37096
+OffensEval 2020 - Greek; https://competitions.codalab.org/competitions/23258; 23258; 38802
+OffensEval 2020 - Turkish; https://competitions.codalab.org/competitions/23020; 23020; 38506
+OffensEval 2020 - Danish; https://competitions.codalab.org/competitions/22998; 22998; 38475
+OffensEval 2020 - Arabic; https://competitions.codalab.org/competitions/23021; 23021; 38507
+CVPM2020 challenge: The 1st Challenge on Remote Physiological Signal Sensing (RePSS) ; https://competitions.codalab.org/competitions/22287; 22287; 37553
+RuREBus_v2; https://competitions.codalab.org/competitions/23407; 23407; 38943,38944
+Multimodal (Audio, Facial and Gesture) based Emotion Recognition challenge; https://competitions.codalab.org/competitions/20224; 20224; 36506,34438,34440
+Compound Emotion challenge; https://competitions.codalab.org/competitions/21777; 21777; 36513,36516
+Emotion challenge; https://competitions.codalab.org/competitions/15971; 15971; 27680,27681
+Sentimix Spanglish ; https://competitions.codalab.org/competitions/20789; 20789; 35157
+NTIRE 2020 Spectral Reconstruction Challenge - Track 2: Real World; https://competitions.codalab.org/competitions/22226; 22226; 37254,37255
+NTIRE 2020 Real Image Denoising Challenge - Track 1 - rawRGB; https://competitions.codalab.org/competitions/22230; 22230; 37262,37263
+NTIRE 2020 Video Deblurring Challenge - Track 3 Video; https://competitions.codalab.org/competitions/22235; 22235; 37272,37273
+NTIRE 2020 NonHomogeneous Dehazing Challenge; https://competitions.codalab.org/competitions/22236; 22236; 37274,37275
+NTIRE 2020 Image Deblurring Challenge - Track 1 on Desktop; https://competitions.codalab.org/competitions/22233; 22233; 37268,37269
+NTIRE 2020 Demoireing Challenge - Track 1: Single image; https://competitions.codalab.org/competitions/22223; 22223; 37248,37249
+NTIRE 2020 Demoireing Challenge - Track 2: Burst; https://competitions.codalab.org/competitions/22224; 22224; 37250,37251
+NTIRE 2020 Image Deblurring Challenge - Track 2 on Smartphone; https://competitions.codalab.org/competitions/22234; 22234; 37270,37271
+NTIRE 2020 Perceptual Extreme Super-Resolution Challenge; https://competitions.codalab.org/competitions/22217; 22217; 37236,37238
+NTIRE 2020 Real Image Denoising Challenge - Track 2 - sRGB; https://competitions.codalab.org/competitions/22231; 22231; 37264,37265
+NTIRE 2020 Video Quality Mapping - Track 1: Supervised; https://competitions.codalab.org/competitions/20247; 20247; 34491,34492
+NTIRE 2020 Spectral Reconstruction Challenge - Track 1: Clean; https://competitions.codalab.org/competitions/22225; 22225; 37252,37253
+NTIRE 2020 Real World Super-Resolution Challenge - Track 2: Smartphone Images; https://competitions.codalab.org/competitions/22221; 22221; 37244,37245
+NTIRE 2020 Real World Super-Resolution Challenge - Track 1: Image Processing artifacts; https://competitions.codalab.org/competitions/22220; 22220; 37242,37243
+OffensEval 2020 - English - Evaluation Phase ; https://competitions.codalab.org/competitions/23285; 23285; 38829,38830,38831
+AutoML 2018 challenge :: PAKDD2018; https://competitions.codalab.org/competitions/17767; 17767; 30782,30783
+DeepFashion2 Challenge 2020 - Track 2 Clothes Retrieval; https://competitions.codalab.org/competitions/22967; 22967; 38384,38385
+DeepFashion2 Challenge 2020 - Track 1 Clothes Landmark Estimation; https://competitions.codalab.org/competitions/22966; 22966; 38382,38383
+2020 Duolingo Shared Task on Simultaneous Translation And Paraphrase for Language Education (STAPLE); https://competitions.codalab.org/competitions/23643; 23643; 39277,39278
+The Shared Task on Sarcasm Detection; https://competitions.codalab.org/competitions/22247; 22247; 37277,37278
+The Second Shared Task on Metaphor Detection; https://competitions.codalab.org/competitions/22188; 22188; 37187,37188,37189,37190
+Interspeech Shared Task: Automatic Speech Recognition for Non-Native Children’s Speech; https://competitions.codalab.org/competitions/23672; 23672; 39365,39366
+CLVision challenge; https://competitions.codalab.org/competitions/23317; 23317; 38837,40695,40696
+eHealth KD @ IberLEF 2020; https://competitions.codalab.org/competitions/23454; 23454; 38997,38998
+COMP90042-2020 Project 1: Climate Change Misinformation Detection; https://competitions.codalab.org/competitions/24205; 24205; 40178,40179
+The Semi-Supervised DAVIS Challenge on Video Object Segmentation @ CVPR 2020; https://competitions.codalab.org/competitions/20516; 20516; 34812,34813
+The Unsupervised DAVIS Challenge on Video Object Segmentation @ CVPR 2020; https://competitions.codalab.org/competitions/20515; 20515; 34808,34811
+[Deprecated, check description] CVPR 2020 BDD100K Multiple Object Tracking Challenge; https://competitions.codalab.org/competitions/24492; 24492; 40601,40603
+CAPITEL-EVAL 2020 - NERC ; https://competitions.codalab.org/competitions/23011; 23011; 38492
+CAPITEL-EVAL 2020 - UD; https://competitions.codalab.org/competitions/23178; 23178; 38718
+Fashion IQ Challenge 2020; https://competitions.codalab.org/competitions/22946; 22946; 38357,38358
+EPIC-KITCHENS-55 Action Recognition; https://competitions.codalab.org/competitions/20115; 20115; 34253
+EPIC-Kitchens-55 Action Anticipation; https://competitions.codalab.org/competitions/20071; 20071; 34188
+OpenKBP - 2020 AAPM Grand Challenge; https://competitions.codalab.org/competitions/23428; 23428; 38960,38961
+YouMakeup VQA Challenge; https://competitions.codalab.org/competitions/24108; 24108; 40001,40002,40003,40004
+HACS Temporal Action Localization Challenge - Supervised Learning Track; https://competitions.codalab.org/competitions/24433; 24433; 40524
+NightOwls Detetection Challenge 2020; https://competitions.codalab.org/competitions/24781; 24781; 40945,40946
+HACS Temporal Action Localization Challenge - Weakly-supervised Learning Track; https://competitions.codalab.org/competitions/24434; 24434; 40525
+BDD100K Multiple Object Tracking Challenge; https://competitions.codalab.org/competitions/24910; 24910; 41080,41081
+Real-time distortion classification in laparoscopic videos; https://competitions.codalab.org/competitions/25104; 25104; 41349,41350
+FACT@IberLEF2020; https://competitions.codalab.org/competitions/23717; 23717; 39461
+Fincausal 2020; https://competitions.codalab.org/competitions/23748; 23748; 39504,39505,39506,39507,39508,39509
+Learning to Run a Power Network; https://competitions.codalab.org/competitions/20767; 20767; 35102,35104
+ECCV 2020 ChaLearn Looking at People Fair Face Recognition challenge; https://competitions.codalab.org/competitions/24184; 24184; 40139,40140
+2020 VIPriors Image Classification Challenge; https://competitions.codalab.org/competitions/23713; 23713; 39456,39457
+2020 VIPriors Action Recognition Challenge; https://competitions.codalab.org/competitions/23706; 23706; 39439,39440
+2020 VIPriors Object Detection Challenge; https://competitions.codalab.org/competitions/23661; 23661; 39358,39359
+2020 VIPriors Semantic Segmentation Challenge; https://competitions.codalab.org/competitions/23712; 23712; 39454,39455
+AIM 2020 Efficient Super-Resolution Challenge; https://competitions.codalab.org/competitions/24684; 24684; 40821,40822
+AIM 2020 Image Extreme Inpainting Challenge Track 2 Semantic Guidance; https://competitions.codalab.org/competitions/24676; 24676; 40807,40808
+AIM 2020 Video Extreme Super-Resolution Challenge - Track 1: Fidelity; https://competitions.codalab.org/competitions/24685; 24685; 40823,40824
+AIM 2020 Real Image Super-Resolution Challenge - Track 1 Upscaling x2; https://competitions.codalab.org/competitions/24680; 24680; 40813,40814
+AIM 2020 Relighting Challenge Track 2: Illumination settings estimation; https://competitions.codalab.org/competitions/24773; 24773; 40930,40931
+AIM 2020 Relighting Challenge Track 3: Any-to-any relighting; https://competitions.codalab.org/competitions/24674; 24674; 40803,40804
+AIM 2020 Learned Smartphone ISP Challenge - Track 2: Perceptual; https://competitions.codalab.org/competitions/24719; 24719; 40867,40868
+AIM 2020 Image Extreme Inpainting Challenge Track 1 Classic Inpainting; https://competitions.codalab.org/competitions/24675; 24675; 40805,40806
+AIM 2020 Real Image Super-Resolution Challenge - Track 2 Upscaling x3; https://competitions.codalab.org/competitions/24681; 24681; 40815,40816
+AIM 2020 Real Image Super-Resolution Challenge - Track 3 Upscaling x4; https://competitions.codalab.org/competitions/24682; 24682; 40817,40818
+AIM 2020 Relighting Challenge Track 1: One-to-one relighting; https://competitions.codalab.org/competitions/24671; 24671; 40798,40799
+AIM 2020 Video Temporal Super-Resolution Challenge; https://competitions.codalab.org/competitions/24584; 24584; 40691,40692
+AIM 2020 Learned Smartphone ISP Challenge - Track 1: Fidelity; https://competitions.codalab.org/competitions/24718; 24718; 40865,40866
+AIM 2020 Video Extreme Super-Resolution Challenge - Track 2: Perceptual; https://competitions.codalab.org/competitions/24686; 24686; 40825,40826
+AIM 2020 Rendering Realistic Bokeh Challenge - Track 1: on CPU; https://competitions.codalab.org/competitions/24716; 24716; 40861,40862
+AIM 2020 Rendering Realistic Bokeh Challenge - Track 2: on smartphone GPU; https://competitions.codalab.org/competitions/24717; 24717; 40863,40864
+ECCV Challenge on Image Restoration for Under-display Camera - Track 2 - P-OLED; https://competitions.codalab.org/competitions/24293; 24293; 40284,40288
+ECCV Challenge on Image Restoration for Under-display Camera - Track 1 - T-OLED; https://competitions.codalab.org/competitions/24275; 24275; 40244,40245
+VisDA 2020: Domain Adaptive Pedestrian Re-identification; https://competitions.codalab.org/competitions/24664; 24664; 40790,40791
+1st Tiny Object Detection Challenge; https://competitions.codalab.org/competitions/24551; 24551; 40663
+Holistic 3D Vision Challenge - Structured3D General Room Layout Estimation Track @ ECCV 2020; https://competitions.codalab.org/competitions/24183; 24183; 40136,40137
+ACRV Probabilistic Object Detection (PrOD) Challenge ECCV 2020; https://competitions.codalab.org/competitions/20597; 20597; 34932
+COCO Keypoint Challenge; https://competitions.codalab.org/competitions/12061; 12061; 30196,22541,23041
+COCO Detection Challenge (Segmentation Mask); https://competitions.codalab.org/competitions/20796; 20796; 35164,35165,35166
+COCO Panoptic Segmentation Challenge; https://competitions.codalab.org/competitions/19507; 19507; 33278,33279,33280,33281
+COCO 2020 DensePose Challenge; https://competitions.codalab.org/competitions/20660; 20660; 34987,34988
+RVC Challenge: COCO Detection (Bounding Box); https://competitions.codalab.org/competitions/25334; 25334; 41624,41625,41626
+WNUT-2020 Task 2: Identification of informative COVID-19 English Tweets; https://competitions.codalab.org/competitions/25845; 25845; 42527,42528
+COVID-19 Retweet Prediction Challenge; https://competitions.codalab.org/competitions/25276; 25276; 41568,41569
+Mouse Behavior Challenge MBC2020; https://competitions.codalab.org/competitions/22266; 22266; 37291,37292
+Basketball Behavior Challenge BBC2020; https://competitions.codalab.org/competitions/23905; 23905; 39745,39746
+HASOC 2020 (FIRE 2020); https://competitions.codalab.org/competitions/26027; 26027; 42777,42778,42779,42780,42781,42782
+The 4th Look Into Person (LIP) Challenge - Track 4 Video Virtual Try-on Challenge; https://competitions.codalab.org/competitions/23472; 23472; 39014
+Fake News classicifation; https://competitions.codalab.org/competitions/26284; 26284; 43202
+NeurIPS 2021 BEETL Competition - Benchmarks for EEG Transfer Learning; https://competitions.codalab.org/competitions/33427; 33427; 53843,53845,53848,53849
+ML 2020 Competition; https://competitions.codalab.org/competitions/26282; 26282; 43200,43201
+CIKM Cup 2016 Track 1: Cross-Device Entity Linking Challenge; https://competitions.codalab.org/competitions/11171; 11171; 21561,21571
+CIKM Cup 2016 Track 2: Personalized E-Commerce Search Challenge; https://competitions.codalab.org/competitions/11161; 11161; 21541,21551
+DSTC9 - Multi-Domain Task-Completion Dialog Challenge II; https://competitions.codalab.org/competitions/24330; 24330; 40342,40344,42927
+Exoplanet imaging data challenge; https://competitions.codalab.org/competitions/20693; 20693; 35045,35046
+MAFAT Radar Challenge - Can you distinguish between humans and animals in radar tracks? ; https://competitions.codalab.org/competitions/25389; 25389; 41716,41717
+Diagnostic Questions - The NeurIPS 2020 Education Challenge; https://competitions.codalab.org/competitions/25449; 25449; 41814,41815,41816,41817,41818,41819,41820,41821
+TC4 Competition and Workshop on Human Identification at a Distance 2020 (HID2020); https://competitions.codalab.org/competitions/26085; 26085; 42929,42930
+COMP3340 Assignment 1 -- MLP for MNIST Handwritten Digit Classification; https://competitions.codalab.org/competitions/27022; 27022; 44529
+CelebA-Spoof: Face Anti-Spoofing Challenge ECCV@2020; https://competitions.codalab.org/competitions/26210; 26210; 43097
+DeeperForensics Challenge 2020 @ ECCV SenseHuman Workshop; https://competitions.codalab.org/competitions/25228; 25228; 41508,41509
+Predicting Generalization in Deep Learning; https://competitions.codalab.org/competitions/25301; 25301; 41577,41578
+the anomalous diffusion challenge; https://competitions.codalab.org/competitions/23601; 23601; 39224,39225,39226
+Process Discovery Algorithm Challenge 2020; https://competitions.codalab.org/competitions/26953; 26953; 44400,44401
+NeurIPS 2020 Hide-and-Seek Privacy Challenge; https://competitions.codalab.org/competitions/25312; 25312; 41603,41604
+SDU@AAAI-21 - Shared Task 1, Acronym Identification; https://competitions.codalab.org/competitions/26609; 26609; 43771,43772
+SDU@AAAI-21 - Shared Task 2, Acronym Disambiguation; https://competitions.codalab.org/competitions/26611; 26611; 43774,43775
+MetaDL Challenge; https://competitions.codalab.org/competitions/26638; 26638; 43874,43875
+ML 2020 Competition; https://competitions.codalab.org/competitions/27549; 27549; 45405,45406
+L2RPN WCCI 2020 Competition; https://competitions.codalab.org/competitions/24902; 24902; 41068,41069
+HITNLP2020-英文命名实体识别'; https://competitions.codalab.org/competitions/27723; 27723; 45602
+Short-duration Speaker Verification (SdSV) Challenge 2020 - Task 2 : Text-Independent; https://competitions.codalab.org/competitions/22472; 22472; 37709,37710
+Short-duration Speaker Verification (SdSV) Challenge 2020 - Task 1 : Text-Dependent; https://competitions.codalab.org/competitions/22393; 22393; 37668,37670
+Dravidian-CodeMix - FIRE 2020; https://competitions.codalab.org/competitions/25215; 25215; 42419
+Hope Speech Detection for Equality, Diversity, and Inclusion-EACL 2021; https://competitions.codalab.org/competitions/27653; 27653; 45574
+Offensive Language Identification in Dravidian Languages-EACL 2021 ; https://competitions.codalab.org/competitions/27654; 27654; 45530
+Mobile-Captured Image Document Recognition for Vietnamese Receipts (MC-OCR); https://competitions.codalab.org/competitions/27798; 27798; 45752,45753,45754
+SemEval Task 9: Statement Verification and Evidence Finding with Tables (SEM-TAB-FACT); https://competitions.codalab.org/competitions/27748; 27748; 45642,45643,45644
+ACRE Dry-Run Cascade Competition; https://competitions.codalab.org/competitions/27176; 27176; 44862,44863,44972
+SemEval 2021 Task 5: Toxic Spans Detection; https://competitions.codalab.org/competitions/25623; 25623; 42115,42116,42117
+SemEval-2021 Task 4: Reading Comprehension of Abstract Meaning; https://competitions.codalab.org/competitions/26153; 26153; 43041,43042,43043
+FOLT 2020/21 Shared Task; https://competitions.codalab.org/competitions/28091; 28091; 46155,46156
+Shared Task on Sarcasm and Sentiment Detection in Arabic (Subtask 2 - Sentiment Analysis); https://competitions.codalab.org/competitions/28002; 28002; 46047,46048
+Shared Task on Sarcasm and Sentiment Detection in Arabic (Subtask 1 - Sarcasm Detection); https://competitions.codalab.org/competitions/28003; 28003; 46049,46050
+DECONbench Benchmarking platform for deconvolution methods for tumor heterogeneity quantification; https://competitions.codalab.org/competitions/27453; 27453; 45307
+// DECONbench Benchmarking platform for deconvolution methods for tumor heterogeneity quantification; https://competitions.codalab.org/competitions/23660; 23660; 39357
+FinSBD3 Financial Document Structure Boundary Detection; https://competitions.codalab.org/competitions/28485; 28485; 46732,46733
+RuShiftEval Competition; https://competitions.codalab.org/competitions/28340; 28340; 46530,46531,46532
+EMO 2021 HUAWEI Logistics Competition; https://competitions.codalab.org/competitions/27329; 27329; 45128,45129
+CVPR 2021 ChaLearn LAP Large Scale Signer Independent Isolated SLR Challenge (RGB TRACK); https://competitions.codalab.org/competitions/27901; 27901; 45918,45919
+CVPR 2021 ChaLearn LAP Large Scale Signer Independent Isolated SLR Challenge (RGB+D TRACK); https://competitions.codalab.org/competitions/27902; 27902; 45920,45921
+PBVS 2022 Multi-modal Aerial View Object Classification Challenge - Track 1 (SAR) ; https://competitions.codalab.org/competitions/28123; 28123; 46198,46199
+PBVS 2022 Multi-modal Aerial View Object Classification Challenge - Track 2 (SAR+EO); https://competitions.codalab.org/competitions/28095; 28095; 46162,46163
+NTIRE 2021 Burst Super-Resolution Challenge - Track 1 Synthetic; https://competitions.codalab.org/competitions/28078; 28078; 46145,46146
+NTIRE 2021 Video Super-Resolution Challenge - Track2. Spatio-Temporal; https://competitions.codalab.org/competitions/28072; 28072; 46136,46137
+NTIRE 2021 Defocus Deblurring using Dual-pixel Images Challenge; https://competitions.codalab.org/competitions/28049; 28049; 46110,46111
+NTIRE 2021 Quality enhancement of heavily compressed videos Challenge - Track 2 Fixed QP, Perceptual; https://competitions.codalab.org/competitions/28034; 28034; 46102,46103
+NTIRE 2021 Depth Guided Relighting Challenge Track 2: Any-to-any relighting; https://competitions.codalab.org/competitions/28031; 28031; 46096,46097
+NTIRE 2021 Quality enhancement of heavily compressed videos Challenge - Track 1 Fixed QP, Fidelity; https://competitions.codalab.org/competitions/28033; 28033; 46100,46101
+NTIRE 2021 Perceptual Image Quality Assessment Challenge; https://competitions.codalab.org/competitions/28050; 28050; 46112,46113
+NTIRE 2021 Quality enhancement of heavily compressed videos - Track 3 Fixed bit-rate, Fidelity; https://competitions.codalab.org/competitions/28035; 28035; 46104,46105
+NTIRE 2021 High Dynamic Range Challenge - Track 1 Single Frame; https://competitions.codalab.org/competitions/28161; 28161; 46292,46293
+NTIRE 2021 High Dynamic Range Challenge - Track 2 Multiple Frames; https://competitions.codalab.org/competitions/28162; 28162; 46294,46295
+NTIRE 2021 Video Super-Resolution Challenge - Track1. Spatial; https://competitions.codalab.org/competitions/28051; 28051; 46114,46115
+NTIRE 2021 Depth Guided Relighting Challenge Track 1: One-to-one relighting; https://competitions.codalab.org/competitions/28030; 28030; 46094,46095
+NTIRE 2021 Image Deblurring Challenge - Track1. Low Resolution; https://competitions.codalab.org/competitions/28073; 28073; 46138,46139
+NTIRE 2021 Image Deblurring Challenge - Track2. JPEG Artifacts; https://competitions.codalab.org/competitions/28074; 28074; 46140,46141
+NTIRE 2021 NonHomogeneous Dehazing Challenge; https://competitions.codalab.org/competitions/28032; 28032; 46098,46099
+Interspeech Shared Task: Automatic Speech Recognition for Non-Native Children’s Speech; https://competitions.codalab.org/competitions/28890; 28890; 47556,47557,47558,47559
+Mobile AI 2021 Real-Time Video Super-Resolution Challenge; https://competitions.codalab.org/competitions/28112; 28112; 46179,46180
+Mobile AI 2021 Real Image Denoising Challenge; https://competitions.codalab.org/competitions/28120; 28120; 46192,46193
+Mobile AI 2021 Real-Time Image Super-Resolution Challenge; https://competitions.codalab.org/competitions/28119; 28119; 46190,46191
+Mobile AI 2021 Monocular Depth Estimation Challenge; https://competitions.codalab.org/competitions/28122; 28122; 46196,46197
+Mobile AI 2021 Real-Time Camera Scene Detection Challenge; https://competitions.codalab.org/competitions/28113; 28113; 46181,46182
+Mobile AI 2021 Learned Smartphone ISP Challenge; https://competitions.codalab.org/competitions/28054; 28054; 46117,46118
+DiCOVA 2021 Challenge; https://competitions.codalab.org/competitions/29640; 29640; 48609
+ROD2021 Challenge @ ICMR 2021; https://competitions.codalab.org/competitions/28019; 28019; 46076,46077
+RuNormAS; https://competitions.codalab.org/competitions/29216; 29216; 48020
+Multimodal Emotion Recognition on Comics scenes (EmoRecCom); https://competitions.codalab.org/competitions/27884; 27884; 45892,45893,45894
+ICDAR 2021 Competition on Scene Video Text Spotting; https://competitions.codalab.org/competitions/27667; 27667; 45548,45549,45550
+DynamicEarthNet Unsupervised Binary Land Cover Change Detection Challenge; https://competitions.codalab.org/competitions/29410; 29410; 48249,48250
+DeepFake Game Competition (DFGC) @ IJCB 2021; https://competitions.codalab.org/competitions/29583; 29583; 48493,48495,48497,48499,48502,48503
+TC4 Competition on Human Identification at a Distance 2021 (HID2021); https://competitions.codalab.org/competitions/29552; 29552; 48433,48434
+CAp21/Criteo challenge; https://competitions.codalab.org/competitions/30003; 30003; 49131,49132
+ICLR 2021 Workshop MLPCP Track 1 Entity-aware medical dialogue generation; https://competitions.codalab.org/competitions/29703; 29703; 48684
+ICLR 2021 Workshop MLPCP Track 2 Medical Dialogue System for Automatic Diagnosis; https://competitions.codalab.org/competitions/29706; 29706; 48688
+UG2+ 2021 Track2.2 - Semi-supervised Action Recognition in the Dark; https://competitions.codalab.org/competitions/28118; 28118; 46188,46189
+UG2+ 2021 Track2.1 - Fully Supervised Action Recognition in the Dark; https://competitions.codalab.org/competitions/28117; 28117; 46186,46187
+ICLR 2021 Workshop MLPCP Track 1 Entity-aware medical dialogue generation(Phases-B); https://competitions.codalab.org/competitions/30755; 30755; 50185
+4th UG2+ challenge (CVPR 2021) Track 1.1 - Object Detection in the Hazy Condition; https://competitions.codalab.org/competitions/28022; 28022; 46082,46083
+UG2+ 2021 Track1.2 - Face Detection in the Low-Light Condition; https://competitions.codalab.org/competitions/28029; 28029; 46092,46093
+CLEF2021 CheckThat! Lab - Task 1 (Spanish); https://competitions.codalab.org/competitions/31262; 31262; 51001
+CLEF2021 CheckThat! Lab - Task 1; https://competitions.codalab.org/competitions/30853; 30853; 50288,50290,50286,50284,50294,50292,50285,50289,50291,50287,50293
+CLEF2021 CheckThat! Lab - Task 2; https://competitions.codalab.org/competitions/30949; 30949; 50406,50402,50404,50407,50403,50405
+CLEF2021 CheckThat! Lab - Task 3; https://competitions.codalab.org/competitions/31238; 31238; 50930,50931
+11785 HW5 Super-Resolution GAN/VAE; https://competitions.codalab.org/competitions/30703; 30703; 50111
+Fake News Detection Competition; https://competitions.codalab.org/competitions/29545; 29545; 48420,48421
+Rohde & Schwarz Engineering Competition 2021 - Qualifiers; https://competitions.codalab.org/competitions/30990; 30990; 50452
+FloodNet Challenge @ EARTHVISION 2021 - Track 1; https://competitions.codalab.org/competitions/30290; 30290; 49507,49508
+FloodNet Challenge @ EARTHVISION 2021 - Track 2; https://competitions.codalab.org/competitions/30320; 30320; 49565,49566
+The 3rd Large-scale Video Object Segmentation Challenge - Track 1: Video Object Segmentation; https://competitions.codalab.org/competitions/28987; 28987; 47653,47654
+The 3rd Large-scale Video Object Segmentation Challenge - Track 2: Video Instance Segmentation; https://competitions.codalab.org/competitions/28988; 28988; 47655,47656
+High Resolution Human Parsing; https://competitions.codalab.org/competitions/30375; 30375; 49641,49642
+HITSZ_NLP2021(本科): 中文影评情感分类; https://competitions.codalab.org/competitions/29815; 29815; 48835,48836
+ADoBo — Automatic Detection of Borrowings; https://competitions.codalab.org/competitions/28771; 28771; 47408
+Finals - Challenge 2 - R&S Engineering Competition 2021; https://competitions.codalab.org/competitions/31873; 31873; 51860
+Finals - Challenge 1 - R&S Engineering Competition 2021; https://competitions.codalab.org/competitions/31884; 31884; 51884
+The 3rd Large-scale Video Object Segmentation - Track 3: Referring Video Object Segmentation; https://competitions.codalab.org/competitions/29139; 29139; 47907,47908
+MeOffendEs@IberLEF 2021; https://competitions.codalab.org/competitions/28679; 28679; 47060,47061,47062,47063,47064,47065
+EmoEvalEs@IberLEF 2021; https://competitions.codalab.org/competitions/28682; 28682; 47066,47067
+The 4th Look Into Person (LIP) Challenge - Track 5 Dark Complexion Portrait Segmentation Challenge; https://competitions.codalab.org/competitions/24206; 24206; 40180
+CVPR-NAS 2021: Unseen Data Track; https://competitions.codalab.org/competitions/29853; 29853; 48874,48875
+DynamicEarthNet Weakly-Supervised Multi-Class Change Detection Challenge; https://competitions.codalab.org/competitions/30441; 30441; 49731,49732
+OVIS (Occluded Video Instance Segmentation) Please submit to the new evaluation server!; https://competitions.codalab.org/competitions/28757; 28757; 47182
+AILBIZ 2021 - TRACK 1; https://competitions.codalab.org/competitions/29503; 29503; 48366,48367
+Realistic Instance-level Product Retrieval (Product1M) Track on LID CVPR 2021 Challenge; https://competitions.codalab.org/competitions/30123; 30123; 49309
+ActivityNet-Entities Object Localization Challenge 2021 (Sub-task II -  Generated Captions); https://competitions.codalab.org/competitions/24334; 24334; 40347,40348
+ActivityNet-Entities Object Localization Challenge 2021 (Sub-task I -  GT Captions); https://competitions.codalab.org/competitions/24336; 24336; 40350,40351
+BDD100K Multiple Object Tracking Challenge; https://competitions.codalab.org/competitions/30620; 30620; 50006,50007
+CVPR 2021 Human-centric video matting - TRACK 1 (FVC); https://competitions.codalab.org/competitions/30523; 30523; 49885,49886
+2021 HACS Temporal Action Localization Challenge - Weakly-supervised Learning Track; https://competitions.codalab.org/competitions/31308; 31308; 51069
+2021 HACS Temporal Action Localization Challenge - Supervised Learning Track; https://competitions.codalab.org/competitions/31307; 31307; 51068
+Shared Task on Multilingual protest news detection CASE 2021 @ ACL-IJCNLP 2021; https://competitions.codalab.org/competitions/31247; 31247; 50971,50972,50973,50974,50975,50976,50977,50978,50979,50980,50981,50982,50983
+Mobile AI 2021 High Dynamic Range Challenge; https://competitions.codalab.org/competitions/28662; 28662; 47020,47021
+Woodscape Fisheye Semantic Segmentation for Autonomous Driving | CVPR 2021 OmniCV Workshop Challenge; https://competitions.codalab.org/competitions/30993; 30993; 50455
+CVPR 2021 Human-centric video coding for analytics - Track 2 (FVC); https://competitions.codalab.org/competitions/30111; 30111; 49301
+Chalearn 3D High-Fidelity Mask Face Presentation Attack Detection Challenge@ICCV2021; https://competitions.codalab.org/competitions/30910; 30910; 50333,50334
+The 4th Look Into Person (LIP) Challenge - Track 1 Multi-Person Human Parsing Challenge; https://competitions.codalab.org/competitions/23431; 23431; 38964
+The 4th Look Into Person (LIP) Challenge - Track 3 Image-based Multi-pose Virtual Try-on Challenge; https://competitions.codalab.org/competitions/23471; 23471; 39013
+HEART-MET Gesture Recognition Challenge; https://competitions.codalab.org/competitions/30454; 30454; 49755,49756
+Disambiguation of German Verbal Idioms; https://competitions.codalab.org/competitions/31715; 31715; 51635,51636
+To be, or not to be?; https://competitions.codalab.org/competitions/30715; 30715; 50126
+MMAct Challenge 2021 Task 2. Cross-Modal Untrimmed Action Temporal Localization; https://competitions.codalab.org/competitions/31385; 31385; 51163
+MMAct Challenge 2021 Task 1. Cross-Modal Trimmed Action Recognition; https://competitions.codalab.org/competitions/31438; 31438; 51246
+Discover the mysteries of the Maya @ ECML PKDD 2021- Integrated Image Segmentation Challenge; https://competitions.codalab.org/competitions/30429; 30429; 49719
+GermEval 2021 Shared Task on the Identification of Toxic, Engaging, and Fact-Claiming Comments; https://competitions.codalab.org/competitions/32854; 32854; 52902
+GtX 2021 quantitative competition; https://competitions.codalab.org/competitions/31819; 31819; 51782,51783
+Anti-UAV; https://competitions.codalab.org/competitions/23887; 23887; 39724,39725
+ETCI 2021 Competition on Flood Detection; https://competitions.codalab.org/competitions/30440; 30440; 49729,49730
+The 2nd Remote Physiological Signal Sensing (RePSS) Challenge & Workshop Associated with ICCV 2021; https://competitions.codalab.org/competitions/30855; 30855; 50297
+MOCHA@ICMI2021; https://competitions.codalab.org/competitions/31432; 31432; 51234,51235
+CODI-CRAC 2021 Shared-Task: Anaphora Resolution in Dialogues; https://competitions.codalab.org/competitions/30312; 30312; 49548,49549,49550,49551,49552,49553,49554,49555
+Triangular MT: Using English to improve Russian-to-Chinese machine translation; https://competitions.codalab.org/competitions/30446; 30446; 49735,49736,49737
+Multi-Disease, Multi-View & Multi-Center Right Ventricular Segmentation in Cardiac MRI (M&Ms-2); https://competitions.codalab.org/competitions/31559; 31559; 51388,51389
+Vision For Vitals (V4V); https://competitions.codalab.org/competitions/31978; 31978; 52037,52038,52039
+ML Based Electrical Substation extraction from Images; https://competitions.codalab.org/competitions/32132; 32132; 52140,52141,52142
+The 1st Occluded Video Instance Segmentation (OVIS) Challenge in conjunction with ICCV 2021; https://competitions.codalab.org/competitions/32377; 32377; 52395,52396
+Criteo Privacy Preserving ML Competition @ AdKDD; https://competitions.codalab.org/competitions/31485; 31485; 51291,51292
+Cowboy Outfit Detection Competition; https://competitions.codalab.org/competitions/33573; 33573; 54061,54062
+VSPW2021; https://competitions.codalab.org/competitions/30712; 30712; 50119,50121
+Outdoor Semantic Segmentation Challenge (DAGM GCPR 2021); https://competitions.codalab.org/competitions/31086; 31086; 50621
+Fincausal 2021 (Eval); https://competitions.codalab.org/competitions/33102; 33102; 53279
+Eval4NLP 2021 - Explainable Quality Estimation; https://competitions.codalab.org/competitions/33038; 33038; 53172,53173,53174,53175,53176,53177
+Recognizing Families In the Wild Data Challenge (5th Edition) in conjunction with FG 2021; https://competitions.codalab.org/competitions/22152; 22152; 37097,37098,37099
+Recognizing Families In the Wild Data Challenge (5th Edition) in conjunction with FG 2021; https://competitions.codalab.org/competitions/21843; 21843; 36624,36625,36626
+Recognizing Families In the Wild Data Challenge (5th Edition) in conjunction with FG 2021; https://competitions.codalab.org/competitions/22117; 22117; 37028,37029,37030
+ICCV DeeperAction Challenge - Kinetics-TPS Track on Part-level Action Parsing and Action Recognition; https://competitions.codalab.org/competitions/32360; 32360; 52376,52377
+Multi-View Partial (MVP) Point Cloud Challenge 2021; https://competitions.codalab.org/competitions/33430; 33430; 53853,53854
+ICCV DeeperAction Challenge - FineAction Track on Temporal Action Localization; https://competitions.codalab.org/competitions/32363; 32363; 52380,52381
+ICCV DeeperAction Challenge - MultiSports Track on Spatiotemporal Action Detection (Test Version) ; https://competitions.codalab.org/competitions/33355; 33355; 53668,53669
+ASVspoof 2021 - Speech Deepfake track; https://competitions.codalab.org/competitions/32345; 32345; 52355,52357,52359,52361
+ASVspoof 2021 - Physical Access track; https://competitions.codalab.org/competitions/32347; 32347; 52362,52363,52364,52365
+ASVspoof 2021 - Logical Access track; https://competitions.codalab.org/competitions/32343; 32343; 52348,52349,52350,52351
+ICCV'2021 ChaLearn Challenge - Behavior forecasting track.; https://competitions.codalab.org/competitions/31584; 31584; 51416,51417
+ICCV'2021 ChaLearn Challenge - Automatic self-reported personality recognition track.; https://competitions.codalab.org/competitions/31326; 31326; 51087,51088
+MultiLexNorm Multilingual Lexical Normalization - Dev; https://competitions.codalab.org/competitions/34399; 34399; 55156
+IEEE VIP Cup 2021: SLP Human Pose Estimation; https://competitions.codalab.org/competitions/31489; 31489; 51299,51300,51301
+ForgeryNet: Face Forgery Analysis Challenge 2021; https://competitions.codalab.org/competitions/33386; 33386; 53726,53727,53728,53729
+Learning By Doing NeurIPS 2021 Competition – ROBO; https://competitions.codalab.org/competitions/33622; 33622; 54151,54152,54153,54154,54155
+Learning By Doing NeurIPS 2021 Competition – CHEM; https://competitions.codalab.org/competitions/33378; 33378; 53700,53701,53702,53703
+2021 VIPriors Instance Segmentation Challenge; https://competitions.codalab.org/competitions/33340; 33340; 53649,53650
+2021 VIPriors Re-identification Challenge; https://competitions.codalab.org/competitions/33216; 33216; 53425,53426
+2021 VIPriors Image Classification Challenge; https://competitions.codalab.org/competitions/33214; 33214; 53421,53422
+2021 VIPriors Object Detection Challenge; https://competitions.codalab.org/competitions/33222; 33222; 53556,53438
+2021 VIPriors Action Recognition Challenge; https://competitions.codalab.org/competitions/33420; 33420; 53835,53838
+The 4th Look Into Person (LIP) Challenge - Track 2 Video Multi-Person Human Parsing Challenge; https://competitions.codalab.org/competitions/23433; 23433; 38966
+Multi-camera Multiple People Tracking (MMP-Tracking) Challenge; https://competitions.codalab.org/competitions/33729; 33729; 54322,54323
+ICCV 2021 Workshop SSLAD Track 2 - 3D Object Detection; https://competitions.codalab.org/competitions/33236; 33236; 53454,53453
+WebFace260M Track of ICCV21-MFR; https://competitions.codalab.org/competitions/32478; 32478; 52494,52495
+The Second DiCOVA Challenge; https://competitions.codalab.org/competitions/34801; 34801; 55941,55942,55943,55944
+ICCV 2021 Workshop SSLAD Track 3B - Continual Object Detection; https://competitions.codalab.org/competitions/33993; 33993; 54578,54577
+ICCV 2021 Workshop SSLAD Track 3A - Continual Object Classification; https://competitions.codalab.org/competitions/33830; 33830; 54457,54456
+NeurIPS 2021 Visual Domain Adaptation (VisDA-21) UniDA Challenge; https://competitions.codalab.org/competitions/33396; 33396; 53749,53750
+ALTA Shared Task 2021; https://competitions.codalab.org/competitions/33739; 33739; 54334,54335
+Thailand Machine Learning for Chemistry Competition 2021; https://competitions.codalab.org/competitions/34540; 34540; 55354,55355,55356
+DeepFashion Attribute Prediction Challenge; https://competitions.codalab.org/competitions/34733; 34733; 55659
+E-challenge; https://competitions.codalab.org/competitions/34379; 34379; 55141,55142
+Real DSR 2021 Challenge; https://competitions.codalab.org/competitions/34235; 34235; 54968,54969,54970
+The 5th Whole Brain Architecture Hackathon; https://competitions.codalab.org/competitions/29849; 29849; 48869
+ICON2021 Shared Task on Multilingual Gender Biased and Communal Language Identification (ComMA@ICON); https://competitions.codalab.org/competitions/35482; 35482; 57539,57540
+SDU@AAAI-22 - Shared Task 1, Acronym Extraction; https://competitions.codalab.org/competitions/34925; 34925; 56170,56165,56168,56167,56166,56164,56169,56174,56173,56175,56176,56177,56172,56171
+SDU@AAAI-22 - Shared Task 2, Acronym Disambiguation; https://competitions.codalab.org/competitions/34899; 34899; 56107,56109,56106,56102,56105,56104,56103,56108
+Approximate Inference in Bayesian Deep Learning; https://competitions.codalab.org/competitions/33647; 33647; 54185,54186
+Approximate Inference in Bayesian Deep Learning; https://competitions.codalab.org/competitions/35838; 35838; 58465,58466,58467
+EPIC-KITCHENS-100 Action Recognition *DISCONTINUED*; https://competitions.codalab.org/competitions/25923; 25923; 42610
+EPIC-KITCHENS-100 Action Detection *DISCONTINUED*; https://competitions.codalab.org/competitions/25926; 25926; 42612
+EPIC-KITCHENS-100 UDA Challenge *DISCONTINUED*; https://competitions.codalab.org/competitions/26096; 26096; 42939
+EPIC-KITCHENS-100 Multi-Instance Retrieval Challenge *DISCONTINUED*; https://competitions.codalab.org/competitions/26138; 26138; 43000
+EPIC-KITCHENS-100 Action Anticipation *DISCONTINUED*; https://competitions.codalab.org/competitions/25925; 25925; 42611
+IGLU NeurIPS 2021 Competition: Architect; https://competitions.codalab.org/competitions/33998; 33998; 54595
+IGLU NeurIPS 2021 Competition: Silent Builder; https://competitions.codalab.org/competitions/33828; 33828; 54453
+MultiLexNorm Multilingual Lexical Normalization; https://competitions.codalab.org/competitions/34355; 34355; 55103
+AI Challenge 2021; https://competitions.codalab.org/competitions/36200; 36200; 59196,59197,59198
+Short-duration Speaker Verification (SdSV) Challenge 2021 - Task 1 : Text-Dependent; https://competitions.codalab.org/competitions/28190; 28190; 46367,46368
+Short-duration Speaker Verification (SdSV) Challenge 2021 - Task 2 : Text-Independent; https://competitions.codalab.org/competitions/28269; 28269; 46464,46465
+HASOC-Dravidian-CodeMix-FIRE 2021; https://competitions.codalab.org/competitions/31146; 31146; 50763
+Summer Internship ; https://competitions.codalab.org/competitions/32774; 32774; 52770,52771
+ADD 2022 - Audio fake game (FG); https://competitions.codalab.org/competitions/36190; 36190; 59188,59189
+ADD 2022 - Partially fake audio detection(PF); https://competitions.codalab.org/competitions/36189; 36189; 59187
+ADD 2022 - Low-quality fake audio detection(LF); https://competitions.codalab.org/competitions/36183; 36183; 59180
+XMRec WSDM Cup; https://competitions.codalab.org/competitions/36050; 36050; 58972
+L2RPN ICAPS 2021 - new entrant league - closed; https://competitions.codalab.org/competitions/33122; 33122; 53313,53314,53315,53316
+SemEval-2022 Task 7 Identifying Plausible Clarifications of Implicit and Underspecified Phrases ; https://competitions.codalab.org/competitions/35210; 35210; 56822,56823,56824
+CMCL2022; https://competitions.codalab.org/competitions/36415; 36415; 59514,59515,59516,59517
+Meta-learning from Learning Curves; https://competitions.codalab.org/competitions/36459; 36459; 59586,59587
+Zero Resource Speech Challenge 2021; https://competitions.codalab.org/competitions/27711; 27711; 45585
+GREW Competition; https://competitions.codalab.org/competitions/35463; 35463; 57512,57511,57510
+Image SkelNetOn - CVPR 2022; https://competitions.codalab.org/competitions/24536; 24536; 40646,40647
+Point SkelNetOn - CVPR 2022; https://competitions.codalab.org/competitions/21172; 21172; 35849,35850
+Parametric SkelNetOn - CVPR 2022; https://competitions.codalab.org/competitions/21175; 21175; 35853,35854
+Pixel SkelNetOn - CVPR 2022; https://competitions.codalab.org/competitions/21169; 21169; 35847,35848
+2th CSEDM Challenge -- Task 2: Student Grade Prediction; https://competitions.codalab.org/competitions/33164; 33164; 53371,53372,53373
+2th CSEDM Challenge - Task 1: Knowledge Tracing; https://competitions.codalab.org/competitions/33156; 33156; 53353,53354,53355
+Troll Meme classification in Tamil; https://competitions.codalab.org/competitions/36397; 36397; 59485
+TinyAction Challenge [CVPR 2021]; https://competitions.codalab.org/competitions/31843; 31843; 51801
+Hope Speech Detection for Equality, Diversity, and Inclusion -ACL 2022; https://competitions.codalab.org/competitions/36393; 36393; 59479
+Detecting Signs of Depression from Social Media Text-LT-EDI@ACL 2022; https://competitions.codalab.org/competitions/36410; 36410; 59503
+Emotion Analysis in Tamil-ACL 2022; https://competitions.codalab.org/competitions/36396; 36396; 59482
+L2RPN ICAPS 2021 - anyone league; https://competitions.codalab.org/competitions/33121; 33121; 53309,53310,53311,53312
+ICCV 2021 Workshop SSLAD Track 1 - 2D object detection; https://competitions.codalab.org/competitions/33288; 33288; 53548,53549
+L2RPN NEURIPS 2020 - Robustness Track; https://competitions.codalab.org/competitions/25426; 25426; 41759,41760,41761,41762
+L2RPN NEURIPS 2020 - Adaptability Track; https://competitions.codalab.org/competitions/25427; 25427; 41763,41764,41765,41766
+EPIC-KITCHENS-55 Object Detection; https://competitions.codalab.org/competitions/20111; 20111; 34247
+Thailand Machine Learning for Chemistry Competition 2021 [duplicate]; https://competitions.codalab.org/competitions/36014; 36014; 58753,58754,58755
+3D Poses in the Wild (3DPW) Challenge; https://competitions.codalab.org/competitions/24938; 24938; 41116,41117
+The Algonauts Project 2021 Challenge - Full Track (Whole Brain); https://competitions.codalab.org/competitions/30937; 30937; 50375
+The Algonauts Project 2021 Challenge - Mini Track (9 ROIs); https://competitions.codalab.org/competitions/30930; 30930; 50359
+UG2+ Track1.2 - DarkFace Detection (Still in testing to provide testing results); https://competitions.codalab.org/competitions/32499; 32499; 52513,52514
+SIW 2021: Official ICDAR Competition on Script Identification in the Wild; https://competitions.codalab.org/competitions/30594; 30594; 49957,49958
+L2RPN Sandbox, on the case14 file; https://competitions.codalab.org/competitions/24493; 24493; 40604
+Cowboy Outfit Detection Competition(For develop only); https://competitions.codalab.org/competitions/34338; 34338; 55087,55088
+HANDS19 Challenge: Task 3 - RGB-Based 3D Hand Pose Estimation while Interacting with Objects; https://competitions.codalab.org/competitions/21116; 21116; 35787
+HANDS19 Challenge: Task 1 - Depth-Based 3D Hand Pose Estimation; https://competitions.codalab.org/competitions/20913; 20913; 35417
+HANDS19 Challenge: Task 2 - Depth-Based 3D Hand Pose Estimation while Interacting with Objects; https://competitions.codalab.org/competitions/20449; 20449; 34734
+AIM 2019 Demoireing Challenge - Track 2: Perceptual; https://competitions.codalab.org/competitions/20166; 20166; 34337,34338
+PuzzLing Machines; https://competitions.codalab.org/competitions/24414; 24414; 40511,40512
+AIM 2019 Demoireing Challenge - Track 1: Fidelity; https://competitions.codalab.org/competitions/20165; 20165; 34335,34336
+SVC-onGoing (based on ICDAR 2021 Competition on On-Line Signature Verification) ; https://competitions.codalab.org/competitions/27295; 27295; 45102,45103
+COCO Stuff Segmentation Challenge; https://competitions.codalab.org/competitions/19472; 19472; 33230,33231,33232
+SensatUrban Semantic Segmentation; https://competitions.codalab.org/competitions/31519; 31519; 51320
+SemEval-2017 Task 7, Subtask 1; https://competitions.codalab.org/competitions/15705; 15705; 27275,27276,27277
+SemEval-2017 Task 7, Subtask 2; https://competitions.codalab.org/competitions/15706; 15706; 27278,27279,27280
+SemEval-2017 Task 7, Subtask 3; https://competitions.codalab.org/competitions/15707; 15707; 27281,27282,27283
+The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation; https://competitions.codalab.org/competitions/17356; 17356; 30299,30089,30088
+SemEval-2020 Task5: Modelling Causal Reasoning in Language: Detecting Counterfactuals; https://competitions.codalab.org/competitions/21691; 21691; 36405,36406,36407,36408,36409,36410
+The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation: Hand-Object task; https://competitions.codalab.org/competitions/17452; 17452; 30301
+BioRelEx Benchmark 1.0; https://competitions.codalab.org/competitions/20468; 20468; 34763,34764
+Video-guided Machine Translation Challenge 2020; https://competitions.codalab.org/competitions/24384; 24384; 40450
+DE2021: Russian News Clustering and Headline Selection - Clustering; https://competitions.codalab.org/competitions/28830; 28830; 47491
+VATEX Video Captioning Challenge; https://competitions.codalab.org/competitions/24360; 24360; 40414,40413,40416,40415
+TabFact Competition; https://competitions.codalab.org/competitions/21611; 21611; 36309
+HybridQA Competition; https://competitions.codalab.org/competitions/24420; 24420; 40518
+OTT-QA Competition; https://competitions.codalab.org/competitions/27324; 27324; 45120
+TweetQA Competition; https://competitions.codalab.org/competitions/20307; 20307; 34590
+DE2021: Russian News Clustering and Headline Generation - Headline generation; https://competitions.codalab.org/competitions/29905; 29905; 48941
+DE2021: Russian News Clustering and Headline Selection - Headline selection; https://competitions.codalab.org/competitions/29479; 29479; 48329
+SemEval 2020 Task 3 - Predicting the (Graded) Effect of Context in Word Similarity; https://competitions.codalab.org/competitions/20905; 20905; 35399,35400,35401,35402,35403,35404
+WiC-TSV: Word-in-Context Target Sense Verification; https://competitions.codalab.org/competitions/23683; 23683; 39382,39383,39384
+FreiHAND; https://competitions.codalab.org/competitions/21238; 21238; 35910
+SMM4H'18 - Shared Task; https://competitions.codalab.org/competitions/27081; 27081; 44659,44660
+MetaDL few-shot learning self-service; https://competitions.codalab.org/competitions/31280; 31280; 51040
+Word Sense Induction and Disambiguation for the Russian Language: wiki-wiki dataset; https://competitions.codalab.org/competitions/17810; 17810; 30832,31191
+Second NADI Shared Task (Subtask 1.1); https://competitions.codalab.org/competitions/27768; 27768; 45686,45688,45690
+SemEval 2021 Task 1 - Lexical Complexity Prediction (LCP); https://competitions.codalab.org/competitions/27420; 27420; 45261,45262,45263,45264
+Deep Pollination; https://competitions.codalab.org/competitions/28635; 28635; 46867,46868
+Reliable Intelligence Identification on Vietnamese SNSs (ReINTEL); https://competitions.codalab.org/competitions/27232; 27232; 44975,44976,44977
+Feature Selection Over Urban Growth Prediction Challenge; https://competitions.codalab.org/competitions/29119; 29119; 47871,47872
+eHealth KD @ IberLEF 2021 (Training); https://competitions.codalab.org/competitions/30333; 30333; 49589
+FewRel 2.0 None-of-the-above; https://competitions.codalab.org/competitions/27982; 27982; 46008
+UIoU Dark Zurich at Vision for All Seasons Workshop, CVPR 2020; https://competitions.codalab.org/competitions/23553; 23553; 39179,39180
+Word-level Post-Editing Effort QE shared task 2021; https://competitions.codalab.org/competitions/33413; 33413; 53806,53807,53808,53809,53810,53811,53812,53813,53814,53815,53816
+2021 Video Captioning Competition; https://competitions.codalab.org/competitions/32106; 32106; 52102
+Lives :: Learning with Multiple Views; https://competitions.codalab.org/competitions/21342; 21342; 35982
+NADI Shared Task (Subtask 2); https://competitions.codalab.org/competitions/24002; 24002; 39904,39905,39906
+LiTS - Liver Tumor Segmentation Challenge; https://competitions.codalab.org/competitions/17094; 17094; 29430,29431
+CMCL2021; https://competitions.codalab.org/competitions/28176; 28176; 46341,46342,46343,46344
+The VoxCeleb Speaker Recognition Challenge 2020 - Track 2 (Verification fully supervised, open); https://competitions.codalab.org/competitions/26214; 26214; 43104,43105
+Second NADI Shared Task (Subtask 2.1); https://competitions.codalab.org/competitions/27770; 27770; 45694,45695,45696
+Word Sense Induction and Disambiguation for the Russian Language: bts-rnc dataset; https://competitions.codalab.org/competitions/17809; 17809; 30831,31192
+CoNLL 2020 Task on Cross-Framework and Cross-Lingual Meaning Representation Parsing; https://competitions.codalab.org/competitions/25567; 25567; 41994,41995,41996
+ChaLearn Fast Causation Coefficient Challenge; https://competitions.codalab.org/competitions/1381; 1381; 2341,2351,2751
+SemSketches competition; https://competitions.codalab.org/competitions/29992; 29992; 49107
+To be, or not to be?; https://competitions.codalab.org/competitions/19365; 19365; 32989
+Global Wheat Challenge 2020 - Localization and counting; https://competitions.codalab.org/competitions/27449; 27449; 45303
+Reto Computer Vision de Spain AI; https://competitions.codalab.org/competitions/28885; 28885; 47546
+Question Paraphrase Task; https://competitions.codalab.org/competitions/28529; 28529; 46759
+To be, or not to be?; https://competitions.codalab.org/competitions/22873; 22873; 38272
+ASVspoof 2021 - Post-Challenge - Logical Access track; https://competitions.codalab.org/competitions/35161; 35161; 56731
+TVC Evaluation; https://competitions.codalab.org/competitions/23109; 23109; 38582
+The VoxCeleb Speaker Recognition Challenge 2021 - Track 3 (Verification self supervised, closed); https://competitions.codalab.org/competitions/34069; 34069; 54723,54724
+HaHackathon: Detecting and Rating Humor and Offense; https://competitions.codalab.org/competitions/27446; 27446; 45298,45299,45300
+Reliable Intelligence Identification on Vietnamese SNSs (ReINTEL) - Legacy; https://competitions.codalab.org/competitions/28114; 28114; 46183
+SemanticKITTI: 4D Panoptic Segmentation; https://competitions.codalab.org/competitions/26369; 26369; 43297
+Memotion 2.0; https://competitions.codalab.org/competitions/35688; 35688; 57949,57950
+WiC competition; https://competitions.codalab.org/competitions/20010; 20010; 34103,34104,34105
+Regression Over Urban Growth Prediction Challenge; https://competitions.codalab.org/competitions/28673; 28673; 47040,47041
+Webvision - Video track - FEATURES ONLY!; https://competitions.codalab.org/competitions/23719; 23719; 39463
+The VoxCeleb Speaker Recognition Challenge 2020 - Track 1 (Verification fully supervised, closed); https://competitions.codalab.org/competitions/26120; 26120; 42984,42985
+Low Resource ASR; https://competitions.codalab.org/competitions/30008; 30008; 49143
+SemEval-2022 Task 09: R2VQ - Competence-based Multimodal Question Answering; https://competitions.codalab.org/competitions/34056; 34056; 54709,54710,54711,54712
+ActivityNet-Entities Object Localization Task (General Purpose, NOT for Challenge 2020); https://competitions.codalab.org/competitions/20537; 20537; 34852,34853
+Multi-FC; https://competitions.codalab.org/competitions/21163; 21163; 35837
+Sentence-level Direct Assessment QE shared task 2021; https://competitions.codalab.org/competitions/33411; 33411; 53770,53771,53772,53773,53774,53775,53776,53777,53779,53780,53782,53784
+QVHighlights Evaluation; https://competitions.codalab.org/competitions/33504; 33504; 53925
+OpenMonkeyChallenge; https://competitions.codalab.org/competitions/34342; 34342; 55092
+RSNA Pneumonia Crop; https://competitions.codalab.org/competitions/29560; 29560; 48437,48438
+IUI 2022-Dyadic IMPRESSION Recognition challenge; https://competitions.codalab.org/competitions/34190; 34190; 54873,54874
+Classification of Normal vs Malignant Cells in B-ALL White Blood Cancer Microscopic Image: ISBI 2019; https://competitions.codalab.org/competitions/20395; 20395; 34689,34690,34691
+WASSA-2017 Shared Task on Emotion Intensity (EmoInt); https://competitions.codalab.org/competitions/16380; 16380; 28264,28265
+Sentiment classification tasks; https://competitions.codalab.org/competitions/30517; 30517; 49868,49869,49870,49871,49872,49873,49874,49875
+RSNA pneumonia tabular; https://competitions.codalab.org/competitions/28158; 28158; 46282,46283
+TBX11K Tuberculosis Classification and Detection Challenge; https://competitions.codalab.org/competitions/25848; 25848; 42531
+The VoxCeleb Speaker Recognition Challenge 2021 - Track 1 (Verification fully supervised, closed); https://competitions.codalab.org/competitions/34058; 34058; 54715,54716
+CTW dataset classification; https://competitions.codalab.org/competitions/18634; 18634; 31739
+SemEval 2017 Task 12: Clinical TempEval; https://competitions.codalab.org/competitions/15621; 15621; 27114,27115,27116,28005
+Grass Clover Dataset Semantic Segmentation and Biomass Composition Challenges; https://competitions.codalab.org/competitions/21122; 21122; 35793
+NADI Shared Task (Subtask 1); https://competitions.codalab.org/competitions/24001; 24001; 39901,39902,39903
+Transliteration task; https://competitions.codalab.org/competitions/30932; 30932; 50363,50364
+TVQA Test Public Evaluation (w/ timestamp at inference) Beta; https://competitions.codalab.org/competitions/20414; 20414; 34703
+MAVEN Event Detection Challenge; https://competitions.codalab.org/competitions/27320; 27320; 45118
+Benchmarking - Malaria; https://competitions.codalab.org/competitions/29097; 29097; 47828,47829,47830
+[OLD] DeftEval 2020 (SemEval 2020 - Task 6); https://competitions.codalab.org/competitions/20900; 20900; 35374,35375,38840,38841,38842,38843
+2020 IEEE GRSS Data Fusion Contest; https://competitions.codalab.org/competitions/22289; 22289; 37557,37558,37559,37560
+Assessing the Funniness of Edited News Headlines (SemEval-2020); https://competitions.codalab.org/competitions/20970; 20970; 35532,35531,35534,35533,35536,35535
+Document-level MQM (annotations) QE shared task 2020; https://competitions.codalab.org/competitions/24763; 24763; 40918
+CLEF 2019 Lab ProtestNews; https://competitions.codalab.org/competitions/20318; 20318; 34595,34596,34597,34598
+Constraint@AAAI2021 - Hostile Post Detection in Hindi; https://competitions.codalab.org/competitions/26654; 26654; 43904,43905,43906
+Sentence-level Critical Error Detection shared task 2021; https://competitions.codalab.org/competitions/33414; 33414; 53817,53818,53819,53820
+MIND News Recommendation Competition; https://competitions.codalab.org/competitions/24122; 24122; 45101,40019
+AutoML :: ROUND 4 PRACTICE; https://competitions.codalab.org/competitions/9031; 9031; 18581,18591
+AutoML :: ROUND 0 PRACTICE; https://competitions.codalab.org/competitions/7471; 7471; 14671,14681
+Deep Pollination Raw - Explainability; https://competitions.codalab.org/competitions/29425; 29425; 48268,48269
+2021 IEEE GRSS Data Fusion Contest Track DSE; https://competitions.codalab.org/competitions/27943; 27943; 45963,45964,45965
+BEA 2019 Shared Task - Grammatical Error Correction - Restricted Track; https://competitions.codalab.org/competitions/20228; 20228; 34447,34448,34449
+2021视频描述竞赛; https://competitions.codalab.org/competitions/36211; 36211; 59211
+Multi-Hop Inference Explanation Regeneration (TextGraphs-15); https://competitions.codalab.org/competitions/29228; 29228; 48047,48048,48049
+SemEval-2018 Task 9: Hypernym Discovery; https://competitions.codalab.org/competitions/17119; 17119; 29448,29449,29450
+The VoxCeleb Speaker Recognition Challenge 2021 - Track 2 (Verification fully supervised, open); https://competitions.codalab.org/competitions/34066; 34066; 54719,54720
+The Third Evaluation Workshop on Chinese Machine Reading Comprehension (CMRC 2019); https://competitions.codalab.org/competitions/20131; 20131; 34271,34272,34273,34274
+SemEval-2018 Task 5: Counting Events and Participants in the Long Tail; https://competitions.codalab.org/competitions/17285; 17285; 29864,29865,29866
+Covid-19 Infection Percentage Estimation; https://competitions.codalab.org/competitions/35575; 35575; 57801
+Chems 2021; https://competitions.codalab.org/competitions/30686; 30686; 50079
+Word Sense Induction and Disambiguation for the Russian Language: active-dict dataset; https://competitions.codalab.org/competitions/17806; 17806; 30828,31193
+HO3D (version 3); https://competitions.codalab.org/competitions/33267; 33267; 53506
+NSURL 2021: Semantic Relation Extraction in Persian; https://competitions.codalab.org/competitions/31979; 31979; 52040,52042,52041
+SALICON Saliency Prediction Challenge (LSUN 2017); https://competitions.codalab.org/competitions/17136; 17136; 29476
+SemEval 2018 Task 8: SecureNLP (Semantic Extraction from CybersecUrity REports using NLP); https://competitions.codalab.org/competitions/17262; 17262; 29821,29822,29823
+MultiCoNER: SemEval-2022 Task 11 (Practice Phase); https://competitions.codalab.org/competitions/36044; 36044; 58953,58954,58955,58956,58957,58958,58959,58960,58961,58962,58963,58964,58965
+SwissText Shared Task on Hierarchical Patent Classification; https://competitions.codalab.org/competitions/22533; 22533; 37786,37787,37788
+TriviaQA; https://competitions.codalab.org/competitions/17208; 17208; 29638,29639
+BEA 2019 Shared Task - Grammatical Error Correction - Low Resource Track; https://competitions.codalab.org/competitions/20230; 20230; 34453,34454,34455
+Automated Deep Learning Self-Service; https://competitions.codalab.org/competitions/27082; 27082; 44661
+Word Sense Induction and Disambiguation for the Russian Language: all tracks; https://competitions.codalab.org/competitions/27331; 27331; 45130,45131,45132,45133,45134,45135,45136,45137,45138
+DeftEval 2020 (SemEval 2020 - Task 6); https://competitions.codalab.org/competitions/22759; 22759; 38884,38135,38136,38138,38139,38140
+NCSU USDA Hackathon; https://competitions.codalab.org/competitions/35694; 35694; 57956
+eHealth KD @ IberLEF 2021 (Official Competition); https://competitions.codalab.org/competitions/30830; 30830; 50237
+SemanticKITTI: Semantic Segmentation; https://competitions.codalab.org/competitions/20331; 20331; 34612,34613
+LoveDA Semantic Segmentation; https://competitions.codalab.org/competitions/35865; 35865; 58494
+SemEval 2022 Task 4: Patronizing and Condescending Language Detection; https://competitions.codalab.org/competitions/34344; 34344; 55093,55094,55095
+ShallowGlobe Test Server 2; https://competitions.codalab.org/competitions/18568; 18568; 31678,31679
+AutoML :: ROUND 2 PRACTICE; https://competitions.codalab.org/competitions/7461; 7461; 14641,14651
+CODWOE - Comparing Dictionaries and Word Embeddings; https://competitions.codalab.org/competitions/34022; 34022; 54640,54641
+Second NADI Shared Task (Subtask 1.2); https://competitions.codalab.org/competitions/27769; 27769; 45691,45692,45693
+Predicting Emphasis in Presentation Slides Shared Task; https://competitions.codalab.org/competitions/27419; 27419; 45256,45258,45260
+DocRED; https://competitions.codalab.org/competitions/20717; 20717; 35063
+SemEval 2021 Task 10 - Source-Free Domain Adaptation for Semantic Processing; https://competitions.codalab.org/competitions/26152; 26152; 43037,43038,43039
+The VoxCeleb Speaker Recognition Challenge 2020 - Track 4 (Diarisation, open); https://competitions.codalab.org/competitions/26357; 26357; 43280,43281
+SemEval 2019 Task 5 - Shared Task on Multilingual Detection of Hate; https://competitions.codalab.org/competitions/19935; 19935; 33911,33915,33913,33912,33914,33916,33917,33918,33919
+SemEval 2022 Task 8: Multilingual News Article Similarity; https://competitions.codalab.org/competitions/33835; 33835; 54470,54471,54472
+2019 IEEE GRSS Data Fusion Contest 3D Point Cloud Classification Challenge; https://competitions.codalab.org/competitions/20217; 20217; 34413,34414,34415
+2019 IEEE GRSS Data Fusion Contest Single-view Semantic 3D Challenge; https://competitions.codalab.org/competitions/20208; 20208; 34395,34396,34397
+Leaf Segmentation Challenge (LSC); https://competitions.codalab.org/competitions/18405; 18405; 31538,31539
+CTW dataset detection; https://competitions.codalab.org/competitions/18635; 18635; 31740
+VALUE Leaderboard Evaluation; https://competitions.codalab.org/competitions/34470; 34470; 55243
+To be, or not to be?; https://competitions.codalab.org/competitions/27605; 27605; 45466
+CLEF 2019 Lab ProtestNews Extended; https://competitions.codalab.org/competitions/20288; 20288; 34565,34566,34567,34568
+Second NADI Shared Task (Subtask 2.2); https://competitions.codalab.org/competitions/27771; 27771; 45697,45698,45699
+2019-Video-Caption-Competition; https://competitions.codalab.org/competitions/22018; 22018; 36914
+The 1st Video Panoptic Segmentation Challenge; https://competitions.codalab.org/competitions/26183; 26183; 43073
+The Large Scale Movie Description Challenge (LSMDC) 2017 : Movie Retrieval; https://competitions.codalab.org/competitions/11531; 11531; 21821
+Constraint@AAAI2021 - COVID19 Fake News Detection in English; https://competitions.codalab.org/competitions/26655; 26655; 43907,43908,43909
+XL-WiC; https://competitions.codalab.org/competitions/27071; 27071; 44641
+SMM4H'20 - Shared Task; https://competitions.codalab.org/competitions/23705; 23705; 39418,39419,39420,39421,39422,39423,39424,39425,39426,39427,39428,39429,39430,39431,39432,39433,39434,39435,39436,39437,39438
+Chems 2020; https://competitions.codalab.org/competitions/22892; 22892; 38293
+OxUvA Long-Term Tracking Challenge; https://competitions.codalab.org/competitions/19529; 19529; 33324,33325
+Garonne Competition with real data for the N7 2020 class; https://competitions.codalab.org/competitions/27482; 27482; 45336
+SemanticKITTI: Moving Object Segmentation; https://competitions.codalab.org/competitions/28894; 28894; 47560
+SemEval 2020 Task 2: Predicting Multilingual and Cross-Lingual (Graded) Lexical Entailment; https://competitions.codalab.org/competitions/20865; 20865; 35304,35305,35306
+Semantic Segmentation of LArTPC tracks; https://competitions.codalab.org/competitions/19818; 19818; 33736,33737,33738,33739,33740,33741
+LiTS - Liver Tumor Segmentation Challenge; https://competitions.codalab.org/competitions/15595; 15595; 27074,27075,27076,27077
+SemEval 2018 Task 10 Capturing Discriminative Attributes; https://competitions.codalab.org/competitions/17326; 17326; 30012,30013,30014
+SemEval2021 Task 8 - MeasEval - Counts and Measurements; https://competitions.codalab.org/competitions/25770; 25770; 42445,42446,42447
+SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection; https://competitions.codalab.org/competitions/20948; 20948; 35505,35506,35507
+The 2020 Climate Informatics Hackathon - Public Challenge ; https://competitions.codalab.org/competitions/26644; 26644; 43881,43882
+TVR Evaluation; https://competitions.codalab.org/competitions/22780; 22780; 38180
+BEA 2019 Shared Task - Grammatical Error Correction - Unrestricted Track; https://competitions.codalab.org/competitions/20229; 20229; 34450,34451,34452
+SemEval 2022 Task 2; https://competitions.codalab.org/competitions/34710; 34710; 55618,55619,55620
+Multimedia Automatic Misogyny Identification (MAMI); https://competitions.codalab.org/competitions/34175; 34175; 54850,54851,59599
+Visual Domain Decathlon; https://competitions.codalab.org/competitions/17001; 17001; 29255,29256
+Comparison Identification; https://competitions.codalab.org/competitions/27655; 27655; 45531,45532,45533
+(Additional scoring) Shared Task on Multilingual protest news detection CASE 2021 @ ACL-IJCNLP 2021; https://competitions.codalab.org/competitions/31639; 31639; 51526,51527,51530,51532,51534,51536,51537,51539,51541,51543,51545,51547,51549
+FewRel 2.0 Domain Adaptation; https://competitions.codalab.org/competitions/27981; 27981; 46007
+eCSR; https://competitions.codalab.org/competitions/30543; 30543; 49899,49900
+Depth From Focus Competition on the DDFF 12-Scene Dataset; https://competitions.codalab.org/competitions/17807; 17807; 30829
+GermEval 2020 Shared Task on the Classification and Regression of Cognitive and Motivational style; https://competitions.codalab.org/competitions/22006; 22006; 36905,36906,36907
+JEC-QA; https://competitions.codalab.org/competitions/22173; 22173; 37152
+SemEval 2021 Task 11: NLPContributionGraph; https://competitions.codalab.org/competitions/25680; 25680; 42291,42292,42293,42294,42295
+Multi-Hop Inference Explanation Regeneration (TextGraphs-13); https://competitions.codalab.org/competitions/20150; 20150; 34315,34316
+The VoxCeleb Speaker Recognition Challenge 2021 - Track 4 (Diarisation, open); https://competitions.codalab.org/competitions/34113; 34113; 54775,54776
+LoveDA Unsupervised Domain Adaptation; https://competitions.codalab.org/competitions/35874; 35874; 58539,58540
+H2O; https://competitions.codalab.org/competitions/34473; 34473; 55245
+Iris (This is for test only); https://competitions.codalab.org/competitions/18053; 18053; 31024,31025
+ICDAR 2021 Competition on Scientific Table Image Recognition to LaTeX; https://competitions.codalab.org/competitions/26979; 26979; 44457,44458,44459,44460,44461,44462
+Non Parametric Density Estimation; https://competitions.codalab.org/competitions/6351; 6351; 12761
+KPA 2021 shared task; https://competitions.codalab.org/competitions/31166; 31166; 50800,50801,50802,50803,50804
+VLEP Evaluation; https://competitions.codalab.org/competitions/26881; 26881; 44249
+MinneApple Fruit Segmentation Challenge; https://competitions.codalab.org/competitions/21694; 21694; 36411
+DanceTrack - Tracking Multiple Objects in Uniform Appearance and Diverse Motion; https://competitions.codalab.org/competitions/35786; 35786; 58366
+Russian sQuAD (sberQuAD); https://competitions.codalab.org/competitions/34843; 34843; 56005
+WASSA 2021 Shared Task; https://competitions.codalab.org/competitions/28713; 28713; 47100,47101,47102
+TVQA Test Public Evaluation (w/o timestamp at inference) Beta; https://competitions.codalab.org/competitions/20415; 20415; 34704
+Mowjaz Multi-Topic Labelling Task; https://competitions.codalab.org/competitions/29220; 29220; 48030,48031,48032
+SMM4H'19 - Shared Task; https://competitions.codalab.org/competitions/20798; 20798; 35179,35180,35181,35182,35183,35184,35185,35186,35187,35188,35189,35190
+The Condensed Movies Challenge 2021; https://competitions.codalab.org/competitions/34124; 34124; 54789,54792
+Factify; https://competitions.codalab.org/competitions/35153; 35153; 56717,56719
+Multi-Hop Inference Explanation Regeneration (TextGraphs-14); https://competitions.codalab.org/competitions/23615; 23615; 39240,39241,39242
+The VoxCeleb Speaker Recognition Challenge 2019 - Audio speaker verification - OPEN training data; https://competitions.codalab.org/competitions/20199; 20199; 34383,34384
+The VoxCeleb Speaker Recognition Challenge 2020 - Track 3 (Verification self supervised, closed); https://competitions.codalab.org/competitions/26215; 26215; 43106,43107
+ACRV Probabilistic Object Detection (PrOD) Challenge - Continuous; https://competitions.codalab.org/competitions/20595; 20595; 34929,34930
+AutoML :: ROUND 3 PRACTICE; https://competitions.codalab.org/competitions/7451; 7451; 14621,14631
+Reto Series Temporales de Spain AI; https://competitions.codalab.org/competitions/28630; 28630; 46859
+HO3D (version 2); https://competitions.codalab.org/competitions/22485; 22485; 37732
+EmotionGIF 2020, Round 2 (Main Track); https://competitions.codalab.org/competitions/25174; 25174; 41450,41451,41452
+Document-level MQM (score) QE shared task 2020; https://competitions.codalab.org/competitions/24762; 24762; 40917
+Aerial Image Recognition; https://competitions.codalab.org/competitions/27749; 27749; 45645,45646
+DLAD 2021 Project 3; https://competitions.codalab.org/competitions/31727; 31727; 51654,51653
+The End-of-End-to-End - A Video Understanding Pentathlon (2020); https://competitions.codalab.org/competitions/24292; 24292; 40280,40281,40282,40283
+FIRE 2020 - Authorship Identification of SOurce COde (AI-SOCO); https://competitions.codalab.org/competitions/25148; 25148; 41406,41407,41408
+Document-level QE shared task 2018; https://competitions.codalab.org/competitions/19309; 19309; 32859
+Fact Extraction and VERification (FEVER) Challenge; https://competitions.codalab.org/competitions/18814; 18814; 31973,31974,31975
+LOVEU@CVPR'21 GEBD Sub-track 1.2; https://competitions.codalab.org/competitions/30452; 30452; 49748,49749
+Word-level Post-Editing Effort QE shared task 2020; https://competitions.codalab.org/competitions/25377; 25377; 41707,41708
+FewRel 1.0; https://competitions.codalab.org/competitions/27980; 27980; 46006
+HAHA@IberLEF2021: Humor Analysis based on Human Annotation; https://competitions.codalab.org/competitions/30090; 30090; 49281,49282,49283
+LaySumm (The 1st Computational Linguistics Lay Summary Challenge Shared Task); https://competitions.codalab.org/competitions/25516; 25516; 41901
+SentiMix Hindi-English; https://competitions.codalab.org/competitions/20654; 20654; 34975
+NLP Class Project; https://competitions.codalab.org/competitions/31670; 31670; 51587
+Sample IRIS Competition; https://competitions.codalab.org/competitions/27804; 27804; 45769,45770
+2021 IEEE GRSS Data Fusion Contest Track MSD; https://competitions.codalab.org/competitions/27956; 27956; 45976,45977,45978
+ETH-XGaze Competition; https://competitions.codalab.org/competitions/28930; 28930; 47605,47606,47607,47608
+SemKITTI-DVPS Challenge; https://competitions.codalab.org/competitions/33634; 33634; 54165,54166
+The VoxCeleb Speaker Recognition Challenge 2019 - Audio speaker verification - FIXED training data; https://competitions.codalab.org/competitions/20200; 20200; 34385,34386
+Word-level QE shared task 2018; https://competitions.codalab.org/competitions/19306; 19306; 32849,32850,32851,32852,32853,32854
+Dialogue Evaluation 2020: Taxonomy Enrichment for the Russian Language; https://competitions.codalab.org/competitions/22168; 22168; 37143,37144,37145,37146,37147,37148
+The Large Scale Movie Description Challenge (LSMDC) 2017 : Movie Multiple-Choice Test; https://competitions.codalab.org/competitions/11491; 11491; 21761
+Deep Pollination Raw; https://competitions.codalab.org/competitions/28996; 28996; 47667,47668
+Sentence-level Direct Assessment QE Shared Task 2020; https://competitions.codalab.org/competitions/24447; 24447; 40531,40532,40533,40534,40535,40536,40537,40538
+SegTHOR; https://competitions.codalab.org/competitions/21145; 21145; 35815,35816
+SemEval-2018 Task 1: Affect in Tweets (AIT-2018); https://competitions.codalab.org/competitions/17751; 17751; 30763,30764,30765
+SemEval-2019 Task 12 - Toponym Resolution in Scientific Papers; https://competitions.codalab.org/competitions/19948; 19948; 33976,33977,33978,33979,33980,33981,33982,33983,33984
+SemEval-2021 Task 2: Multilingual and Cross-lingual Word-in-Context Disambiguation (MCL-WiC); https://competitions.codalab.org/competitions/27054; 27054; 44622,44623,44624
+GermEval 2019 Task 1 -- Shared task on hierarchical classification of blurbs; https://competitions.codalab.org/competitions/20139; 20139; 34287,34288,34289,34290
+ASVspoof 2021 - Post-Challenge - Speech Deepfake track; https://competitions.codalab.org/competitions/35159; 35159; 56729
+TVQAplus Evaluation; https://competitions.codalab.org/competitions/22705; 22705; 38000
+Occluded Video Instance Segmentation (OVIS); https://competitions.codalab.org/competitions/36203; 36203; 59203
+Holistic 3D Vision Challenge - HoliCity Plane Detection Track @ ECCV 2020; https://competitions.codalab.org/competitions/24942; 24942; 41127,41128,41129
+Sentence-level QE shared task 2018; https://competitions.codalab.org/competitions/19316; 19316; 32890,32891,32892,32893,32894,32895
+Zero Resource Speech Challenge 2020; https://competitions.codalab.org/competitions/22999; 22999; 38476
+SemEval 2018 Task 4: Character Identification on Multiparty Dialogues; https://competitions.codalab.org/competitions/17310; 17310; 29976,30898
+SemEval 2020 Task 4 - Commonsense Validation and Explanation (ComVE); https://competitions.codalab.org/competitions/21080; 21080; 35720,35721,35722,35723,35724
+EVE: End-to-end Video-based Eye Tracking; https://competitions.codalab.org/competitions/28954; 28954; 47624,47625
+Reto NLP de Spain AI; https://competitions.codalab.org/competitions/27961; 27961; 45986
+Word Sense Disambiguation, Unified Evaluation Framework; https://competitions.codalab.org/competitions/15984; 15984; 27698
+2019 IEEE GRSS Data Fusion Contest Pairwise Semantic Stereo Challenge; https://competitions.codalab.org/competitions/20212; 20212; 34398,34399,34400
+The Story Cloze Test; https://competitions.codalab.org/competitions/15333; 15333; 26693,26694,26695
+SemEval-2018 Task 12 - The Argument Reasoning Comprehension Task; https://competitions.codalab.org/competitions/17327; 17327; 30015,30016,30017
+2017 Visual Domain Adaptation (VisDA2017) Segmentation Challenge; https://competitions.codalab.org/competitions/17054; 17054; 29365,29366
+UAVid semantic segmentation; https://competitions.codalab.org/competitions/25224; 25224; 41504,41503
+[OLD] Iris example challenge; https://competitions.codalab.org/competitions/15349; 15349; 26715,26716
+MICCAI Multimodal Brain Tumor Segmentation (BRaTS) Challenge; https://competitions.codalab.org/competitions/1; 1; 1,11
+Linking mathematical symbols to their descriptions; https://competitions.codalab.org/competitions/34011; 34011; 54612,54613,54614
+Pose-guided Human Rendering Benchmark Challenge; https://competitions.codalab.org/competitions/35349; 35349; 57100
+Statistical NLP - Assignment 1 - Word Sense Induction and Disambiguation; https://competitions.codalab.org/competitions/36019; 36019; 58762,58763,58764,58765,58766,58767,58768,58769,58770
+User behavior prediction; https://competitions.codalab.org/competitions/15261; 15261; 26571
+Chems; https://competitions.codalab.org/competitions/18751; 18751; 31872
+Feature Selection Challenge; https://competitions.codalab.org/competitions/3931; 3931; 8841
+Example Hello World Competition; https://competitions.codalab.org/competitions/17557; 17557; 30544
+MinneApple Fruit Detection Challenge; https://competitions.codalab.org/competitions/21718; 21718; 36437
+SemanticKITTI: Semantic Scene Completion; https://competitions.codalab.org/competitions/22037; 22037; 36931
+Task 10 - SemEval-2020; https://competitions.codalab.org/competitions/20815; 20815; 35233,35234,35235,35236
+SemEval-2021 Task 12 - Learning with Disagreements; https://competitions.codalab.org/competitions/25748; 25748; 42413,42416,42418
+CIEC-CTC 2021; https://competitions.codalab.org/competitions/32702; 32702; 52707,52709,52711
+IndoNLU Benchmark; https://competitions.codalab.org/competitions/26537; 26537; 43674,43675,43676,43677,43678,43679,43680,43681,43682,43683,43684,43685
+Sentence-level Post-Editing Effort QE shared task 2021; https://competitions.codalab.org/competitions/33412; 33412; 53794,53795,53796,53797,53798,53799,53800,53801,53802,53803,53804,53805
+MinneApple Fruit Counting Challenge; https://competitions.codalab.org/competitions/21719; 21719; 36438
+RuSimpleSentEval (RSSE); https://competitions.codalab.org/competitions/29037; 29037; 47726,47727
+BioCreative'21, Task 3 - Automatic extraction of medication names in tweets; https://competitions.codalab.org/competitions/23925; 23925; 39797,39798,39799
+Machine Learning Course Competition 2019/2020; https://competitions.codalab.org/competitions/21600; 21600; 36280,36281,36282,36283,36284,36285,36286,36287,36288,36289,36290,36291
+Chems v2; https://competitions.codalab.org/competitions/20006; 20006; 34096
+ELEXIS Monolingual Word Sense Alignment Task; https://competitions.codalab.org/competitions/22163; 22163; 37118
+The Large Scale Movie Description Challenge (LSMDC) 2017 : Movie Fill-in-the-Blank; https://competitions.codalab.org/competitions/11691; 11691; 21931
+SemanticKITTI: Panoptic Segmentation; https://competitions.codalab.org/competitions/24025; 24025; 39932
+Headstart IMDB Competition; https://competitions.codalab.org/competitions/25363; 25363; 41679
+Million-AID Multi-class Scene Classification; https://competitions.codalab.org/competitions/35945; 35945; 58611
+VISIOCITY Benchmark; https://competitions.codalab.org/competitions/28349; 28349; 46545
+MOCS: Detecting Moving Objects in Construction Sites; https://competitions.codalab.org/competitions/32605; 32605; 52614,52615
+SemEval-2020 Task 5: Modelling Causal Reasoning in Language: Detecting Counterfactuals; https://competitions.codalab.org/competitions/20972; 20972; 35538,35540,35542
+Fincausal 2020 (Post-Eval); https://competitions.codalab.org/competitions/25340; 25340; 41637,41638,41639,41640,41641,41642
+Word Segmentation and Morphological Parsing for Sanskrit; https://competitions.codalab.org/competitions/35744; 35744; 58065,58066
+IntPhys Challenge; https://competitions.codalab.org/competitions/20771; 20771; 35109
+OffensEval 2020 - English; https://competitions.codalab.org/competitions/22917; 22917; 38320,38321,38322
+2019 IEEE GRSS Data Fusion Contest Multi-view Semantic Stereo Challenge; https://competitions.codalab.org/competitions/20216; 20216; 34410,34411,34412
+SemEval-2018 Task 11: Machine Comprehension using Commonsense Knowledge; https://competitions.codalab.org/competitions/17184; 17184; 29567,29568,29569
+Legacy version - Multimodal Emotion Recognition on Comics scenes (EmoRecCom); https://competitions.codalab.org/competitions/30954; 30954; 50414,50415,50416
+SemEval-2018 task 7 Semantic Relation Extraction and Classification in Scientific Papers; https://competitions.codalab.org/competitions/17422; 17422; 30229,30547,30570,30569,30231,30232,30838
+Microsoft COCO Image Captioning Challenge; https://competitions.codalab.org/competitions/3221; 3221; 7391
+ShallowGlobe; https://competitions.codalab.org/competitions/18113; 18113; 31069,31070
+SemEval-2022 Task 10: Structured Sentiment competition; https://competitions.codalab.org/competitions/33556; 33556; 54027,54028,54029
+MultiCoNER: SemEval-2022 Task 11 (Post Evaluation Phase); https://competitions.codalab.org/competitions/36425; 36425; 59530,59531,59532,59533,59534,59535,59536,59537,59538,59539,59540,59541,59542
+SemEval-2018 Task 2, Multilingual Emoji Prediction; https://competitions.codalab.org/competitions/17344; 17344; 30062,30063,30064
+SemEval 2019, Task 10 -- Math Question Answering; https://competitions.codalab.org/competitions/20013; 20013; 34113,34114,34115,34116
+Evaluating grammatical error corrections; https://competitions.codalab.org/competitions/15475; 15475; 26924
+AutoML :: ROUND 1 PRACTICE; https://competitions.codalab.org/competitions/7462; 7462; 14652,14662
+Photo Triage Benchmark; https://competitions.codalab.org/competitions/9621; 9621; 18951
+Sentence-level Post-Editing Effort QE shared task 2020; https://competitions.codalab.org/competitions/24515; 24515; 40633,40634
+LOVEU@CVPR'21 GEBD Sub-track 1.1; https://competitions.codalab.org/competitions/30309; 30309; 49543,49544
+SemEval-2018 Task 6: Parsing Time Normalizations; https://competitions.codalab.org/competitions/17286; 17286; 29867,29868,29869
+SemEval19 Task 3 : EmoContext; https://competitions.codalab.org/competitions/19790; 19790; 33700,33701
+YouCook2 Dense Video Captioning; https://competitions.codalab.org/competitions/20594; 20594; 34928
+WebVision Challenge on Visual Understanding by Learning from Web Data - Image Classification Track; https://competitions.codalab.org/competitions/16439; 16439; 28356,28357
+Multimodal translation shared task; https://competitions.codalab.org/competitions/19917; 19917; 33835,33836,33837,33838
+ASVspoof 2021 - Post-Challenge - Physical Access track; https://competitions.codalab.org/competitions/35160; 35160; 56730
+BBO (GINA+MLP+SGD); https://competitions.codalab.org/competitions/28609; 28609; 46845
+SMM4H 2021 - Social Media Mining for Health Shared Task; https://competitions.codalab.org/competitions/28766; 28766; 47369,47370,47371,47372,47373,47374,47375,47376,47377,47378,47379,47380,47381,47382,47383,47384,47385,47386,47387,47388,47389,47390,47391,47392,47393,47394,47395,47396,47397,47398,47399,47400,47401,47402,47403,47404

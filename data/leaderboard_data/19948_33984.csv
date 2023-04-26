@@ -1,0 +1,6 @@
+submission_pk,User,Strict macro,Strict macro,Strict macro,Strict micro,Strict micro,Strict micro,Overlap macro,Overlap macro,Overlap macro,Overlap micro,Overlap micro,Overlap micro
+,P,R,F1,P,R,F1,P,R,F1,P,R,F1
+588349,dweissen,0.7770 (1),0.6851 (1),0.8358 (1),0.7708 (1),,,,,,,,,,,,,
+submission_pk,User,Strict macro,Strict macro,Strict macro,Strict micro,Strict micro,Strict micro,Overlap macro,Overlap macro,Overlap macro,Overlap micro,Overlap micro,Overlap micro
+,Pds,Rds,F1ds,Pds,Rds,F1ds,Pds,Rds,F1ds,Pds,Rds,F1ds
+588349,dweissen,0.6240 (1),0.5333 (1),0.6409 (1),0.5561 (1),,,,,,,,,,,,,

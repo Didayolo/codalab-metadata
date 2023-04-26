@@ -1,0 +1,5 @@
+submission_pk,User,BLEU (test),BLEU (validation)
+1006615,tae898,0.2843 (1),0.2720 (1),
+971880,iglu_contest,0.2270 (2),0.2205 (2),
+971949,rocosbasilisk,0.2270 (3),0.2205 (2),
+977013,Leonid776,- (4),- (3),

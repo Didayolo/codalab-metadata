@@ -1,0 +1,13 @@
+submission_pk,User,Average BLEU
+421766,UH_RiTUAL,1.0000 (1),
+424008,blackbishop,0.3212 (2),
+423616,AP_HOU_assign1,0.2831 (3),
+424037,cryptexcode,0.1667 (4),
+424224,gigabytex,0.0734 (5),
+424124,na14,0.0701 (6),
+424128,shallowLearner,0.0546 (7),
+424054,dm4017,0.0513 (8),
+424045,jinaobo,0.0396 (9),
+424132,dljr0122,0.0279 (10),
+424069,charmander,0.0244 (11),
+424048,the_chosen_one,0.0224 (12),

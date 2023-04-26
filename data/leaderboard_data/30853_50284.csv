@@ -1,0 +1,4 @@
+submission_pk,User,Mean-Average-Precision,Average-Precision,R-Precision,Reciprical-Rank,Precision@3,Precision@5,Precision@10
+866364,maramhasanain,0.592 (1),0.592 (1),0.500 (2),1.000 (1),1.000 (1),1.000 (1),0.900 (1),
+867218,ibaris,0.590 (2),0.590 (2),0.565 (1),1.000 (1),1.000 (1),1.000 (1),0.800 (2),
+866277,sshaar,0.574 (3),0.574 (3),0.500 (2),1.000 (1),1.000 (1),1.000 (1),0.900 (1),

@@ -1,0 +1,24 @@
+submission_pk,User,mMOTA,mMOTP,MOTA,MOTP,Misses,FP,Switch,Mostly Tracked,Mostly Lost,Partially Tracked
+881322,bdd100k,36.45 (1),70.99 (1),63.92 (1),84.46 (1),110774.0 (1),42844.0 (1),6172.0 (1),9312.0 (1),3109.0 (1),5624.0 (1),
+submission_pk,User,MOTA,MOTP,Misses,FP,Switch,Mostly Tracked,Mostly Lost,Partially Tracked
+881322,bdd100k,49.56 (1),78.81 (1),20027.0 (1),8676.0 (1),1362.0 (1),1504.0 (1),772.0 (1),1364.0 (1),
+submission_pk,User,MOTA,MOTP,Misses,FP,Switch,Mostly Tracked,Mostly Lost,Partially Tracked
+881322,bdd100k,66.67 (1),85.30 (1),88027.0 (1),33265.0 (1),4757.0 (1),7741.0 (1),2236.0 (1),4140.0 (1),
+submission_pk,User,MOTA,MOTP,Misses,FP,Switch,Mostly Tracked,Mostly Lost,Partially Tracked
+881322,bdd100k,27.02 (1),76.49 (1),2720.0 (1),903.0 (1),53.0 (1),67.0 (1),101.0 (1),120.0 (1),
+submission_pk,User,MOTA,MOTP,Misses,FP,Switch,Mostly Tracked,Mostly Lost,Partially Tracked
+881322,bdd100k,50.11 (1),78.82 (1),18576.0 (1),8543.0 (1),1349.0 (1),1493.0 (1),709.0 (1),1304.0 (1),
+submission_pk,User,MOTA,MOTP,Misses,FP,Switch,Mostly Tracked,Mostly Lost,Partially Tracked
+881322,bdd100k,37.27 (1),78.45 (1),1451.0 (1),133.0 (1),13.0 (1),11.0 (1),63.0 (1),60.0 (1),
+submission_pk,User,MOTA,MOTP,Misses,FP,Switch,Mostly Tracked,Mostly Lost,Partially Tracked
+881322,bdd100k,69.70 (1),85.25 (1),70291.0 (1),28629.0 (1),4537.0 (1),7559.0 (1),1903.0 (1),3727.0 (1),
+submission_pk,User,MOTA,MOTP,Misses,FP,Switch,Mostly Tracked,Mostly Lost,Partially Tracked
+881322,bdd100k,39.55 (1),86.58 (1),3726.0 (1),1724.0 (1),43.0 (1),60.0 (1),47.0 (1),89.0 (1),
+submission_pk,User,MOTA,MOTP,Misses,FP,Switch,Mostly Tracked,Mostly Lost,Partially Tracked
+881322,bdd100k,38.61 (1),85.79 (1),13702.0 (1),2907.0 (1),177.0 (1),122.0 (1),280.0 (1),324.0 (1),
+submission_pk,User,MOTA,MOTP,Misses,FP,Switch,Mostly Tracked,Mostly Lost,Partially Tracked
+881322,bdd100k,-1.62 (1),NaN (1),308.0 (1),5.0 (1),0.0 (1),0.0 (1),6.0 (1),0.0 (1),
+submission_pk,User,MOTA,MOTP,Misses,FP,Switch,Mostly Tracked,Mostly Lost,Partially Tracked
+881322,bdd100k,32.04 (1),76.59 (1),478.0 (1),131.0 (1),4.0 (1),8.0 (1),21.0 (1),15.0 (1),
+submission_pk,User,MOTA,MOTP,Misses,FP,Switch,Mostly Tracked,Mostly Lost,Partially Tracked
+881322,bdd100k,25.93 (1),76.46 (1),2242.0 (1),772.0 (1),49.0 (1),59.0 (1),80.0 (1),105.0 (1),

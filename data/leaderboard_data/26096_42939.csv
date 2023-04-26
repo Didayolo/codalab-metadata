@@ -1,0 +1,14 @@
+submission_pk,User,SLS,SLS,SLS,Target Top-1 Accuracy (%),Target Top-1 Accuracy (%),Target Top-1 Accuracy (%),Target Top-5 Accuracy (%),Target Top-5 Accuracy (%),Target Top-5 Accuracy (%),Source Top-1 Accuracy (%) (Reference Only),Source Top-1 Accuracy (%) (Reference Only),Source Top-1 Accuracy (%) (Reference Only),Source Top-5 Accuracy (%) (Reference Only),Source Top-5 Accuracy (%) (Reference Only),Source Top-5 Accuracy (%) (Reference Only)
+,PT,TL,TD,Verb,Noun,Action,Verb,Noun,Action,Verb,Noun,Action,Verb,Noun,Action
+896831,chengyi,3.0 (1),25.00 (1),40.75 (2),- (6),- (6),,,,,,,,,,,,,,,,
+900109,M3EM,3.0 (1),24.76 (2),40.73 (3),- (6),- (6),,,,,,,,,,,,,,,,
+900781,plnet,3.0 (1),24.71 (3),41.41 (1),36.27 (1),53.96 (1),,,,,,,,,,,,,,,,
+900110,tackgeun,3.0 (1),21.19 (4),35.12 (4),- (6),- (6),,,,,,,,,,,,,,,,
+887601,haoxiaoshuai,0.0 (2),18.97 (5),31.71 (7),- (6),- (6),,,,,,,,,,,,,,,,
+755571,EPIC_TA3N,3.0 (1),18.95 (6),30.53 (11),34.04 (2),51.54 (2),,,,,,,,,,,,,,,,
+900778,xy9,3.0 (1),18.56 (7),33.47 (5),30.41 (4),50.91 (4),,,,,,,,,,,,,,,,
+836531,yuntaodu,0.0 (2),18.50 (8),31.77 (6),- (6),- (6),,,,,,,,,,,,,,,,
+889468,Yihao_Chen,0.0 (2),18.38 (9),30.68 (10),- (6),- (6),,,,,,,,,,,,,,,,
+875411,can,0.0 (2),17.68 (10),31.61 (8),- (6),- (6),,,,,,,,,,,,,,,,
+900375,gh,3.0 (1),17.31 (11),31.16 (9),28.71 (5),46.28 (5),,,,,,,,,,,,,,,,
+755583,EPIC_TA3N_SOURCE_ONLY,3.0 (1),16.79 (12),29.06 (12),33.67 (3),51.40 (3),,,,,,,,,,,,,,,,

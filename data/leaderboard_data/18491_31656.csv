@@ -1,0 +1,9 @@
+submission_pk,User,AUROC,F1,Avg. log loss
+444369,Grotoco,0.7894 (1),0.2568 (1),0.3393 (2),
+443979,SLAM_baseline,0.7757 (2),0.1730 (2),0.3460 (1),
+submission_pk,User,AUROC,F1,Avg. log loss
+444369,Grotoco,0.7639 (1),0.2560 (1),0.3724 (2),
+443979,SLAM_baseline,0.7512 (2),0.1727 (2),0.3781 (1),
+submission_pk,User,AUROC,F1,Avg. log loss
+444369,Grotoco,0.7872 (1),0.3587 (1),0.3830 (2),
+443979,SLAM_baseline,0.7736 (2),0.2880 (2),0.3903 (1),

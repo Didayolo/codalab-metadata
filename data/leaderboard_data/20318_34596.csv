@@ -1,0 +1,9 @@
+submission_pk,User,Task1,Task2,AVG 1,Duration
+932878,hurrial,- (-),- (-),- (-),0.00 (1),
+925745,ardaakdemir,- (-),- (-),- (-),0.00 (1),
+submission_pk,User,Task1,Task 2,AVG 2
+925745,ardaakdemir,0.41 (1),0.61 (1),0.51 (1),
+932878,hurrial,0.00 (2),0.37 (2),0.18 (2),
+submission_pk,User,Task 3 Final,Precision,Recall,Average
+925745,ardaakdemir,,,,- (-),
+932878,hurrial,,,,- (-),

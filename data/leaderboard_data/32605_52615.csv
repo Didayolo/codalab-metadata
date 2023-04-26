@@ -1,0 +1,2 @@
+submission_pk,User,AP,AP IoU=.50,AP IoU=.75,AP small,AP medium,AP large,AR max=1,AR max=10,AR max=100,AR small,AR medium,AR large
+970861,ANLAB,0.468 (1),0.741 (1),0.498 (1),0.202 (1),0.383 (1),0.571 (1),0.424 (1),0.541 (1),0.543 (1),0.273 (1),0.459 (1),0.645 (1),

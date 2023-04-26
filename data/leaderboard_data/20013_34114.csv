@@ -1,0 +1,3 @@
+submission_pk,User,Accuracy (overall),Accuracy (closed),Accuracy (open),Accuracy (geo),Penalized Accuracy (overall),Penalized Accuracy (closed),Penalized Accuracy (open),Penalized Accuracy (geo)
+477482,se19-task10-organizers,0.14 (1),0.14 (1),0.17 (1),0.14 (1),0.01 (1),0.00 (1),0.04 (1),0.01 (1),
+478448,mklimasz,0.14 (1),0.14 (1),0.17 (1),0.14 (1),-0.03 (2),-0.03 (2),0.01 (2),-0.03 (2),

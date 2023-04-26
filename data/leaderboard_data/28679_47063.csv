@@ -1,0 +1,3 @@
+submission_pk,User,Micro precision,Micro recall,Micro F1 score,Macro precision,Macro recall,Macro F1 score,Averaged precision,Averaged recall,Averaged F1 score,Mean Squared Error (MSE)
+891029,JAGD,0.878289 (1),0.878289 (1),0.878289 (1),0.787914 (1),0.692100 (1),0.730844 (1),0.874664 (1),0.878289 (1),0.871423 (1),0.040925 (2),
+886879,Timen,0.732618 (2),0.732618 (2),0.732618 (2),0.530673 (2),0.292709 (2),0.288220 (2),0.714763 (2),0.732618 (2),0.643822 (2),0.422332 (1),

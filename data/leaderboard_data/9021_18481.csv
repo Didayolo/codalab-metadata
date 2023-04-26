@@ -1,0 +1,2 @@
+submission_pk,User,Accuracy,F-score,MRR,MAP
+180851,hcs,0.4136 (1),0.8846 (1),0.4136 (1),0.3856 (1),
