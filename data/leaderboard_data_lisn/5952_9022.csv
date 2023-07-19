@@ -1,0 +1,5 @@
+submission_pk,User,b'Average Accuracy (\xe2\x86\x91)',b'CIFAR-10 Acc. (\xe2\x86\x91)',b'CIFAR-100 Acc. (\xe2\x86\x91)',b'GTSRB Acc. (\xe2\x86\x91)',b'MNIST Acc. (\xe2\x86\x91)'
+209799,tianjian10,98.6 (1),99.6 (1),95.6 (1),99.6 (1),99.6 (1),
+210637,easytrojansniper,96.2 (2),99.6 (1),93.2 (3),95.6 (3),96.4 (3),
+210531,nikita.benkovich,95.5 (3),92.4 (2),94.8 (2),97.6 (2),97.2 (2),
+204077,mmazeika,28.6 (4),58.4 (3),4.8 (4),10.8 (4),40.4 (4),

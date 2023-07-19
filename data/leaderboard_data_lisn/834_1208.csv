@@ -1,0 +1,14 @@
+submission_pk,User,b'Averaged Pearson Correlations',b'Empathy Pearson Correlation',b'Distress Pearson Correlation'
+61606,WENGSYX,0.494 (1),0.550 (1),0.440 (1),
+62946,soumitra_ghosh,0.432 (2),0.434 (2),0.430 (2),
+62638,ShailyDesai,0.367 (3),0.395 (3),0.340 (3),
+62835,shantpat,- (4),- (4),- (4),
+submission_pk,User,b'Macro F1-Score',b'Micro F1-Score',b'Accuracy',b'Macro Precision',b'Macro Recall',b'Micro Precision',b'Micro Recall'
+62835,shantpat,0.604 (1),0.682 (1),0.682 (1),0.629 (1),0.601 (1),0.682 (1),0.682 (1),
+61606,WENGSYX,0.540 (2),0.644 (2),0.644 (2),0.576 (3),0.517 (2),0.644 (2),0.644 (2),
+62946,soumitra_ghosh,0.479 (3),0.585 (3),0.585 (3),0.579 (2),0.470 (3),0.585 (3),0.585 (3),
+62638,ShailyDesai,- (4),- (4),- (4),- (4),- (4),- (4),- (4),
+submission_pk,User,b'PER Pearson Correlations'
+Exception parsing scores!
+submission_pk,User,b'IRI Pearson Correlations'
+Exception parsing scores!

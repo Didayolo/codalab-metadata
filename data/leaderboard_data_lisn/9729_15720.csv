@@ -1,0 +1,7 @@
+submission_pk,User,SLS,SLS,SLS,Training Modality,Top-1 Accuracy (%),Top-5 Accuracy (%),Per-Class Accuracy (%),Mean Average Precision (%),Mean Area Under Curve
+,b'PT',b'TL',b'TD',b'T_MOD',b'Interaction',b'Interaction',b'Avg.',b'Avg.',b'Avg.'
+457649,stevenlau,4.0 (1),0.0 (1),55.43 (1),85.52 (2),21.84 (2),26.98 (1),0.877 (1),,,,,,,,,,
+459229,audi666,4.0 (1),0.0 (1),55.11 (2),85.40 (3),21.14 (3),25.96 (4),0.856 (3),,,,,,,,,,
+459077,Yuqi_Li,4.0 (1),0.0 (1),55.07 (3),85.61 (1),20.95 (4),26.20 (2),0.859 (2),,,,,,,,,,
+302921,EPIC_AUDITORY_SLOWFAST,3.0 (2),0.0 (1),54.80 (4),85.18 (4),20.77 (5),26.01 (3),0.850 (4),,,,,,,,,,
+303323,EPIC_SSAST,3.0 (2),0.0 (1),53.97 (5),84.53 (5),22.41 (1),25.43 (5),0.819 (5),,,,,,,,,,

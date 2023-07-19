@@ -1,0 +1,12 @@
+submission_pk,User,b'COMET',b'BLEU',b'ROUGE-L-F1'
+180059,Lifeng.Han,- (-),,,
+171849,sahilmanchanda,- (-),,,
+174191,hw_yzz,- (-),,,
+submission_pk,User,b'COMET',b'BLEU',b'ROUGE-L-F1'
+174191,hw_yzz,1.1902 (1),41.5777 (1),0.7219 (1),
+180059,Lifeng.Han,1.0290 (2),28.5666 (2),0.6709 (2),
+171849,sahilmanchanda,0.9824 (3),27.9446 (3),0.6567 (3),
+submission_pk,User,b'COMET',b'BLEU',b'ROUGE-L-F1'
+180059,Lifeng.Han,- (-),,,
+171849,sahilmanchanda,- (-),,,
+174191,hw_yzz,- (-),,,

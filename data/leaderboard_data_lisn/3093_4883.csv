@@ -1,0 +1,5 @@
+submission_pk,User,b'F1 (Single+Multi Class)',b'F1 (Single Class+Level)',b'Accuracy (Classification)',b'F1 (Single+Multi Class+Level)',b'Accuracy (Class+Level)'
+150063,luwei-1998,0.957 (1),0.742 (1),0.891 (1),0.839 (1),0.764 (1),
+141346,Rehman,0.853 (2),0.583 (2),0.716 (2),0.389 (3),0.405 (3),
+130740,bdsaglam,0.642 (4),0.438 (3),0.548 (4),0.527 (2),0.482 (2),
+177973,megatron,0.840 (3),0.233 (4),0.693 (3),0.135 (4),0.127 (4),

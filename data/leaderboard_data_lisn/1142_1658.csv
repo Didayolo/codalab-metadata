@@ -1,0 +1,12 @@
+submission_pk,User,b'F1 score few-shot'
+44366,fulstock,0.62361 (1),
+45380,bond005,0.45077 (2),
+38798,artemovae,0.44022 (3),
+44830,mazurovEV,0.35411 (4),
+45531,ksmith,0.17451 (5),
+submission_pk,User,b'F1 score'
+44366,fulstock,0.77144 (1),
+38798,artemovae,0.67367 (2),
+45531,ksmith,0.66758 (3),
+45380,bond005,0.65437 (4),
+44830,mazurovEV,0.60419 (5),

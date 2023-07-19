@@ -1,0 +1,12 @@
+submission_pk,User,b'f_score',b'precision',b'recall'
+470689,Anonymous,- (-),,,
+470601,Anonymous,- (-),,,
+470377,Anonymous,- (-),,,
+submission_pk,User,b'Accuracy',b'accuracy_at_161',b'AUC'
+470377,Anonymous,0.7694 (1),- (-),- (-),
+470601,Anonymous,0.3293 (2),- (-),- (-),
+470689,Anonymous,0.0000 (3),- (-),- (-),
+submission_pk,User,b'F_score_AVG',b'F_score_T1',b'F_score_T2-1',b'F_score_T2-2',b'F_score_T2-3',b'F_score_T3'
+470689,Anonymous,,- (-),,,,,
+470601,Anonymous,,- (-),,,,,
+470377,Anonymous,,- (-),,,,,

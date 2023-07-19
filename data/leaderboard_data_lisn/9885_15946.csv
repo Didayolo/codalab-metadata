@@ -1,0 +1,6 @@
+submission_pk,User,b'F1 (Fine-grained)',b'Precision (Fine-grained)',b'Recall (Fine-grained)',b'F1 (Coarse-grained)',b'Precision (Coarse-grained)',b'Recall (Coarse-grained)'
+307000,diqiuzhuanzhuan,0.828 (1),0.839 (1),0.825 (1),0.934 (1),0.927 (1),0.942 (1),
+443657,FII_Better,0.683 (2),0.718 (2),0.667 (2),0.780 (3),0.793 (2),0.768 (3),
+312192,iris,0.650 (3),0.661 (3),0.658 (3),0.782 (2),0.770 (3),0.796 (2),
+305957,Shilpa,0.597 (4),0.610 (4),0.597 (4),0.751 (4),0.750 (4),0.753 (4),
+317823,sbiales,0.591 (5),0.603 (5),0.592 (5),0.741 (5),0.749 (5),0.734 (5),

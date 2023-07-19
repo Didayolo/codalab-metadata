@@ -1,0 +1,11 @@
+submission_pk,User,b'Relative Absolute Error',b'Absolute Error'
+103867,DortmundAI,0.879870 (1),0.011733 (1),
+95927,gonzalezgpablo,0.884148 (2),0.027989 (9),
+105466,juanjodelcoz,1.113949 (3),0.011776 (2),
+104966,tpopordanoska,1.177980 (4),0.019883 (8),
+90117,SLD_baseline,1.182070 (5),0.019763 (7),
+90107,PACC_baseline,1.305378 (6),0.015777 (4),
+90130,ACC_baseline,1.421342 (7),0.018412 (6),
+90123,C.C._baseline,1.893649 (8),0.014056 (3),
+90093,PCC_baseline,2.264615 (9),0.017114 (5),
+106523,MLPE_baseline,4.576749 (10),0.042267 (10),

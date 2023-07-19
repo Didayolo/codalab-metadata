@@ -1,0 +1,5 @@
+submission_pk,User,b'Target Recall at top-K',b'Target AUC',b'Target AP',"b""Sentence-level Pearson's""",b'Sentence-level Spearman'
+166768,IST-Unbabel,0.3786 (1),0.7849 (1),0.4753 (1),0.1034 (1),0.1902 (1),
+168726,Abulice,0.2203 (2),0.6523 (2),0.3150 (2),0.0966 (2),0.1589 (2),
+166178,fblain,0.0934 (3),0.4634 (3),0.1621 (3),0.0413 (3),-0.0101 (4),
+166125,plkumjorn,0.0476 (4),0.3881 (4),0.1263 (4),-0.0071 (4),0.1587 (3),

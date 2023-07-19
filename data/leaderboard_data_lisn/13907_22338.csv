@@ -1,0 +1,23 @@
+submission_pk,User,b'Utility Score',b'rate',b'cor',b'OR',b'il-age',b'il-bmi',b'il-cat'
+485721,kchida,- (-),,,,,,,
+485551,take,- (-),,,,,,,
+485527,LIFAnonymous,- (-),,,,,,,
+485509,nakata_nssol,- (-),,,,,,,
+485376,yijen,- (-),,,,,,,
+485267,masaya_kobayashi,- (-),,,,,,,
+485239,Hikaru,- (-),,,,,,,
+485227,FrankMa,- (-),,,,,,,
+485002,tailwind,- (-),,,,,,,
+477028,angelderonda,- (-),,,,,,,
+submission_pk,User,Attack Score,Privacy Scores after the attack,Privacy Scores after the attack,Privacy Scores after the attack,Privacy Scores after the attack,Privacy Scores after the attack,Privacy Scores after the attack,Privacy Scores after the attack,Privacy Scores after the attack,Privacy Scores after the attack,Privacy Scores after the attack
+,b'Attack Score',b'Team 1',b'Team 2',b'Team 3',b'Team 4',b'Team 5',b'Team 6',b'Team 7',b'Team 8',b'Team 9',b'Team 10'
+485721,kchida,0.3650 (1),0.0900 (1),,,,,,,,,,,,
+485239,Hikaru,0.3612 (2),0.1100 (2),,,,,,,,,,,,
+485527,LIFAnonymous,0.3163 (3),0.1200 (3),,,,,,,,,,,,
+485227,FrankMa,0.2875 (4),0.1200 (3),,,,,,,,,,,,
+485267,masaya_kobayashi,0.2375 (5),0.1100 (2),,,,,,,,,,,,
+485509,nakata_nssol,0.1737 (6),- (5),,,,,,,,,,,,
+485551,take,0.1562 (7),0.0900 (1),,,,,,,,,,,,
+477028,angelderonda,0.1475 (8),- (5),,,,,,,,,,,,
+485002,tailwind,0.1450 (9),0.1200 (3),,,,,,,,,,,,
+485376,yijen,0.0011 (10),1.0000 (4),,,,,,,,,,,,

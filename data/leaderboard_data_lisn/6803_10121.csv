@@ -1,0 +1,2 @@
+submission_pk,User,b'Score @ 0.50 IoU',b'Correct prediction',b'Correct absence',b'Incorrect prediction',b'Incorrect absence',b'Score @ 0.25 IoU',b'Score @ 0.1 IoU'
+270369,hannahbull,27.76 (1),30.36 (1),33.52 (1),-16.42 (1),-19.70 (1),39.39 (1),48.18 (1),

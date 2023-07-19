@@ -1,0 +1,11 @@
+submission_pk,User,Change graded,COMPARE,Change binary,Change binary,Change binary,Change binary gain,Change binary gain,Change binary gain,Change binary loss,Change binary loss,Change binary loss
+,b'SPR',b'SPR',b'F1',b'P',b'R',b'F1',b'P',b'R',b'F1',b'P',b'R'
+69777,myrachins,0.735 (1),0.842 (1),NaN (1),NaN (1),NaN (1),,,,,,,,,,,,
+67519,UsrD7,0.702 (2),0.829 (2),NaN (1),NaN (1),NaN (1),,,,,,,,,,,,
+66880,aishein,0.553 (3),0.558 (4),NaN (1),NaN (1),NaN (1),,,,,,,,,,,,
+65922,lscdiscovery_baseline1,0.543 (4),0.561 (3),NaN (1),NaN (1),NaN (1),,,,,,,,,,,,
+69772,akutuzov,0.508 (5),0.459 (5),NaN (1),NaN (1),NaN (1),,,,,,,,,,,,
+69844,rombek,0.497 (6),-0.546 (9),NaN (1),NaN (1),NaN (1),,,,,,,,,,,,
+67538,anauban,0.282 (7),NaN (7),NaN (1),NaN (1),NaN (1),,,,,,,,,,,,
+65926,lscdiscovery_baseline2,0.092 (8),0.088 (6),NaN (1),NaN (1),NaN (1),,,,,,,,,,,,
+69863,kudisov,-0.125 (9),-0.129 (8),NaN (1),NaN (1),NaN (1),,,,,,,,,,,,

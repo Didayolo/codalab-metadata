@@ -1,0 +1,4 @@
+submission_pk,User,b'Error rate',b'Memory usage (MiB)',b'CPU time (ms)',b'Score'
+372296,kawa_yo,0.0000000 (1),92.00 (1),0.086 (3),0.0621229 (1),
+420320,neuralchecker,0.0000000 (1),96.00 (2),0.055 (2),0.0646378 (2),
+396400,EdiMuskardin,0.0000000 (1),120.00 (3),0.037 (1),0.0806272 (3),

@@ -1,0 +1,6 @@
+submission_pk,User,Change graded,COMPARE,Change binary,Change binary,Change binary,Change binary gain,Change binary gain,Change binary gain,Change binary loss,Change binary loss,Change binary loss
+,b'SPR',b'SPR',b'F1',b'P',b'R',b'F1',b'P',b'R',b'F1',b'P',b'R'
+60308,lscdiscovery_baseline1,0.710 (1),0.707 (1),0.273 (3),NaN (3),NaN (2),,,,,,,,,,,,
+63519,kudisov,0.663 (2),0.651 (2),1.000 (1),0.900 (1),0.333 (1),,,,,,,,,,,,
+60311,lscdiscovery_baseline2,0.086 (3),0.170 (4),0.273 (3),0.100 (2),0.333 (1),,,,,,,,,,,,
+62612,aishein,NaN (4),0.373 (3),0.818 (2),NaN (3),NaN (2),,,,,,,,,,,,

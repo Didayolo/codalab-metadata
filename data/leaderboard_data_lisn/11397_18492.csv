@@ -1,0 +1,4 @@
+submission_pk,User,b'Gaze Direction Angular Error / deg',b'Point-of-Gaze Euclidean Error / px',b'Point-of-Gaze Euclidean Error / cm',b'Pupil Size Mean Absolute Error / mm'
+448007,Yinyang,1.94 (1),74.56 (1),2.15 (1),2.74 (2),
+445876,yzdan,2.06 (2),78.89 (2),2.27 (2),2.74 (2),
+360496,swook,2.37 (3),91.37 (3),2.63 (3),0.29 (1),

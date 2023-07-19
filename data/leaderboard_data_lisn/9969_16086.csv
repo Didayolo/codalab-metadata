@@ -1,0 +1,6 @@
+submission_pk,User,"Hand Object Segmentation (AP, %)","Hand Object Segmentation (AP, %)","Hand Object Segmentation (AP, %)","Hand Object Segmentation (AP, %)","Hand Object Segmentation (AP, %)"
+,b'Hand',b'Hand+Side',b'Hand+Contact',b'Object',b'Hand+Object'
+460366,lidanxu,57.92 (4),,,,,,
+459800,zuoyi,58.88 (3),,,,,,
+455225,I2R-VI-FF,64.85 (1),,,,,,
+302823,visor-hos-baseline,60.00 (2),,,,,,

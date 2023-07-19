@@ -1,5 +1,5 @@
-base_url = 'https://competitions.codalab.org/competitions/'
-#base_url = 'https://codalab.lisn.upsaclay.fr/competitions/'
+#base_url = 'https://competitions.codalab.org/competitions/'
+base_url = 'https://codalab.lisn.upsaclay.fr/competitions/'
 
 output = open('competitions.csv', 'w')
 header = 'title; url; id; phases_id\n'

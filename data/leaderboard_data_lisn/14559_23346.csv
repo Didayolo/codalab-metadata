@@ -1,0 +1,21 @@
+submission_pk,User,b'precision',b'recall',b'f1-score'
+492337,vahbuna,0.500 (1),0.346 (2),0.409 (2),
+489976,naist2023,0.500 (1),0.500 (1),0.500 (1),
+submission_pk,User,b'precision',b'recall',b'f1-score'
+492337,vahbuna,0.500 (1),0.490 (2),0.495 (2),
+489976,naist2023,0.500 (1),0.500 (1),0.500 (1),
+submission_pk,User,b'C0027497:\xc3\x9cbelkeit',b'C0011991:Diarrh\xc3\xb6e',b'C0015672:Ersch\xc3\xb6pfung',b'C0042963:Erbrechen',b'C0003123:Anorexie',b'C0018681:Kopfschmerzen'
+492337,vahbuna,0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),
+489976,naist2023,0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),
+submission_pk,User,b'C0015967:Fieber',b'C0206062:Interstitielle Lungenerkrankung',b'C0023895:Lebersch\xc3\xa4digung',b'C0012833:Drehschwindel',b'C0030193:Schmerz',b'C0002170:Alopezie'
+492337,vahbuna,0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),
+489976,naist2023,0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),
+submission_pk,User,b'C0004096:Analgetisches Asthma-Syndrom',b'C0022658:Nierenerkrankung',b'C0020517:Hypersensibilit\xc3\xa4t',b'C0917801:Insomnie',b'C0009806:Constipation'
+492337,vahbuna,0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),
+489976,naist2023,0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),
+submission_pk,User,b'C0005956:Knochenmarkerkrankung',b'C0000737:Bauchschmerzen',b'C0010692:H\xc3\xa4morrhagische Zystitis',b'C0015230:Ausschlag',b'C0015230:Ausschlag'
+492337,vahbuna,0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),
+489976,naist2023,0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),
+submission_pk,User,b'exact accuracy'
+489976,naist2023,1.000 (1),
+492337,vahbuna,0.693 (2),

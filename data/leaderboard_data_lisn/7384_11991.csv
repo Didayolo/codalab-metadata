@@ -1,0 +1,2 @@
+submission_pk,User,b'AP',b'AP IoU=.50',b'AP IoU=.75',b'AP large',b'AP medium',b'AP small',b'AR large',b'AR max=1',b'AR max=10',b'AR max=100',b'AR medium',b'AR small'
+394364,happyjohn360,0.46 (1),0.66 (1),0.50 (1),0.61 (1),0.52 (1),0.30 (1),0.77 (1),0.36 (1),0.58 (1),0.61 (1),0.67 (1),0.44 (1),

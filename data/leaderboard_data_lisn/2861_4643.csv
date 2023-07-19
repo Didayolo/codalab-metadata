@@ -1,0 +1,13 @@
+submission_pk,User,Sub-Task 1 (Hi + En -> Hing),Sub-Task 1 (Hi + En -> Hing),Sub-Task 2 (Hing -> En),Sub-Task 2 (Hing -> En)
+,b'ROUGE-L',b'WER',b'ROUGE-L',b'WER'
+160481,fkirefu,0.66442 (2),0.99028 (4),,,,,
+156810,akhan4,0.66092 (1),1.05994 (7),,,,,
+158719,prajdabre,0.81556 (5),0.99918 (5),,,,,
+157800,niksss,0.76354 (4),0.86792 (2),,,,,
+158162,Asha,0.72310 (3),0.65938 (1),,,,,
+159851,Vivek_Srivastava,0.93027 (6),1.00552 (6),,,,,
+159317,prashantkodali,2.68567 (11),1.11622 (8),,,,,
+155909,sahinur,0.97136 (7),0.88002 (3),,,,,
+157683,Jayant-Duneja,1.39334 (8),1.26085 (9),,,,,
+140772,mrutyunjay_research,1.40464 (9),1.26680 (10),,,,,
+159870,MaabElrashid,1.57446 (10),1.64041 (11),,,,,

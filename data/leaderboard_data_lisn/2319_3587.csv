@@ -1,0 +1,2 @@
+submission_pk,User,b'AP',b'AP IoU.50',b'AP IoU=.75',b'AP small',b'AP medium',b'AP large',b'AR max=1',b'AR max=10',b'AR max=100',b'AR small',b'AR medium',b'AR large'
+55171,AnLab,0.47 (1),0.74 (1),0.50 (1),0.20 (1),0.38 (1),0.57 (1),0.42 (1),0.54 (1),0.54 (1),0.27 (1),0.46 (1),0.64 (1),

@@ -1,0 +1,8 @@
+submission_pk,User,b'Max AUROC (\xe2\x86\x93)',b'MNTD AUROC (\xe2\x86\x93)',b'Accuracy-Based Detector AUROC (\xe2\x86\x93)',b'Specificity-Based Detector AUROC (\xe2\x86\x93)'
+210518,tdteach,49.3 (1),49.3 (1),32.7 (1),38.7 (2),
+209801,LearningMaker,52.6 (2),52.6 (2),40.7 (2),47.4 (3),
+209324,tianjian10,54.2 (3),54.2 (3),43.2 (3),29.0 (1),
+204739,tak,68.6 (4),68.6 (4),61.7 (5),53.6 (4),
+210562,RUOJIRUOLI,70.8 (5),70.8 (5),64.8 (7),64.6 (5),
+204244,mmazeika,73.9 (6),73.9 (6),63.4 (6),71.9 (7),
+210425,Happybadminton,78.3 (7),78.3 (7),57.4 (4),65.5 (6),

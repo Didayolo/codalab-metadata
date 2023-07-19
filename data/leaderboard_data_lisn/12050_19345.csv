@@ -1,0 +1,21 @@
+submission_pk,User,b'Precision',b'Recall',b'F Score'
+426547,luhexin,0.965640 (1),0.969402 (2),0.966771 (1),
+453915,haiqingli,0.964792 (2),0.946317 (3),0.954621 (2),
+430865,Fadi_Naser,0.946616 (3),0.944631 (4),0.944191 (3),
+439260,SabariNathan,0.853094 (4),0.996453 (1),0.917307 (4),
+454676,Geetanjali,- (5),- (5),- (5),
+449122,pakapro,- (5),- (5),- (5),
+submission_pk,User,b'F Score',b'Accuracy'
+453915,haiqingli,0.989669 (1),0.989669 (1),
+454676,Geetanjali,- (2),- (2),
+449122,pakapro,- (2),- (2),
+439260,SabariNathan,- (2),- (2),
+426547,luhexin,- (2),- (2),
+430865,Fadi_Naser,- (2),- (2),
+submission_pk,User,b'F Score',b'Accuracy'
+453915,haiqingli,0.983771 (1),0.983771 (1),
+454676,Geetanjali,- (2),- (2),
+449122,pakapro,- (2),- (2),
+439260,SabariNathan,- (2),- (2),
+426547,luhexin,- (2),- (2),
+430865,Fadi_Naser,- (2),- (2),

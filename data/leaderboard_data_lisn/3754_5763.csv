@@ -1,0 +1,18 @@
+submission_pk,User,b'Average Score'
+355023,Anonymous,71.2284 (1),
+107066,Anonymous,64.2272 (2),
+105273,Anonymous,49.6088 (3),
+157505,Anonymous,42.8416 (4),
+468259,Anonymous,42.6428 (5),
+submission_pk,User,b'Average Grounding',b'Persona Accuracy',b'Knowledge Accuracy'
+355023,Anonymous,95.5589 (1),92.2711 (1),98.8467 (1),
+107066,Anonymous,88.8343 (2),87.1434 (2),90.5252 (3),
+157505,Anonymous,85.6831 (3),86.7495 (4),84.6167 (4),
+468259,Anonymous,85.2857 (4),77.8992 (5),92.6721 (2),
+105273,Anonymous,75.9617 (5),86.8595 (3),65.0639 (5),
+submission_pk,User,b'Average Generation',b'SacreBLEU',b'CharF++',b'ROUGE-L'
+355023,Anonymous,46.8980 (1),32.4795 (1),53.9012 (1),54.3133 (1),
+107066,Anonymous,39.6200 (2),25.0850 (2),46.6757 (2),47.0984 (2),
+105273,Anonymous,23.2560 (3),10.8747 (3),27.9026 (3),30.9892 (3),
+468259,Anonymous,0.0000 (4),0.0000 (4),0.0000 (4),0.0000 (4),
+157505,Anonymous,0.0000 (4),0.0000 (4),0.0000 (4),0.0000 (4),

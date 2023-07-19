@@ -1,0 +1,14 @@
+submission_pk,User,SLS,SLS,SLS,Target Top-1 Accuracy (%),Target Top-1 Accuracy (%),Target Top-1 Accuracy (%),Target Top-5 Accuracy (%),Target Top-5 Accuracy (%),Target Top-5 Accuracy (%),Source Top-1 Accuracy (%),Source Top-1 Accuracy (%),Source Top-1 Accuracy (%),Source Top-5 Accuracy (%),Source Top-5 Accuracy (%),Source Top-5 Accuracy (%)
+,b'PT',b'TL',b'TD',b'Verb',b'Noun',b'Action',b'Verb',b'Noun',b'Action',b'Verb',b'Noun',b'Action',b'Verb',b'Noun',b'Action'
+459123,NS-LLM,3.00 (2),58.22 (1),84.26 (1),- (6),- (6),,,,,,,,,,,,,,,,
+128838,VI-I2R,4.00 (1),57.89 (3),83.48 (2),- (6),- (6),,,,,,,,,,,,,,,,
+106429,Audio-Adaptive-CVPR2022,3.00 (2),52.95 (9),80.03 (9),62.21 (3),85.78 (3),,,,,,,,,,,,,,,,
+459343,sshayan,3.00 (2),58.11 (2),80.84 (7),- (6),- (6),,,,,,,,,,,,,,,,
+124269,plnet,3.00 (2),55.51 (4),82.77 (3),63.24 (2),87.32 (2),,,,,,,,,,,,,,,,
+35385,CVPR2021-chengyi,3.00 (2),53.16 (8),80.74 (8),- (6),- (6),,,,,,,,,,,,,,,,
+35418,CVPR2021-M3EM,3.00 (2),53.29 (7),81.64 (5),- (6),- (6),,,,,,,,,,,,,,,,
+35434,CVPR2021-plnet,3.00 (2),55.22 (5),81.93 (4),63.26 (1),88.32 (1),,,,,,,,,,,,,,,,
+458030,rhodri,3.00 (2),54.07 (6),81.55 (6),- (6),- (6),,,,,,,,,,,,,,,,
+127954,Nie-Lin,3.00 (2),48.87 (10),74.61 (10),- (6),- (6),,,,,,,,,,,,,,,,
+35344,EPIC_TA3N,3.00 (2),46.91 (11),72.70 (11),60.52 (5),84.81 (4),,,,,,,,,,,,,,,,
+35371,EPIC_TA3N_SOURCE_ONLY,3.00 (2),44.39 (12),69.69 (12),60.98 (4),84.76 (5),,,,,,,,,,,,,,,,

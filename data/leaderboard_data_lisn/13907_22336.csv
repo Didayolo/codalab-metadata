@@ -1,0 +1,21 @@
+submission_pk,User,b'Utility Score',b'rate',b'cor',b'OR',b'il-age',b'il-bmi',b'il-cat'
+473867,kchida,0.8594 (1),0.0587 (5),0.0548 (4),0.1297 (4),0.1000 (2),0.0750 (2),0.3750 (1),
+473614,tailwind,0.8182 (2),0.0000 (1),0.0000 (1),0.0000 (1),0.4000 (6),0.2000 (4),0.3750 (1),
+473111,Hikaru,0.8113 (3),0.0060 (2),0.0190 (2),0.0451 (2),0.3000 (5),0.3000 (5),0.3750 (1),
+473825,angelderonda,0.7612 (4),0.0474 (4),0.1389 (5),0.0517 (3),0.0000 (1),0.0000 (1),0.7500 (4),
+471943,take,0.7209 (5),0.0903 (6),0.1605 (7),0.4255 (7),0.2000 (3),0.2000 (4),0.5000 (2),
+472383,masaya_kobayashi,0.7034 (6),0.0329 (3),0.0383 (3),0.4382 (8),0.1000 (2),0.4850 (8),0.5000 (2),
+473834,LIFAnonymous,0.6327 (7),0.1127 (8),0.1837 (8),0.4117 (6),0.2500 (4),0.4650 (7),0.6250 (3),
+472913,FrankMa,0.5954 (8),0.0974 (7),0.1478 (6),0.2919 (5),0.4500 (7),0.4049 (6),0.7500 (4),
+473842,nakata_nssol,0.0000 (9),0.1295 (9),0.1886 (9),0.5000 (9),1.0000 (8),0.1450 (3),0.5000 (2),
+submission_pk,User,Attack Score,Privacy Scores after the attack,Privacy Scores after the attack,Privacy Scores after the attack,Privacy Scores after the attack,Privacy Scores after the attack,Privacy Scores after the attack,Privacy Scores after the attack,Privacy Scores after the attack,Privacy Scores after the attack,Privacy Scores after the attack
+,b'Attack Score',b'Team 1',b'Team 2',b'Team 3',b'Team 4',b'Team 5',b'Team 6',b'Team 7',b'Team 8',b'Team 9',b'Team 10'
+473842,nakata_nssol,- (-),,,,,,,,,,,,,
+473867,kchida,- (-),,,,,,,,,,,,,
+473834,LIFAnonymous,- (-),,,,,,,,,,,,,
+473825,angelderonda,- (-),,,,,,,,,,,,,
+473614,tailwind,- (-),,,,,,,,,,,,,
+473111,Hikaru,- (-),,,,,,,,,,,,,
+472913,FrankMa,- (-),,,,,,,,,,,,,
+472383,masaya_kobayashi,- (-),,,,,,,,,,,,,
+471943,take,- (-),,,,,,,,,,,,,

@@ -1,0 +1,12 @@
+submission_pk,User,b'F1 Score'
+430703,aaGan,- (-),
+277444,wada,- (-),
+submission_pk,User,b'F1 Score'
+430703,aaGan,- (-),
+277444,wada,- (-),
+submission_pk,User,"b""Spearman's R""","b""Spearman's R (Idiom Only)""","b""Spearman's R (STS Only)"""
+277444,wada,0.79 (1),0.41 (1),0.83 (1),
+430703,aaGan,0.73 (2),0.26 (2),0.53 (2),
+submission_pk,User,"b""Spearman's R""","b""Spearman's R (Idiom Only)""","b""Spearman's R (STS Only)"""
+277444,wada,NaN (1),NaN (1),NaN (1),
+430703,aaGan,- (2),- (2),- (2),

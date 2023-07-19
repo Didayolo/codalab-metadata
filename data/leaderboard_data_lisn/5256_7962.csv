@@ -1,0 +1,11 @@
+submission_pk,User,Overall (Top-1),Overall (Top-1),Overall (Top-1),Overall (Top-5),Overall (Top-5),Overall (Top-5),Unseen Toys (Top-5),Unseen Toys (Top-5),Unseen Toys (Top-5),Tail Classes (Top-5),Tail Classes (Top-5),Tail Classes (Top-5)
+,b'verb',b'object',b'action',b'verb',b'object',b'action',b'verb',b'object',b'action',b'verb',b'object',b'action'
+164031,Assembly101,47.93 (1),70.45 (1),68.48 (1),29.45 (2),,,,,,,,,,,,,
+275624,ADvision,40.61 (2),63.89 (2),62.42 (2),31.99 (1),,,,,,,,,,,,,
+326381,Boshen,34.62 (3),56.16 (3),54.72 (3),22.50 (3),,,,,,,,,,,,,
+348199,Necca,28.07 (5),50.75 (4),50.86 (4),10.38 (5),,,,,,,,,,,,,
+343022,MengyuanLiu,27.24 (6),49.82 (5),50.10 (5),10.92 (4),,,,,,,,,,,,,
+186869,ms-3gd_context,25.70 (7),46.90 (6),47.32 (6),8.15 (6),,,,,,,,,,,,,
+186700,or-berman,29.20 (4),41.39 (7),41.74 (7),1.22 (7),,,,,,,,,,,,,
+167427,head_biased_chance,0.54 (8),2.60 (8),2.63 (8),0.00 (9),,,,,,,,,,,,,
+166700,chance,0.09 (9),0.40 (9),0.36 (9),0.48 (8),,,,,,,,,,,,,

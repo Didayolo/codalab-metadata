@@ -1,0 +1,13 @@
+submission_pk,User,b'Relative Absolute Error',b'Absolute Error'
+96087,gonzalezgpablo,1.230852 (1),0.032078 (11),
+90116,SLD_baseline,1.309778 (2),0.015520 (5),
+90343,SLD_tfidf_baseline,1.319495 (3),0.018288 (7),
+90110,PACC_baseline,1.454290 (4),0.012204 (1),
+90346,ACC_baseline,1.486606 (5),0.013099 (2),
+90340,PACC-tfidf_baseline,1.538527 (6),0.017885 (6),
+90125,C.C._baseline,1.690711 (7),0.013670 (4),
+90097,PCC_baseline,1.771428 (8),0.013277 (3),
+90327,ACC_tfidf_baseline,2.014395 (9),0.019931 (9),
+90334,CC_tfidf_baseline,2.243929 (10),0.019494 (8),
+90338,PCC_tfidf_baseline,3.060040 (11),0.029125 (10),
+90310,MLPE_baseline,4.576749 (12),0.042267 (12),

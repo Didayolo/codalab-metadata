@@ -1,0 +1,28 @@
+submission_pk,User,b'precision',b'recall',b'f1-score'
+492338,vahbuna,0.500 (1),0.346 (2),0.409 (2),
+490896,BPortelli,0.500 (1),0.249 (3),0.332 (3),
+489906,ngoquyenbg,0.500 (1),0.348 (1),0.410 (1),
+submission_pk,User,b'precision',b'recall',b'f1-score'
+492338,vahbuna,0.500 (1),0.490 (2),0.495 (2),
+490896,BPortelli,0.500 (1),0.481 (3),0.490 (3),
+489906,ngoquyenbg,0.500 (1),0.490 (1),0.495 (1),
+submission_pk,User,b'C0027497:naus\xc3\xa9es',b'C0011991:diarrh\xc3\xa9e',b'C0015672:fatigue',b'C0042963:vomissements',b'C0003123:anorexie',b'C0018681:maux de t\xc3\xaate'
+492338,vahbuna,0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),
+490896,BPortelli,0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),
+489906,ngoquyenbg,0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),
+submission_pk,User,b'C0015967:fi\xc3\xa8vre',b'C0206062:maladie pulmonaire interstitielle',b'C0023895:probl\xc3\xa8mes de foie',b'C0012833:vertiges flottants',b'C0030193:douleur',b'C0002170:alop\xc3\xa9cie'
+492338,vahbuna,0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),
+490896,BPortelli,0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),
+489906,ngoquyenbg,0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),
+submission_pk,User,"b""C0004096:syndrome d'asthme analg\xc3\xa9sique""",b'C0022658:insuffisance r\xc3\xa9nale',b'C0020517:hypersensibilit\xc3\xa9',b'C0917801:insomnie',b'C0009806:constipation'
+492338,vahbuna,0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),
+490896,BPortelli,0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),
+489906,ngoquyenbg,0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),
+submission_pk,User,b'C0005956:dysfonctionnement de la moelle osseuse',b'C0000737:douleur abdominale',b'C0010692:cystite h\xc3\xa9morragique',b'C0015230:exanth\xc3\xa8me',b'C0149745:stomatite'
+492338,vahbuna,0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),
+490896,BPortelli,0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),
+489906,ngoquyenbg,0.000 (1),0.000 (1),0.000 (1),0.000 (1),0.000 (1),
+submission_pk,User,b'exact accuracy'
+489906,ngoquyenbg,0.696 (1),
+492338,vahbuna,0.692 (2),
+490896,BPortelli,0.498 (3),

@@ -1,0 +1,579 @@
+title; url; id; phases_id
+The 1st Large-scale Video Object Segmentation Challenge; https://codalab.lisn.upsaclay.fr/competitions/7685; 7685; 12647,12648
+The 2nd Large-scale Video Object Segmentation Challenge - Track 2: Video Instance Segmentation; https://codalab.lisn.upsaclay.fr/competitions/7682; 7682; 12641,12642
+The 2nd Large-scale Video Object Segmentation Challenge - Track 1: Video Object Segmentation; https://codalab.lisn.upsaclay.fr/competitions/7683; 7683; 12644,12645
+The 2nd Large-scale Video Object Segmentation Challenge - Track 1: VOS (migrated server); https://codalab.lisn.upsaclay.fr/competitions/6066; 6066; 9139,9141
+The 2nd Large-scale Video Object Segmentation Challenge - Track 2: VIS (migrated server); https://codalab.lisn.upsaclay.fr/competitions/6064; 6064; 9134,9137
+COCO Keypoint Challenge; https://codalab.lisn.upsaclay.fr/competitions/7403; 7403; 12008,12009,12010
+The 3nd Large-scale Video Object Segmentation Challenge - Track 2: Video Instance Segmentation; https://codalab.lisn.upsaclay.fr/competitions/7680; 7680; 12638,12639
+IGLU NeurIPS 2021 Competition: Silent Builder; https://codalab.lisn.upsaclay.fr/competitions/387; 387; 536
+Western Power Distribution Data Challenge (Part 1); https://codalab.lisn.upsaclay.fr/competitions/213; 213; 280,281
+MISP Challenge 2021(Task2); https://codalab.lisn.upsaclay.fr/competitions/436; 436; 592
+ADD 2022 - Audio fake game (FG); https://codalab.lisn.upsaclay.fr/competitions/4106; 4106; 6361,6363
+ADD 2022 - Low-quality fake audio detection(LF); https://codalab.lisn.upsaclay.fr/competitions/4110; 4110; 6367
+ADD 2022 - Partially fake audio detection(PF); https://codalab.lisn.upsaclay.fr/competitions/4111; 4111; 6368
+PreTENS SemEval22 Task3 (SubTask2); https://codalab.lisn.upsaclay.fr/competitions/1290; 1290; 1893
+PreTENS SemEval22 Task3 (SubTask1); https://codalab.lisn.upsaclay.fr/competitions/1292; 1292; 1895
+MISP Challenge 2021(Task2) Eval Phase; https://codalab.lisn.upsaclay.fr/competitions/850; 850; 1236
+MISP Challenge 2021(Task1) Eval Phase; https://codalab.lisn.upsaclay.fr/competitions/887; 887; 1293
+MISP Challenge 2021(Task1); https://codalab.lisn.upsaclay.fr/competitions/454; 454; 621
+SemEval 2022 - Task 6 (iSarcasmEval) : Intended Sarcasm Detection In English and Arabic; https://codalab.lisn.upsaclay.fr/competitions/1340; 1340; 2033,2030,2034,2032,2031
+Соревнование RuNNE (Отладочная фаза); https://codalab.lisn.upsaclay.fr/competitions/1142; 1142; 1658
+SI 630 Homework 2 word2vec; https://codalab.lisn.upsaclay.fr/competitions/1659; 1659; 2589,2590,2591
+Western Power Distribution Data Challenge (Part 2); https://codalab.lisn.upsaclay.fr/competitions/1324; 1324; 1968,1969
+IGLU Silent Builder: Development phase; https://codalab.lisn.upsaclay.fr/competitions/662; 662; 951,952,953
+Соревнование RuNNE (Тестовая фаза); https://codalab.lisn.upsaclay.fr/competitions/1863; 1863; 2875
+Real-world Reinforcement Learning Challenge; https://codalab.lisn.upsaclay.fr/competitions/823; 823; 1192,1193,1194
+TAYSIR - Beta; https://codalab.lisn.upsaclay.fr/competitions/11055; 11055; 17965,17966
+Hero, villain and Victim: Dissecting harmful memes for Semantic role labelling of entities; https://codalab.lisn.upsaclay.fr/competitions/906; 906; 1309
+PBVS 2022 Thermal Image Super-Resolution Challenge (TISR) - EVALUATION; https://codalab.lisn.upsaclay.fr/competitions/1990; 1990; 3049,3050
+UPF Object Tracking Mini-Challenge; https://codalab.lisn.upsaclay.fr/competitions/2341; 2341; 3623,3624
+PBVS 2022 Multi-modal Aerial View Object Classification Challenge - Track 2 (SAR+EO); https://codalab.lisn.upsaclay.fr/competitions/1392; 1392; 2104,2105
+PBVS 2022 Multi-modal Aerial View Object Classification Challenge - Track 1 (SAR); https://codalab.lisn.upsaclay.fr/competitions/1388; 1388; 2101,2102
+Qur'an QA 2022 Shared Task; https://codalab.lisn.upsaclay.fr/competitions/2536; 2536; 3880,3882
+NTIRE 2022 Stereo Image Super-Resolution Challenge; https://codalab.lisn.upsaclay.fr/competitions/1598; 1598; 2510,2511
+NTIRE 2022 Challenge on Multi-Spectral Filter Array Demosaicing; https://codalab.lisn.upsaclay.fr/competitions/722; 722; 1311,1313
+NTIRE 2022 Challenge on Spectral Reconstruction from RGB; https://codalab.lisn.upsaclay.fr/competitions/721; 721; 1314,1319
+OSACT5 Shared Task on Fine-Grained Hate Speech Detection on Arabic Twitter (Subtask C); https://codalab.lisn.upsaclay.fr/competitions/2334; 2334; 3609,3610
+NTIRE 2022 Efficient Super-Resolution Challenge; https://codalab.lisn.upsaclay.fr/competitions/1865; 1865; 2878,2879
+OSACT5 Shared Task on Fine-Grained Hate Speech Detection on Arabic Twitter (Subtask A); https://codalab.lisn.upsaclay.fr/competitions/2324; 2324; 3593,3594
+NTIRE 2022 High Dynamic Range Challenge - Track 2 Low-complexity (fidelity constrain); https://codalab.lisn.upsaclay.fr/competitions/1515; 1515; 2309,2310
+NTIRE 2022 Burst Super-Resolution Challenge - Track 1 Synthetic; https://codalab.lisn.upsaclay.fr/competitions/1750; 1750; 2737,2756
+OSACT5 Shared Task on Fine-Grained Hate Speech Detection on Arabic Twitter (Subtask B); https://codalab.lisn.upsaclay.fr/competitions/2332; 2332; 3605,3606
+NTIRE 2022 Perceptual Image Quality Assessment Challenge Track 2 No-Reference; https://codalab.lisn.upsaclay.fr/competitions/1568; 1568; 2432,2433
+NTIRE 2022 Image Inpainting Challenge Track 2 Semantic Guidance; https://codalab.lisn.upsaclay.fr/competitions/1608; 1608; 2526,2527
+NTIRE 2022 Perceptual Image Quality Assessment Challenge Track 1 Full-Reference; https://codalab.lisn.upsaclay.fr/competitions/1567; 1567; 2430,2431
+NTIRE 2022 Image Inpainting Challenge Track 1 Unsupervised; https://codalab.lisn.upsaclay.fr/competitions/1607; 1607; 2524,2525
+NTIRE 2022 High Dynamic Range Challenge - Track 1 Fidelity (low-complexity constrain); https://codalab.lisn.upsaclay.fr/competitions/1514; 1514; 2307,2308
+Lexical Semantic Change Discovery Shared Task; https://codalab.lisn.upsaclay.fr/competitions/2243; 2243; 3465,3466,3467,3468
+NTIRE 2022 Super-Resolution and Quality Enhancement of Compressed Video - Track 1 Enhancement; https://codalab.lisn.upsaclay.fr/competitions/1495; 1495; 2276,2277
+NTIRE 2022 Super-Resolution and Quality Enhancement of Compressed Video - Track 2 Enhancement (x2SR); https://codalab.lisn.upsaclay.fr/competitions/1496; 1496; 2278,2279
+NTIRE 2022 Super-Resolution and Quality Enhancement of Compressed Video - Track 3 Enhancement (x4SR); https://codalab.lisn.upsaclay.fr/competitions/1497; 1497; 2280,2281
+Test HVV 2; https://codalab.lisn.upsaclay.fr/competitions/2537; 2537; 3883
+Western Power Distribution Data Challenge (Part 3); https://codalab.lisn.upsaclay.fr/competitions/2625; 2625; 4137,4138
+SI630 W22 Homework 2; https://codalab.lisn.upsaclay.fr/competitions/1831; 1831; 2843
+DeepFake Game Competition (DFGC) @ IJCB 2022 - Creation Track; https://codalab.lisn.upsaclay.fr/competitions/2149; 2149; 3291,3293,3292
+ALDA ECONet Challenge 2022; https://codalab.lisn.upsaclay.fr/competitions/4076; 4076; 6337
+The 3rd International Competition on Human Identificaiton at a Distance 2022 (HID2022); https://codalab.lisn.upsaclay.fr/competitions/2542; 2542; 3889,3890
+5th UG2+ challenge (CVPR 2022) Track 1.1 - Object Detection in the Hazy Condition; https://codalab.lisn.upsaclay.fr/competitions/1235; 1235; 1776,1777
+UG2+ 2022 Track2 - Semi-Supervised Action Recognition in the Dark; https://codalab.lisn.upsaclay.fr/competitions/1112; 1112; 1606,1608
+ROSE Challenge [CVPR 2022]; https://codalab.lisn.upsaclay.fr/competitions/2618; 2618; 4106,4107,4108,4109,4110,4111
+TinyAction Challenge [CVPR 2022] [Recognition task]; https://codalab.lisn.upsaclay.fr/competitions/1832; 1832; 2848
+Paraphrase Identification in Mexican Spanish Competition; https://codalab.lisn.upsaclay.fr/competitions/2345; 2345; 3633,3634
+CLEF2022 CheckThat! Lab - Task 1; https://codalab.lisn.upsaclay.fr/competitions/4230; 4230; 6673,6688,6687,6686,6685,6684,6683,6682,6681,6680,6679,6678,6677,6676,6675,6674,6672,6671,6670,6669,6668
+CLEF2022 CheckThat! Lab - Task 2; https://codalab.lisn.upsaclay.fr/competitions/4260; 4260; 6754,6753,6752
+CLEF2022 CheckThat! Lab - Task 3; https://codalab.lisn.upsaclay.fr/competitions/4633; 4633; 7121,7122
+HinglishEval-INLG-2022; https://codalab.lisn.upsaclay.fr/competitions/1688; 1688; 2639,2640
+LeQua2022 - Official; https://codalab.lisn.upsaclay.fr/competitions/4134; 4134; 6414,6413,6412,6411
+ICPR2022MSR: Extracting subtitles in audio modal with visual annotations; https://codalab.lisn.upsaclay.fr/competitions/2417; 2417; 3738,3739,3740
+ICPR2022 Extracting subtitles with both visual and audio annotations; https://codalab.lisn.upsaclay.fr/competitions/2418; 2418; 3742,3743,3745
+ICPR2022MSR: Extracting subtitles in visual modality with audio annotations; https://codalab.lisn.upsaclay.fr/competitions/2415; 2415; 6480,3733,3734
+DeepFake Game Competition (DFGC) @ IJCB 2022 - Detection Track (NEW); https://codalab.lisn.upsaclay.fr/competitions/3523; 3523; 5445,5446,5447,6789
+DeepFake Game Competition (DFGC) @ IJCB 2022 - Detection Track (Migrated); https://codalab.lisn.upsaclay.fr/competitions/2692; 2692; 4267,4268
+ICPR2022-ODOR; https://codalab.lisn.upsaclay.fr/competitions/1939; 1939; 2973,2974,2975
+SHARP 2022 - Challenge 1 / Track 1 @ CVPR 2022; https://codalab.lisn.upsaclay.fr/competitions/1777; 1777; 2779
+1st ACRE Cascade Competition; https://codalab.lisn.upsaclay.fr/competitions/2197; 2197; 3364,3365,3366
+SHARP 2022 - Challenge 2 / Track 2 @ CVPR 2022 - Evaluation Phase; https://codalab.lisn.upsaclay.fr/competitions/4609; 4609; 7109
+SHARP 2022 - Challenge 1 / Track 2 @ CVPR 2022 - Evaluation Phase; https://codalab.lisn.upsaclay.fr/competitions/4603; 4603; 7101
+The 4th Large-scale Video Object Segmentation - Track 3: Referring Video Object Segmentation; https://codalab.lisn.upsaclay.fr/competitions/3282; 3282; 5095,5096
+The 4th Large-scale Video Object Segmentation Challenge - Track 2: Video Instance Segmentation; https://codalab.lisn.upsaclay.fr/competitions/3410; 3410; 5307,5308
+The 4th Large-scale Video Object Segmentation Challenge - Track 1: Video Object Segmentation; https://codalab.lisn.upsaclay.fr/competitions/3295; 3295; 5116,5117
+Woodscape Fisheye Object Detection Challenge for Autonomous Driving | CVPR 2022 OmniCV Workshop; https://codalab.lisn.upsaclay.fr/competitions/4074; 4074; 6335,6336
+PRINCE Out-of-distribution Generalization Challenge @ ECML-PKDD; https://codalab.lisn.upsaclay.fr/competitions/3353; 3353; 5216,5217
+HOMAGE Scene-graph Generation - ActivityNet Challenge CVPR2022 Workshop; https://codalab.lisn.upsaclay.fr/competitions/4264; 4264; 6760
+DAVINCIS@IberLEF 2022; https://codalab.lisn.upsaclay.fr/competitions/2638; 2638; 4188,4187,4190,4189
+The Second International Scan-to-BIM Competition 3D Challenge; https://codalab.lisn.upsaclay.fr/competitions/5101; 5101; 7758
+The Second International Scan-to-BIM Competition 2D Challenge; https://codalab.lisn.upsaclay.fr/competitions/4966; 4966; 7568
+Light-Weight Facial Landmark Prediction Challenge; https://codalab.lisn.upsaclay.fr/competitions/5118; 5118; 7777
+CRAC 2022 Shared Task on Multilingual Coreference Resolution; https://codalab.lisn.upsaclay.fr/competitions/4891; 4891; 7435,7436
+Fincausal 2022; https://codalab.lisn.upsaclay.fr/competitions/3802; 3802; 5819,5820
+ECCV'22 ChaLearn Seasons in Drift Challenge (track 2: week level); https://codalab.lisn.upsaclay.fr/competitions/4273; 4273; 6776,6777
+ECCV'22 ChaLearn Seasons in Drift Challenge (track 1: day level); https://codalab.lisn.upsaclay.fr/competitions/4272; 4272; 6774,6775
+ECCV'22 ChaLearn Sign Spotting Challenge Challenge (track 2: OSLWL); https://codalab.lisn.upsaclay.fr/competitions/4199; 4199; 6507,6508
+ECCV'22 ChaLearn Sign Spotting Challenge Challenge (track 1: MSSL); https://codalab.lisn.upsaclay.fr/competitions/4198; 4198; 6505,6506
+ECCV'22 ChaLearn Seasons in Drift Challenge (track 3: month level); https://codalab.lisn.upsaclay.fr/competitions/4276; 4276; 6778,6779
+4th PIC Challenge (MDVC Sub-Challenge); https://codalab.lisn.upsaclay.fr/competitions/5102; 5102; 7759,7760
+4th PIC Challenge (MTVG Sub-Challenge); https://codalab.lisn.upsaclay.fr/competitions/5244; 5244; 7951,7952
+Invoice Analysis and Identification Challenge; https://codalab.lisn.upsaclay.fr/competitions/3823; 3823; 5840,5841
+MAFAT Challenge - WiFi Sensing: Non Invasive Human Presence Detection - Track 2; https://codalab.lisn.upsaclay.fr/competitions/3798; 3798; 5815,5816
+MAFAT Challenge - WiFi Sensing: Non Invasive Human Presence Detection - Track 1; https://codalab.lisn.upsaclay.fr/competitions/3498; 3498; 5395,5396
+3rd CLVision Challenge - Category Detection; https://codalab.lisn.upsaclay.fr/competitions/3569; 3569; 5550,5551
+3rd CLVision Challenge - Instance Classification; https://codalab.lisn.upsaclay.fr/competitions/3568; 3568; 5546,5548
+3rd CLVision Challenge - Instance Detection; https://codalab.lisn.upsaclay.fr/competitions/3570; 3570; 5552,5553
+AutoML2022: Multiobjective Hyperparameter Optimization for Transformers; https://codalab.lisn.upsaclay.fr/competitions/3647; 3647; 5634,5635
+AI4Imaging Hackathon 2022; https://codalab.lisn.upsaclay.fr/competitions/5774; 5774; 8707
+Text Complexity DE Challenge 2022; https://codalab.lisn.upsaclay.fr/competitions/4964; 4964; 7566,7567
+Zero Cost NAS Competition; https://codalab.lisn.upsaclay.fr/competitions/3932; 3932; 6038
+DAC4AutoML Competition - DAC4SGD Track; https://codalab.lisn.upsaclay.fr/competitions/3672; 3672; 5675
+2022 NICO Common Context Generalization Challenge (ECCV 2022 Workshop); https://codalab.lisn.upsaclay.fr/competitions/4084; 4084; 6343
+2022 NICO Hybrid Context Generalization Challenge (ECCV 2022 Workshop); https://codalab.lisn.upsaclay.fr/competitions/4083; 4083; 6342
+Meta-learning from Learning Curves - 2ND ROUND; https://codalab.lisn.upsaclay.fr/competitions/4894; 4894; 7441,7442
+DAC4AutoML Competition - DAC4RL Track; https://codalab.lisn.upsaclay.fr/competitions/3727; 3727; 5735,5736
+SMM4H 2022 Task 7: Classification of Self-Reported Intimate Partner Violence on Twitter; https://codalab.lisn.upsaclay.fr/competitions/1535; 1535; 2338,2339,2340
+Quad Joint Remosaic and Denoise @MIPI-challenge; https://codalab.lisn.upsaclay.fr/competitions/4955; 4955; 7547,7548
+RGBW Joint Remosaic and Denoise @MIPI-challenge; https://codalab.lisn.upsaclay.fr/competitions/4954; 4954; 7545,7546
+Image Restoration for Under-display Camera @MIPI-challenge; https://codalab.lisn.upsaclay.fr/competitions/4874; 4874; 7406,7407
+RGB+TOF Depth Completion @MIPI-challenge; https://codalab.lisn.upsaclay.fr/competitions/4956; 4956; 7549,7550
+RGBW Joint Fusion and Denoise @MIPI-challenge; https://codalab.lisn.upsaclay.fr/competitions/4953; 4953; 7543,7544
+SPARK 2022 - Stream 1 - Spacecraft Detection; https://codalab.lisn.upsaclay.fr/competitions/5538; 5538; 8332,8333
+SPARK 2022 - Stream 2 - Spacecraft Trajectory Estimation; https://codalab.lisn.upsaclay.fr/competitions/5539; 5539; 8334,8335
+Mobile AI & AIM 2022 Real-Time Image Super-Resolution Challenge; https://codalab.lisn.upsaclay.fr/competitions/1755; 1755; 2745,2746
+Mobile AI & AIM 2022 Learned Smartphone ISP Challenge; https://codalab.lisn.upsaclay.fr/competitions/1759; 1759; 2753,2754
+Mobile AI & AIM 2022 Real-Time Video Super-Resolution Challenge; https://codalab.lisn.upsaclay.fr/competitions/1756; 1756; 2747,2748
+AIM 2022 Reversed ISP Challenge - Track 1 S7; https://codalab.lisn.upsaclay.fr/competitions/5079; 5079; 7724,7725
+AIM 2022 Reversed ISP Challenge - Track 2 P20; https://codalab.lisn.upsaclay.fr/competitions/5080; 5080; 7726,7727
+AIM 2022 Instagram Filter Removal Challenge; https://codalab.lisn.upsaclay.fr/competitions/5081; 5081; 7728,7729
+AIM 2022 Compressed Input Super-Resolution Challenge - Track 2 Video; https://codalab.lisn.upsaclay.fr/competitions/5077; 5077; 7720,7722
+AIM 2022 Compressed Input Super-Resolution Challenge - Track 1 Image; https://codalab.lisn.upsaclay.fr/competitions/5076; 5076; 7718,7719
+Mobile AI & AIM 2022 Real-Time Rendering Realistic Bokeh Challenge; https://codalab.lisn.upsaclay.fr/competitions/1760; 1760; 2757,2758
+The 5th Workshop on Chinese Machine Reading Comprehension (CMRC 2022); https://codalab.lisn.upsaclay.fr/competitions/4827; 4827; 7336,7337
+CODI-CRAC 2022 Shared Task on Anaphora, Bridging, and Discourse Deixis in Dialogue; https://codalab.lisn.upsaclay.fr/competitions/614; 614; 880,881,882,883,884,885,886,887,888,889
+MixMT-WMT-2022; https://codalab.lisn.upsaclay.fr/competitions/2861; 2861; 4643,4644
+The Shared Task on Understanding Figurative Language; https://codalab.lisn.upsaclay.fr/competitions/5908; 5908; 8923
+The Shared Task on Euphemism Detection; https://codalab.lisn.upsaclay.fr/competitions/5726; 5726; 8671
+Causal News Corpus - Event Causality Shared Task 2022; https://codalab.lisn.upsaclay.fr/competitions/2299; 2299; 3549,3550,3551,3552
+ECCV DeeperAction Challenge - UrbanPipe Track on Fine-grained Video Anomaly Recognition; https://codalab.lisn.upsaclay.fr/competitions/4439; 4439; 6940,6941
+ECCV DeeperAction Challenge - FineAction Track on Temporal Action Localization; https://codalab.lisn.upsaclay.fr/competitions/4386; 4386; 6880,6881
+ECCV DeeperAction Challenge - Kinetics-TPS Track on Part-level Action Parsing and Action Recognition; https://codalab.lisn.upsaclay.fr/competitions/4392; 4392; 6884,6885
+ECCV DeeperAction Challenge - SportsMOT Track on Multi-actor Tracking; https://codalab.lisn.upsaclay.fr/competitions/4433; 4433; 6936,6939
+ECCV DeeperAction Challenge - MultiSports Track on Human Action Detection; https://codalab.lisn.upsaclay.fr/competitions/3736; 3736; 5741,5742
+2022 VIPriors Image Classification Challenge; https://codalab.lisn.upsaclay.fr/competitions/4694; 4694; 7189,7190
+2022 VIPriors Action Recognition Challenge; https://codalab.lisn.upsaclay.fr/competitions/4703; 4703; 7201,7202
+2022 VIPriors Instance Segmentation Challenge; https://codalab.lisn.upsaclay.fr/competitions/4699; 4699; 7197,7198
+2022 VIPriors Object Detection Challenge; https://codalab.lisn.upsaclay.fr/competitions/4696; 4696; 7192,7194
+Cross-Domain MetaDL [FINAL PHASE]; https://codalab.lisn.upsaclay.fr/competitions/7128; 7128; 10866
+Video distortion detection and classification in the context of video surveillance; https://codalab.lisn.upsaclay.fr/competitions/3093; 3093; 4882,4883
+Propaganda Detection in Arabic; https://codalab.lisn.upsaclay.fr/competitions/7274; 7274; 11241,11242
+PointCloud-C 2022: Point Cloud Robustness Challenge; https://codalab.lisn.upsaclay.fr/competitions/6437; 6437; 9516,9517
+ECCV 2022 DIRA Workshop Image Retrieval Challenge; https://codalab.lisn.upsaclay.fr/competitions/5885; 5885; 8903,8904
+Shared Task on Multilingual protest news detection CASE 2022; https://codalab.lisn.upsaclay.fr/competitions/7438; 7438; 12116,12117,12118,12119,12120,12121,12122
+IROS 2022 HEART-MET Activity Recognition Challenge; https://codalab.lisn.upsaclay.fr/competitions/6720; 6720; 9957,9958
+The 4th Large-scale Video Object Segmentation Challenge - Long Video Instance Segmentation Track; https://codalab.lisn.upsaclay.fr/competitions/5902; 5902; 8915,8916
+The 1st Multiple People Tracking in Group Dance Challenge - DanceTrack; https://codalab.lisn.upsaclay.fr/competitions/5832; 5832; 8806,8807
+The 2st Occluded Video Instance Segmentation (OVIS) Challenge in conjunction with ECCV 2022; https://codalab.lisn.upsaclay.fr/competitions/5857; 5857; 8849,8850
+OOD-CV Challenge 2022 (Detection Track); https://codalab.lisn.upsaclay.fr/competitions/6784; 6784; 10069,10070
+OOD-CV Challenge 2022 (Classification Track); https://codalab.lisn.upsaclay.fr/competitions/6781; 6781; 10063,10064
+OOD-CV Challenge 2022 (Pose Estimation Track); https://codalab.lisn.upsaclay.fr/competitions/6783; 6783; 10067,10068
+RVC Challenge: COCO Detection (Bounding Box); https://codalab.lisn.upsaclay.fr/competitions/6420; 6420; 9496,9497,9498
+Mapillary Vistas Semantic Segmentation Task; https://codalab.lisn.upsaclay.fr/competitions/5821; 5821; 8771,8772
+Mapillary Vistas Object Detection Task; https://codalab.lisn.upsaclay.fr/competitions/7515; 7515; 12354,12355
+PSG Challenge @ ECCV'22 SenseHuman Workshop; https://codalab.lisn.upsaclay.fr/competitions/6734; 6734; 9977
+ECCV'22 SLRTP Challenge - Track 3: Sign spotting on BSL Corpus; https://codalab.lisn.upsaclay.fr/competitions/6803; 6803; 10120,10121
+EgoBody; https://codalab.lisn.upsaclay.fr/competitions/6351; 6351; 9424
+Hate Speech en Redes Sociales Chilenas; https://codalab.lisn.upsaclay.fr/competitions/6988; 6988; 10463
+HANDS22 Challenge Task 2 - Semi/Self-supervised Two-hands 3D Pose Estimation; https://codalab.lisn.upsaclay.fr/competitions/6979; 6979; 10448
+Cross-Domain MetaDL; https://codalab.lisn.upsaclay.fr/competitions/3627; 3627; 5602,5603
+HANDS22 Challenge Task 1: Hand-held Object Pose Estimation; https://codalab.lisn.upsaclay.fr/competitions/6290; 6290; 9339
+3D Semantic Segmentation to the Open World (3DOW) Challenge; https://codalab.lisn.upsaclay.fr/competitions/6675; 6675; 9902
+Trojan Detection Challenge - Evasive Trojans Track; https://codalab.lisn.upsaclay.fr/competitions/5954; 5954; 9025,9026
+Trojan Detection Challenge - Analysis Track (Trigger Synthesis); https://codalab.lisn.upsaclay.fr/competitions/5953; 5953; 9023,9024
+Trojan Detection Challenge - Analysis Track (Target Label Prediction); https://codalab.lisn.upsaclay.fr/competitions/5952; 5952; 9021,9022
+NeurIPS 2022 CausalML Challenge: Causal Insights for Learning Paths in Education; https://codalab.lisn.upsaclay.fr/competitions/5626; 5626; 8485,8486,8487,8488,8489,8490,8491,8492
+Zoekmachines - Final Project; https://codalab.lisn.upsaclay.fr/competitions/7622; 7622; 12548,12549,12550,12551
+WACV'2023 Pedestrian Attribute Recognition (PAR) Challenge (Track 1); https://codalab.lisn.upsaclay.fr/competitions/7205; 7205; 11025,11026
+WACV'2023 Attributed-based Person Retrieval Challenge (Track 2); https://codalab.lisn.upsaclay.fr/competitions/7299; 7299; 11768,11769
+OmniBenchmark Challenge ECCV@2022:ImageNet1k-Pretrain Track; https://codalab.lisn.upsaclay.fr/competitions/6043; 6043; 9110
+OmniBenchmark Challenge ECCV@2022:Open-Pretrain Track; https://codalab.lisn.upsaclay.fr/competitions/6045; 6045; 9112
+Trojan Detection Challenge - Detection Track; https://codalab.lisn.upsaclay.fr/competitions/5951; 5951; 9017,9018,9019,9020
+2022 NeurIPS Driving SMARTS Competition; https://codalab.lisn.upsaclay.fr/competitions/6618; 6618; 9828,9829,9830
+Retail Sales Forecasting; https://codalab.lisn.upsaclay.fr/competitions/6903; 6903; 10383
+Monocular Depth Estimation Challenge @ WACV23; https://codalab.lisn.upsaclay.fr/competitions/7811; 7811; 12786,12787
+Brain Age Prediction Challenge; https://codalab.lisn.upsaclay.fr/competitions/8336; 8336; 13560,13561
+DEAL - Detecting Entities in the Astrophysics Literature; https://codalab.lisn.upsaclay.fr/competitions/5062; 5062; 7690,7691
+Artificial Neural Networks and Deep Learning 2022 - Homework 1; https://codalab.lisn.upsaclay.fr/competitions/8522; 8522; 13793,13794
+EURO Meets NeurIPS 2022 Vehicle Routing Competition; https://codalab.lisn.upsaclay.fr/competitions/6627; 6627; 9855,9856,9857
+ICSR 2022 HEART-MET Activity Recognition Challenge; https://codalab.lisn.upsaclay.fr/competitions/8189; 8189; 13311,13312
+AutoML Decathlon; https://codalab.lisn.upsaclay.fr/competitions/6325; 6325; 9385,13913
+Cinderella Telegram; https://codalab.lisn.upsaclay.fr/competitions/8955; 8955; 14788,14789
+HDR Video Quality Measurement Grand Challenge; https://codalab.lisn.upsaclay.fr/competitions/7847; 7847; 12851,12852
+LRUniv - IRDU Project; https://codalab.lisn.upsaclay.fr/competitions/8740; 8740; 14084
+Cinderella Telegram; https://codalab.lisn.upsaclay.fr/competitions/7863; 7863; 12869,12870
+Artificial Neural Networks and Deep Learning 2022 - Homework 2; https://codalab.lisn.upsaclay.fr/competitions/9056; 9056; 14917,14918
+No GPS no problem! Democratising aerial navigation via robust and data-scalable computer vision.; https://codalab.lisn.upsaclay.fr/competitions/5481; 5481; 8282
+Apple detection data challenge; https://codalab.lisn.upsaclay.fr/competitions/743; 743; 1078,1080
+Global Knowledge Tracing Challenge @AAAI2023; https://codalab.lisn.upsaclay.fr/competitions/8087; 8087; 13181,13182
+OpenPack Challenge 2022 @ PerCom 2022 WS BiRD; https://codalab.lisn.upsaclay.fr/competitions/7830; 7830; 12822,12823
+MICO - SST-2; https://codalab.lisn.upsaclay.fr/competitions/8554; 8554; 13846,13847
+MICO - CIFAR-10; https://codalab.lisn.upsaclay.fr/competitions/8551; 8551; 13840,13841
+MICO - DP Distinguisher; https://codalab.lisn.upsaclay.fr/competitions/8552; 8552; 13842,13843
+MICO - Purchase-100; https://codalab.lisn.upsaclay.fr/competitions/8553; 8553; 13844,13845
+IACV - Exercise 5; https://codalab.lisn.upsaclay.fr/competitions/9001; 9001; 14864
+IACV - Exercise 1; https://codalab.lisn.upsaclay.fr/competitions/7754; 7754; 12712
+IACV - Exercise 4; https://codalab.lisn.upsaclay.fr/competitions/8751; 8751; 14103
+IACV - Exercise 3; https://codalab.lisn.upsaclay.fr/competitions/8468; 8468; 13700
+IACV - Exercise 2; https://codalab.lisn.upsaclay.fr/competitions/8068; 8068; 13161
+SemEval-2023: Visual Word Sense Disambiguation (VisualWSD); https://codalab.lisn.upsaclay.fr/competitions/8190; 8190; 13313,13314
+SemEval 2023 - Task 06 - LegalEval - Understanding Legal Texts; https://codalab.lisn.upsaclay.fr/competitions/9558; 9558; 15528,15529,15530,15531
+SemEval 2023 - Task 10 - Explainable Detection of Online Sexism (EDOS); https://codalab.lisn.upsaclay.fr/competitions/7124; 7124; 10841,10842,10843,10844,10845,10846
+Multilingual Tweet Intimacy Analysis; https://codalab.lisn.upsaclay.fr/competitions/7096; 7096; 15598,10777
+AfriSenti-SemEval 2023 Shared Task 12; https://codalab.lisn.upsaclay.fr/competitions/7320; 7320; 11922,11923,11924,11925,11926,11927,11928,11929,11930,11931,11932,11933,11934,11937,11935,11936,11938,11939,11940,11941,11942,11943,11944,11945,11946,11947,11948,11949,11950,11951,11954,11952,11953,11955
+MISP Challenge 2022(Track1); https://codalab.lisn.upsaclay.fr/competitions/9700; 9700; 15693
+MISP Challenge 2022(Track2); https://codalab.lisn.upsaclay.fr/competitions/9722; 9722; 15715
+Nighttime Flare Removal @MIPI-challenge; https://codalab.lisn.upsaclay.fr/competitions/9402; 9402; 15298,15300
+RGB+TOF Depth Completion @MIPI-challenge; https://codalab.lisn.upsaclay.fr/competitions/9334; 9334; 15243,15244
+RGBW Joint Remosaic and Denoise @MIPI-challenge; https://codalab.lisn.upsaclay.fr/competitions/9343; 9343; 15249,15250
+RGBW Joint Fusion and Denoise @MIPI-challenge; https://codalab.lisn.upsaclay.fr/competitions/9344; 9344; 15251,15252
+Airlift Challenge; https://codalab.lisn.upsaclay.fr/competitions/8335; 8335; 15262,15261,13555
+PBVS 2023 Thermal Image Super-Resolution Challenge (TISR) - Track2; https://codalab.lisn.upsaclay.fr/competitions/9666; 9666; 15660
+PBVS 2023 Thermal Image Super-Resolution Challenge (TISR) - Track1; https://codalab.lisn.upsaclay.fr/competitions/9649; 9649; 15641
+Airlift Challenge; https://codalab.lisn.upsaclay.fr/competitions/9993; 9993; 16142
+ECE Image Captioning Competition; https://codalab.lisn.upsaclay.fr/competitions/926; 926; 1346
+Welcome to 4th Face Anti-spoofing Challenge@CVPR2023; https://codalab.lisn.upsaclay.fr/competitions/10080; 10080; 16274,16275
+PBVS 2023 Multi-modal Aerial View Object Classification Challenge - Track 2 (SAR+EO); https://codalab.lisn.upsaclay.fr/competitions/9967; 9967; 16082,16083
+PBVS 2023 Multi-modal Aerial View Object Classification Challenge - Track 1 (SAR); https://codalab.lisn.upsaclay.fr/competitions/9966; 9966; 16080,16081
+PBVS 2023 Multi-modal Aerial View Imagery Challenges - Translation; https://codalab.lisn.upsaclay.fr/competitions/9968; 9968; 16084,16085
+The 1st DataCV Challenge in conjunction with the CVPR 2023; https://codalab.lisn.upsaclay.fr/competitions/10221; 10221; 16465
+CS165B Assignment 3 Competition - Decision Tree; https://codalab.lisn.upsaclay.fr/competitions/10564; 10564; 17048
+ICDAR 2023 Competition on Recognition of Multi-line Handwritten Mathematical Expressions; https://codalab.lisn.upsaclay.fr/competitions/9697; 9697; 15689,15690
+Dialog 2023 VQA competition (RECEIPT-AVQA-2023); https://codalab.lisn.upsaclay.fr/competitions/11087; 11087; 17994,17995
+The 3rd Anti-UAV Workshop & Challenge; https://codalab.lisn.upsaclay.fr/competitions/10176; 10176; 16374
+The 3rd Anti-UAV Workshop & Challenge; https://codalab.lisn.upsaclay.fr/competitions/10177; 10177; 16375
+2nd Monocular Depth Estimation Challenge @ CVPR23; https://codalab.lisn.upsaclay.fr/competitions/10031; 10031; 16231,16232
+Sketch-Based 3D Animal Fine-Grained Retrieval (SketchANIMAR); https://codalab.lisn.upsaclay.fr/competitions/11073; 11073; 17974,17975
+Text-Based 3D Animal Fine-Grained Retrieval (TextANIMAR); https://codalab.lisn.upsaclay.fr/competitions/11093; 11093; 18002,18003
+UPF Object Tracking Mini-Challenge; https://codalab.lisn.upsaclay.fr/competitions/11141; 11141; 18112
+The ADAPT sim2real Object Detection Challenge 2022; https://codalab.lisn.upsaclay.fr/competitions/8594; 8594; 13903,13904
+The ADAPT sim2real Object Pose Estimation Challenge 2022; https://codalab.lisn.upsaclay.fr/competitions/8417; 8417; 13661,13664
+NTIRE 2023 Stereo Image Super-Resolution Challenge  - Track 2 Perceptual & Bicubic; https://codalab.lisn.upsaclay.fr/competitions/10048; 10048; 16259,16260
+NTIRE 2023 - HR Depth from Images of Specular and Transparent Surfaces - Track 2 - Mono; https://codalab.lisn.upsaclay.fr/competitions/10502; 10502; 16863,16864
+NTIRE 2023 Stereo Image Super-Resolution Challenge  - Track 1 Fidelity & Bicubic; https://codalab.lisn.upsaclay.fr/competitions/10047; 10047; 16257,16258
+NTIRE 2023: Light Field Image Super-Resolution Challenge; https://codalab.lisn.upsaclay.fr/competitions/9201; 9201; 15075,15076
+NTIRE 2023 Stereo Image Super-Resolution Challenge  - Track 3 Fidelity & Realistic; https://codalab.lisn.upsaclay.fr/competitions/10049; 10049; 16261,16262
+NTIRE 2023 - HR Depth from Images of Specular and Transparent Surfaces - Track 1 - Stereo; https://codalab.lisn.upsaclay.fr/competitions/10494; 10494; 16839,16840
+NTIRE 2023 HR NonHomogeneous Dehazing Challenge; https://codalab.lisn.upsaclay.fr/competitions/10216; 10216; 16458,16460
+NTIRE 2023 Real-Time Super-Resolution - Track 2 (X3); https://codalab.lisn.upsaclay.fr/competitions/10228; 10228; 16480,16481
+NTIRE 2023 Image Super-Resolution (x4); https://codalab.lisn.upsaclay.fr/competitions/10251; 10251; 16524,16525
+NTIRE 2023 Image Shadow Removal Challenge; https://codalab.lisn.upsaclay.fr/competitions/10253; 10253; 16528,16529
+NTIRE 2023 Quality Assessment of Video Enhancement Challenge; https://codalab.lisn.upsaclay.fr/competitions/10252; 10252; 16526,16527
+NTIRE 2023 Real-Time Super-Resolution - Track 1 (X2); https://codalab.lisn.upsaclay.fr/competitions/10227; 10227; 16478,16479
+NTIRE 2023 Image Denoising Challenge (noise level=50); https://codalab.lisn.upsaclay.fr/competitions/10255; 10255; 16532,16533
+NTIRE 2023 Efficient Super-Resolution Challenge; https://codalab.lisn.upsaclay.fr/competitions/10256; 10256; 16534,16535
+NTIRE 2023 Bokeh Effect Transformation; https://codalab.lisn.upsaclay.fr/competitions/10229; 10229; 16482,16483
+NTIRE 2023: 360° Omnidirectional Super Resolution - Track 1 Image; https://codalab.lisn.upsaclay.fr/competitions/10319; 10319; 16581,16582
+FLAIR #1: Semantic segmentation and domain adaptation; https://codalab.lisn.upsaclay.fr/competitions/8769; 8769; 14192
+NTIRE 2023: 360° Omnidirectional Super Resolution - Track 2 Video; https://codalab.lisn.upsaclay.fr/competitions/10371; 10371; 16671,16672
+UCSB CS165B Winter23 HW4; https://codalab.lisn.upsaclay.fr/competitions/11235; 11235; 18238
+Few-shot classification challenge; https://codalab.lisn.upsaclay.fr/competitions/11318; 11318; 18388
+4th Face Anti-spoofing Workshop and Challenge@CVPR2023, Wild Track; https://codalab.lisn.upsaclay.fr/competitions/10670; 10670; 17304,17305
+SMM4H'22 Task 2. Classification of stance and premise in tweets about health mandates (COVID-19); https://codalab.lisn.upsaclay.fr/competitions/5067; 5067; 7699,7702,7704,7706,7708,7709
+ICDAR2023 Competition on Detection and Recognition of Greek Letters on Papyri; https://codalab.lisn.upsaclay.fr/competitions/11675; 11675; 18874,18875
+The 4th International Competition on Human Identification at a Distance 2023 (HID2023); https://codalab.lisn.upsaclay.fr/competitions/10568; 10568; 17049,17050
+DeepFake Game Competition on Visual Realism Assessment (DFGC-VRA) @ IJCB 2023; https://codalab.lisn.upsaclay.fr/competitions/10754; 10754; 17460
+The Autocast Competition - Forecasting the Future with AI; https://codalab.lisn.upsaclay.fr/competitions/7417; 7417; 12057
+ICDAR2023 Competition on Detection and Recognition of Greek Letters on Papyri; https://codalab.lisn.upsaclay.fr/competitions/12419; 12419; 19842,19843
+To Be, or Not To Be? 2023; https://codalab.lisn.upsaclay.fr/competitions/11456; 11456; 18570
+BioLaySumm 2023 Task 1 - Lay Summarization of Biomedical Articles (new); https://codalab.lisn.upsaclay.fr/competitions/12125; 12125; 19451,19452
+Intelligent Control (ECE5759) - Cat Classifier Challenge; https://codalab.lisn.upsaclay.fr/competitions/11961; 11961; 19216,19217
+HOMO-MEX: Hate speech detection towards the Mexican Spanish speaking LGBT+ population; https://codalab.lisn.upsaclay.fr/competitions/10019; 10019; 16178,16177
+MAFAT Satellite Vision Challenge; https://codalab.lisn.upsaclay.fr/competitions/9603; 9603; 15583,15584
+TAYSIR - Track 2 (Density estimation); https://codalab.lisn.upsaclay.fr/competitions/11683; 11683; 18880,18881,18882,18883,18884,18885,18886,18887,18888,18889
+TAYSIR - Track 1 (Binary Classification); https://codalab.lisn.upsaclay.fr/competitions/11249; 11249; 18262,18264,18265,18268,18270,18271,18272,18275,18277,18278,18279
+Causal medical claim identification and related PIO frame extraction from social media; https://codalab.lisn.upsaclay.fr/competitions/6948; 6948; 10427,10428
+6th UG2+ challenge (CVPR 2023) Track 2.1 - Text Recognition through Atmospheric Turbulence.; https://codalab.lisn.upsaclay.fr/competitions/9798; 9798; 15831,15832
+GT-RAIN Challenge: Single Image Deraining for Real World Images (CVPR'23 UG²+ Track 3); https://codalab.lisn.upsaclay.fr/competitions/7988; 7988; 13042,13043,13044
+6th UG2+ challenge (CVPR 2023) Track 1.1 - Object Detection in the Hazy Condition; https://codalab.lisn.upsaclay.fr/competitions/9802; 9802; 15839,15840
+6th UG2+ challenge (CVPR 2023) Track 2.2 - Coded Target Restoration through Atmospheric Turbulence.; https://codalab.lisn.upsaclay.fr/competitions/9838; 9838; 15871,15872
+New frontiers for zero-shot Image Captioning Evaluation; https://codalab.lisn.upsaclay.fr/competitions/10248; 10248; 16518,16519
+ChemsRUs 2023; https://codalab.lisn.upsaclay.fr/competitions/11454; 11454; 18568
+CC6205 Assignment 1 - Spanish Hate Speech and Incivility Classification - Fall 2023; https://codalab.lisn.upsaclay.fr/competitions/11942; 11942; 19186
+BEA 2023 Shared Task on Generating AI Teacher Responses in Educational Dialogues; https://codalab.lisn.upsaclay.fr/competitions/11705; 11705; 18917,18918
+ADD 2023 - Audio fake game (FG); https://codalab.lisn.upsaclay.fr/competitions/11359; 11359; 18461,18462,18463,18464
+ADD 2023 - Deepfake algorithm recognition (AR); https://codalab.lisn.upsaclay.fr/competitions/11362; 11362; 18468,18469
+ADD 2023 - Manipulation region location (RL); https://codalab.lisn.upsaclay.fr/competitions/11361; 11361; 18466,18467
+TESTLINK; https://codalab.lisn.upsaclay.fr/competitions/12622; 12622; 20181,20183,20182
+Object detection under uncontrolled acquisition environment and scene context constraints; https://codalab.lisn.upsaclay.fr/competitions/9981; 9981; 16112,16113
+SatVideoDT 2022 Challenge on Moving Object Detection and Tracking in Satellite Videos Track 1.; https://codalab.lisn.upsaclay.fr/competitions/2802; 2802; 4573,4574
+SatVideoDT 2022 Challenge on Moving Object Detection and Tracking in Satellite Videos Track 2.; https://codalab.lisn.upsaclay.fr/competitions/3079; 3079; 4861,4862
+SatVideoDT 2022 Challenge on Moving Object Detection and Tracking in Satellite Videos Track 3.; https://codalab.lisn.upsaclay.fr/competitions/3081; 3081; 4864,4865
+Intelligent Control (ECE5759) - Homework - ChatGPT Cat Classifier; https://codalab.lisn.upsaclay.fr/competitions/12938; 12938; 20757
+CLEF2023 CheckThat! Lab - Task 4; https://codalab.lisn.upsaclay.fr/competitions/12937; 12937; 20756
+CLEF2023 CheckThat! Lab - Task 3; https://codalab.lisn.upsaclay.fr/competitions/12911; 12911; 20704,20705
+CLEF2023 CheckThat! Lab - Task 1; https://codalab.lisn.upsaclay.fr/competitions/12936; 12936; 20752,20755,20754,20753,20751
+CLEF2023 CheckThat! Lab - Task 2; https://codalab.lisn.upsaclay.fr/competitions/13046; 13046; 20925,20927,20928,20926,20924,20923,20922
+Empowering the Fact-checkers! Automatic Identification of Claim Spans on Twitter; https://codalab.lisn.upsaclay.fr/competitions/13099; 13099; 21014
+Hero, villain and Victim: Dissecting harmful memes for Semantic role labelling of entities; https://codalab.lisn.upsaclay.fr/competitions/9837; 9837; 15870
+ClinAIS - IberLEF 2023: Automatic Identification of Sections in Spanish Clinical Documents; https://codalab.lisn.upsaclay.fr/competitions/10751; 10751; 17453,17454,17455
+The 1st MiGA-IJCAI Challenge Track 1: Micro-gesture Classification; https://codalab.lisn.upsaclay.fr/competitions/11758; 11758; 18990,18991
+The 1st MiGA-IJCAI Challenge Track 2: Micro-gesture Online Recognition; https://codalab.lisn.upsaclay.fr/competitions/11782; 11782; 19030,19031
+BEHAVE challenges: 3D human reconstruction from single RGB image; https://codalab.lisn.upsaclay.fr/competitions/9280; 9280; 15174
+BEHAVE challenge: joint 3D human and object reconstruction from single RGB image; https://codalab.lisn.upsaclay.fr/competitions/9337; 9337; 15246
+BEHAVE challenges: 6DoF object pose estimation from single RGB image; https://codalab.lisn.upsaclay.fr/competitions/9336; 9336; 15245
+4th CLVision Challenge (2023); https://codalab.lisn.upsaclay.fr/competitions/11559; 11559; 18724,18725
+DISPLACE 2023; https://codalab.lisn.upsaclay.fr/competitions/10588; 10588; 17120,17121,17122,17123,17124,17125
+DAVINCIS@IberLEF 2023; https://codalab.lisn.upsaclay.fr/competitions/11312; 11312; 18380,18381,18382,18383
+2nd ACRE Cascade Competition; https://codalab.lisn.upsaclay.fr/competitions/11237; 11237; 18242,18243
+PVUW2023 VSS Track; https://codalab.lisn.upsaclay.fr/competitions/7869; 7869; 12884,12885
+PVUW2023 VPS Track; https://codalab.lisn.upsaclay.fr/competitions/9743; 9743; 15732,15733
+ICRA 2023 | The RoboDepth Competition (Track 1); https://codalab.lisn.upsaclay.fr/competitions/9418; 9418; 15313
+ICRA 2023 | The RoboDepth Competition (Track 2); https://codalab.lisn.upsaclay.fr/competitions/9821; 9821; 15852
+OmniLabel 2023 Challenge - Track C; https://codalab.lisn.upsaclay.fr/competitions/11871; 11871; 19119,19120
+OmniLabel 2023 Challenge - Track A; https://codalab.lisn.upsaclay.fr/competitions/11868; 11868; 19113,19114
+OmniLabel 2023 Challenge - Track B; https://codalab.lisn.upsaclay.fr/competitions/11870; 11870; 19117,19118
+DynamicEarthNet:Daily Multi-Spectral Satellite Dataset for Semantic Change Segmentation; https://codalab.lisn.upsaclay.fr/competitions/2882; 2882; 4647,4648
+DynamicEarthNet - Binary Change Detection; https://codalab.lisn.upsaclay.fr/competitions/8249; 8249; 13406,13407
+EPIC-KITCHENS-100 Multi-Instance Retrieval Challenge; https://codalab.lisn.upsaclay.fr/competitions/617; 617; 890
+Woodscape Fisheye Motion Segmentation Challenge | CVPR 2023 OmniCV Workshop; https://codalab.lisn.upsaclay.fr/competitions/12131; 12131; 19458,19459
+Third International Scan-to-BIM Competition - 3D Building Model Reconstruction Task; https://codalab.lisn.upsaclay.fr/competitions/12405; 12405; 19837
+Third International Scan-to-BIM Competition - 2D Floorplan Reconstruction Task; https://codalab.lisn.upsaclay.fr/competitions/12386; 12386; 19797
+LOVEU@CVPR'23 Track 2: Generic Event Boundary Captioning; https://codalab.lisn.upsaclay.fr/competitions/4157; 4157; 6451,6452
+LOVEU@CVPR'23 Track 1: Generic Event Boundary Detection; https://codalab.lisn.upsaclay.fr/competitions/4145; 4145; 6434,6438
+3D Reconstruction from Road Marker Feature Points Challenge; https://codalab.lisn.upsaclay.fr/competitions/13369; 13369; 21466
+MYOSAIQ; https://codalab.lisn.upsaclay.fr/competitions/13631; 13631; 21975,21976
+LOVEU@CVPR'23 Guest Track: Cross-Modal Video Retrieval with Reading Comprehension; https://codalab.lisn.upsaclay.fr/competitions/13317; 13317; 21366
+LOVEU@CVPR'23 Track 3: Affordance-Centric Question-driven Task Completion (AQTC); https://codalab.lisn.upsaclay.fr/competitions/4642; 4642; 7132
+To be, or not to be?; https://codalab.lisn.upsaclay.fr/competitions/12130; 12130; 19457
+MEDDOPLACE Shared Task; https://codalab.lisn.upsaclay.fr/competitions/13017; 13017; 20848,20854,20849,20843,20850,20846,20845,20844,20851,20853,20852,20847
+M2MeT 2.0 Challenge(Test 2023 set, Open Trainging Condition); https://codalab.lisn.upsaclay.fr/competitions/14021; 14021; 22457
+M2MeT 2.0 Challenge(Test 2023 set, Fixed Training Condition); https://codalab.lisn.upsaclay.fr/competitions/14020; 14020; 22456
+CRAC 2023 Shared Task on Multilingual Coreference Resolution; https://codalab.lisn.upsaclay.fr/competitions/11800; 11800; 19068,19069
+KDF@SIGIR2023 Shared Task; https://codalab.lisn.upsaclay.fr/competitions/11770; 11770; 19010,19013
+ACMMM23 Multimedia Drone Satellite Matching Challenge; https://codalab.lisn.upsaclay.fr/competitions/12672; 12672; 20267
+MER-MULTI; https://codalab.lisn.upsaclay.fr/competitions/14164; 14164; 22677
+MER-NOISE; https://codalab.lisn.upsaclay.fr/competitions/14165; 14165; 22678
+MER-SEMI; https://codalab.lisn.upsaclay.fr/competitions/14166; 14166; 22679
+Causal News Corpus - Event Causality Shared Task 2023; https://codalab.lisn.upsaclay.fr/competitions/11784; 11784; 19035,19036,19037,19038
+Multimodal Hate Speech Event Detection Shared Task CASE@RANLP2023; https://codalab.lisn.upsaclay.fr/competitions/13087; 13087; 20994,20995,20996,20997
+The 5LSM0 competition; https://codalab.lisn.upsaclay.fr/competitions/11173; 11173; 18172,18173,18174
+Соревнование №2 ШИФТ-Интенсив Лето 2023; https://codalab.lisn.upsaclay.fr/competitions/14441; 14441; 23110
+ACMMMM MEGC2023 - 6th Micro-Expression Grand Challenge; https://codalab.lisn.upsaclay.fr/competitions/14254; 14254; 22837
+CXR-LT: Multi-Label Long-Tailed Classification on Chest X-Rays; https://codalab.lisn.upsaclay.fr/competitions/12599; 12599; 20153,20154
+MedNLP-SC-SM-JA; https://codalab.lisn.upsaclay.fr/competitions/14531; 14531; 23247,23248
+MedNLP-SC-SM-FR; https://codalab.lisn.upsaclay.fr/competitions/14532; 14532; 23249,23250
+MedNLP-SC-SM-EN; https://codalab.lisn.upsaclay.fr/competitions/14535; 14535; 23255,23256
+MedNLP-SC-SM-DE; https://codalab.lisn.upsaclay.fr/competitions/14559; 14559; 23346,23347
+To NeRF or not to NeRF: A View Synthesis Challenge for Human Heads @ ICCV 2023; https://codalab.lisn.upsaclay.fr/competitions/13273; 13273; 21318,21319
+MER-MULTI; https://codalab.lisn.upsaclay.fr/competitions/14464; 14464; 23164
+MER-NOISE; https://codalab.lisn.upsaclay.fr/competitions/14465; 14465; 23165
+MER-SEMI; https://codalab.lisn.upsaclay.fr/competitions/14466; 14466; 23166
+PragTag-2023; https://codalab.lisn.upsaclay.fr/competitions/13334; 13334; 21410,21413,21416,21417,21419
+CGI-HRDC 2023 - Hypertensive Retinopathy Diagnosis Challenge; https://codalab.lisn.upsaclay.fr/competitions/11877; 11877; 19132,19133,19134,19135
+[L2RPN 2022] Energies of the Future and Carbon Neutrality; https://codalab.lisn.upsaclay.fr/competitions/5410; 5410; 8205,8206,8207,8208
+Learn to Watch TV Multimodal Dialogue Understanding and Response Prediction; https://codalab.lisn.upsaclay.fr/competitions/13435; 13435; 21582,21583,21584,21581
+CGI-AIAA 2023: Artistic Image Aesthetics Assessment Challenge; https://codalab.lisn.upsaclay.fr/competitions/12790; 12790; 20550
+MERLIon CCS Task 1 (Language Identification) Closed Track; https://codalab.lisn.upsaclay.fr/competitions/10876; 10876; 17640
+MERLIon CCS Task 1 (Language Identification) Open Track; https://codalab.lisn.upsaclay.fr/competitions/10877; 10877; 17641
+The 5th Large-scale Video Object Segmentation Challenge - Track 1: Video Object Segmentation; https://codalab.lisn.upsaclay.fr/competitions/13524; 13524; 21744,21745
+The 5th Large-scale Video Object Segmentation - Track 3: Referring Video Object Segmentation; https://codalab.lisn.upsaclay.fr/competitions/13520; 13520; 21736,21737
+The 5th Large-scale Video Object Segmentation Challenge - Track 2: Video Instance Segmentation; https://codalab.lisn.upsaclay.fr/competitions/13440; 13440; 21595,21597
+MICCAI MMAC 2023 - Myopic Maculopathy Analysis Challenge - Task 3; https://codalab.lisn.upsaclay.fr/competitions/12477; 12477; 19964,19965,19966
+MICCAI MMAC 2023 - Myopic Maculopathy Analysis Challenge - Task 2; https://codalab.lisn.upsaclay.fr/competitions/12476; 12476; 19961,19962,19963
+MICCAI MMAC 2023 - Myopic Maculopathy Analysis Challenge - Task 1; https://codalab.lisn.upsaclay.fr/competitions/12441; 12441; 19900,19901,19902
+Qur'an QA 2023 - Task B (Reading Comprehension); https://codalab.lisn.upsaclay.fr/competitions/14267; 14267; 22862,22863
+iPWS Cup 2023; https://codalab.lisn.upsaclay.fr/competitions/13907; 13907; 22336,22337,22338,22339,22340,22341,22342
+The Legacy of Spatial Apartheid Machine Learning Challenge; https://codalab.lisn.upsaclay.fr/competitions/14259; 14259; 22847
+Assembly101 3D Action Recognition; https://codalab.lisn.upsaclay.fr/competitions/5256; 5256; 7962
+CVPPA@ICCV'23: Image Classification of Nutrient Deficiencies in Winter Wheat and Winter Rye; https://codalab.lisn.upsaclay.fr/competitions/13833; 13833; 22249
+Homophobia/Transphobia Detection in social media comments:-LT-EDI@RANLP-2023; https://codalab.lisn.upsaclay.fr/competitions/11077; 11077; 18005
+Detecting Signs of Depression from Social Media Text - LT-EDI@RANLP 2023; https://codalab.lisn.upsaclay.fr/competitions/11075; 11075; 18012
+ECCV 2022 Workshop SSLAD Track 1 - 2D object detection; https://codalab.lisn.upsaclay.fr/competitions/6163; 6163; 9239,9238
+ECCV 2022 Workshop SSLAD Track 5 - UNIFIED MODEL FOR MULTI-TASK LEARNING; https://codalab.lisn.upsaclay.fr/competitions/6674; 6674; 9900,9901
+L2RPN Delft 2023; https://codalab.lisn.upsaclay.fr/competitions/12420; 12420; 19844,19845,19846,21083
+ECCV 2022 Workshop SSLAD Track 2 - 3D Object Detection; https://codalab.lisn.upsaclay.fr/competitions/6673; 6673; 9899,9898
+2023 IEEE SPS Video and Image Processing Cup  (VIP Cup) Ophthalmic Biomarker Detection; https://codalab.lisn.upsaclay.fr/competitions/14006; 14006; 22442,22443
+ClinSpEn 2022 (subtrack of Biomedical WMT @ EMNLP); https://codalab.lisn.upsaclay.fr/competitions/6696; 6696; 9920,9918,9919
+2023 VIPriors Object Detection Challenge; https://codalab.lisn.upsaclay.fr/competitions/13493; 13493; 21695,21696
+2023 VIPriors Instance Segmentation Challenge; https://codalab.lisn.upsaclay.fr/competitions/13494; 13494; 21697,21698
+BioCreative VIII BioRED Track Subtask 1; https://codalab.lisn.upsaclay.fr/competitions/13377; 13377; 21474
+SHARP 2023 - Track 3 @ ICCV 2023; https://codalab.lisn.upsaclay.fr/competitions/13676; 13676; 22048,22049
+SHARP 2023 - Track 1 @ ICCV 2023; https://codalab.lisn.upsaclay.fr/competitions/13629; 13629; 21971,21972
+FLAIR #2: semantic segmentation from Earth Observation data; https://codalab.lisn.upsaclay.fr/competitions/13447; 13447; 21604
+SMM4H 2023 Task 2: Classification of sentiment associated with therapies (aspect-oriented); https://codalab.lisn.upsaclay.fr/competitions/12421; 12421; 19848,19849,19850
+EPIC-KITCHENS VISOR Hand Object Segmentation Challenge; https://codalab.lisn.upsaclay.fr/competitions/9969; 9969; 16086
+EPIC-KITCHENS-100 Action Recognition; https://codalab.lisn.upsaclay.fr/competitions/776; 776; 1123
+EPIC-KITCHENS-100 Action Detection; https://codalab.lisn.upsaclay.fr/competitions/707; 707; 1019
+EPIC-SOUNDS Audio-Based Interaction Recognition; https://codalab.lisn.upsaclay.fr/competitions/9729; 9729; 15720
+EPIC-KITCHENS-100 Unsupervised Domain Adaptation Challenge for Action Recognition; https://codalab.lisn.upsaclay.fr/competitions/1241; 1241; 1797
+EPIC-KITCHENS-100 Action Anticipation; https://codalab.lisn.upsaclay.fr/competitions/702; 702; 1010
+ECCV 2022 Workshop SSLAD Track 3 - Corner Case Detection; https://codalab.lisn.upsaclay.fr/competitions/6639; 6639; 9865,9864
+Speaker Attribution 2023 Competition; https://codalab.lisn.upsaclay.fr/competitions/10431; 10431; 16757,16758
+SV-Ident 2022 Competition; https://codalab.lisn.upsaclay.fr/competitions/6400; 6400; 9476,9477
+The Unsupervised DAVIS Challenge on Video Object Segmentation @ CVPR 2020; https://codalab.lisn.upsaclay.fr/competitions/6811; 6811; 10130
+The Semi-Supervised DAVIS Challenge on Video Object Segmentation @ CVPR 2020; https://codalab.lisn.upsaclay.fr/competitions/6812; 6812; 10131
+GREW Competition; https://codalab.lisn.upsaclay.fr/competitions/3409; 3409; 5306,5305,5304
+HANDS19 Challenge: Task 1 - Depth-Based 3D Hand Pose Estimation; https://codalab.lisn.upsaclay.fr/competitions/7109; 7109; 10790
+SportsMOT: A Large Multi-Object Tracking Dataset in Multiple Sports Scenes; https://codalab.lisn.upsaclay.fr/competitions/12424; 12424; 19861
+SVC-onGoing (based on ICDAR 2021 Competition on On-Line Signature Verification); https://codalab.lisn.upsaclay.fr/competitions/9189; 9189; 15053,15054
+Mobile Behavioral Biometrics Competition - Ongoing; https://codalab.lisn.upsaclay.fr/competitions/3564; 3564; 13706,5539
+COCO Detection Challenge (Bounding Box); https://codalab.lisn.upsaclay.fr/competitions/7384; 7384; 11991,11992
+COCO Detection Challenge (Segmentation Mask); https://codalab.lisn.upsaclay.fr/competitions/7383; 7383; 11989,11990
+M2MeT Challenge 2022:Task1(Speaker Diarization)-Sub-trackII(Open Training Condition); https://codalab.lisn.upsaclay.fr/competitions/840; 840; 1220
+M2MeT Challenge 2022:Task2(Multi-Speaker ASR)-Sub-trackI(Fixed Training Condition); https://codalab.lisn.upsaclay.fr/competitions/837; 837; 1217
+M2MeT Challenge 2022:Task1(Speaker Diarization)-Sub-trackI(Fixed Training Condition); https://codalab.lisn.upsaclay.fr/competitions/839; 839; 1219
+WebFace260M Benchmark; https://codalab.lisn.upsaclay.fr/competitions/859; 859; 1249,1250,1251
+M2MeT 2.0 Challenge (Test set); https://codalab.lisn.upsaclay.fr/competitions/14018; 14018; 22454
+ICPR VideoPipe Challenge - Track on Temporal Defect Localization; https://codalab.lisn.upsaclay.fr/competitions/2284; 2284; 3522
+MSLS Place recognition challenge; https://codalab.lisn.upsaclay.fr/competitions/865; 865; 1255
+SensatUrban Semantic Segmentation; https://codalab.lisn.upsaclay.fr/competitions/7113; 7113; 10795
+The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation; https://codalab.lisn.upsaclay.fr/competitions/7107; 7107; 10787,10786,10788
+ICPR VideoPipe Challenge - Track on Video Defect Classification; https://codalab.lisn.upsaclay.fr/competitions/2232; 2232; 3442
+NTU CE/CZ-7454 Project 1: PSG Classification; https://codalab.lisn.upsaclay.fr/competitions/7153; 7153; 10887
+DisTEMIST - DISease TExt Mining Shared Task; https://codalab.lisn.upsaclay.fr/competitions/7162; 7162; 10917,10918
+Ongoing of 4th Face Anti-spoofing Workshop and Challenge@CVPR2023, Wild Track; https://codalab.lisn.upsaclay.fr/competitions/12933; 12933; 20749,20747
+MOSE: Complex Video Object Segmentation Dataset; https://codalab.lisn.upsaclay.fr/competitions/10703; 10703; 17349,17350
+HybridQA Competition; https://codalab.lisn.upsaclay.fr/competitions/7979; 7979; 13030
+TweetQA Competition; https://codalab.lisn.upsaclay.fr/competitions/8268; 8268; 13428
+OTT-QA Competition; https://codalab.lisn.upsaclay.fr/competitions/7967; 7967; 13029
+FinQA Competition - Private Test Set; https://codalab.lisn.upsaclay.fr/competitions/4138; 4138; 6421
+ConvFinQA Competition; https://codalab.lisn.upsaclay.fr/competitions/8582; 8582; 13886
+FinQA Competition - Public Test Set; https://codalab.lisn.upsaclay.fr/competitions/1846; 1846; 2858
+ICIP 2023 Point Cloud Visual Quality Assesment ( Track 4 - No Ref. high quality range); https://codalab.lisn.upsaclay.fr/competitions/10963; 10963; 17799,17800
+MIND News Recommendation Competition; https://codalab.lisn.upsaclay.fr/competitions/420; 420; 562,563
+WASSA 2022 Shared Task; https://codalab.lisn.upsaclay.fr/competitions/834; 834; 1208,1209,1210
+IberLEF 2023 Task - HOPE. Multilingual Hope Speech detection; https://codalab.lisn.upsaclay.fr/competitions/10215; 10215; 16451,16452,16453,16454,16455,16456
+2021 IEEE GRSS Data Fusion Contest Track MSD; https://codalab.lisn.upsaclay.fr/competitions/7908; 7908; 12931,12932,12933
+EVALITA 2023 Task - PoliticIT. Political ideology detection in Italian texts; https://codalab.lisn.upsaclay.fr/competitions/8507; 8507; 13763,13764,13765
+DanceTrack - Tracking Multiple Objects in Uniform Appearance and Diverse Motion; https://codalab.lisn.upsaclay.fr/competitions/5830; 5830; 8804
+Multi Perspective Scientific Document Summarization; https://codalab.lisn.upsaclay.fr/competitions/5676; 5676; 8601
+SMM4H 2022 - Task 3. Classification of changes in medication treatments in tweets and WebMD reviews; https://codalab.lisn.upsaclay.fr/competitions/2138; 2138; 3277,3278,3279,3280,3281,3282
+SemEval 2023 Task 7- Multi-evidence Natural Language Inference for Clinical Trial Data; https://codalab.lisn.upsaclay.fr/competitions/8937; 8937; 14755,14756,14757,14758,14759,14760
+VG8K-LT Dataset Evaluation (Long Tail Visual Relationship Recognition); https://codalab.lisn.upsaclay.fr/competitions/10822; 10822; 17572
+HO3D (version 3); https://codalab.lisn.upsaclay.fr/competitions/4393; 4393; 6886
+Meta-learning from Learning Curves; https://codalab.lisn.upsaclay.fr/competitions/753; 753; 1097,1098
+SemanticKITTI: Semantic Segmentation; https://codalab.lisn.upsaclay.fr/competitions/6280; 6280; 9324,9325
+QVHighlights Evaluation; https://codalab.lisn.upsaclay.fr/competitions/6937; 6937; 10417
+KQA Pro Competition; https://codalab.lisn.upsaclay.fr/competitions/4315; 4315; 6797
+Drugprot post-workshop; https://codalab.lisn.upsaclay.fr/competitions/8293; 8293; 13470
+Quality Estimation Shared Task 2022 (WMT'22) - Sentence-level "Direct Assessment"; https://codalab.lisn.upsaclay.fr/competitions/6841; 6841; 10216,10217,10218,10219,10220,10221,10222
+ETH-XGaze Competition; https://codalab.lisn.upsaclay.fr/competitions/7423; 7423; 12078,12079,12080,12086
+VALUE Leaderboard Evaluation; https://codalab.lisn.upsaclay.fr/competitions/6972; 6972; 10441
+H2O3D; https://codalab.lisn.upsaclay.fr/competitions/4897; 4897; 7446
+2022视频描述竞赛; https://codalab.lisn.upsaclay.fr/competitions/8393; 8393; 13622
+H2O - Action; https://codalab.lisn.upsaclay.fr/competitions/4820; 4820; 7328
+LongSumm; https://codalab.lisn.upsaclay.fr/competitions/5693; 5693; 8632
+Iris; https://codalab.lisn.upsaclay.fr/competitions/15; 15; 26,27
+LM-KBC @ ISWC 2022; https://codalab.lisn.upsaclay.fr/competitions/5815; 5815; 8763
+2023 IEEE GRSS Data Fusion Contest Track 1; https://codalab.lisn.upsaclay.fr/competitions/8987; 8987; 14836,14837,14838
+Argument Mining Competition (RuArg-2022); https://codalab.lisn.upsaclay.fr/competitions/786; 786; 1149,1150,1151
+IberLEF 2022 Task - PoliticEs. Spanish Author Profiling for Political Ideology (moved); https://codalab.lisn.upsaclay.fr/competitions/1042; 1042; 1533
+Statistical NLP course - Assignment 2 - RuDetoxEval; https://codalab.lisn.upsaclay.fr/competitions/532; 532; 744,745,746
+MultiGED 2023 Shared Task; https://codalab.lisn.upsaclay.fr/competitions/9784; 9784; 15802,15803,15804
+2023 IEEE GRSS Data Fusion Contest Track 2; https://codalab.lisn.upsaclay.fr/competitions/8988; 8988; 14839,14840,14841
+DocRED; https://codalab.lisn.upsaclay.fr/competitions/365; 365; 488
+MAVEN-ERE Event Relation Extraction Challenge; https://codalab.lisn.upsaclay.fr/competitions/8691; 8691; 14022
+The Algonauts Project 2023 - How the Human Brain Makes Sense of Natural Scenes; https://codalab.lisn.upsaclay.fr/competitions/9304; 9304; 15209,15210
+Outdoor Semantic Segmentation Challenge; https://codalab.lisn.upsaclay.fr/competitions/5637; 5637; 8507
+BEA 2019 Shared Task - Grammatical Error Correction - All Tracks; https://codalab.lisn.upsaclay.fr/competitions/4057; 4057; 8928,8929,6318
+MICCAI AIIB23-Task 1: Airway-Informed Quantitative CT Imaging Biomarker for Fibrotic Lung Disease; https://codalab.lisn.upsaclay.fr/competitions/13238; 13238; 21259
+SMM4H 2022 Task 4 - Classification of Tweets Self-Reporting Exact Age (in English); https://codalab.lisn.upsaclay.fr/competitions/3566; 3566; 5543,5544,5545
+TRAC 2022 Shared Task on Bias, Threat and Aggression Identification in Context (BiTAg-Con); https://codalab.lisn.upsaclay.fr/competitions/5792; 5792; 8734,8735,8736
+SemanticKITTI: Open-World LiDAR Instance Segmentation; https://codalab.lisn.upsaclay.fr/competitions/2183; 2183; 3336,3337
+SALICON Saliency Prediction Challenge (LSUN 2017); https://codalab.lisn.upsaclay.fr/competitions/8379; 8379; 13606
+ImageNet-S Semantic Segmentation (Free); https://codalab.lisn.upsaclay.fr/competitions/1316; 1316; 1952,1953,1954
+2022 GeoAI Martian Challenge; https://codalab.lisn.upsaclay.fr/competitions/1934; 1934; 2969,2970
+NER Shared Task 2023 (Subtask 1 - Flat NER); https://codalab.lisn.upsaclay.fr/competitions/11740; 11740; 18966,18967,18968
+CONDA Competition; https://codalab.lisn.upsaclay.fr/competitions/7827; 7827; 12816
+AmericasNLP2022-v2 Task1: ASR for Indigenous Languages of the Americas, Track 2; https://codalab.lisn.upsaclay.fr/competitions/8028; 8028; 13111,13112,13113
+WASSA 2023 Shared Task; https://codalab.lisn.upsaclay.fr/competitions/10864; 10864; 17629,17630
+Sample Insect Competition; https://codalab.lisn.upsaclay.fr/competitions/201; 201; 266,267
+[Additional Scoring] Causal News Corpus - Event Causality Shared Task 2022; https://codalab.lisn.upsaclay.fr/competitions/7046; 7046; 10608,10609,10610,10611
+ICIP 2023 Point Cloud Visual Quality Assesment ( Track 1 - Full Ref. broad range); https://codalab.lisn.upsaclay.fr/competitions/10960; 10960; 17792,17793
+QuALES@IberLEF2022: Question Answering Learning from Examples in Spanish; https://codalab.lisn.upsaclay.fr/competitions/2619; 2619; 4112,4113,4114
+Quality Estimation Shared Task 2022 (WMT'22) - Word-level "Quality Prediction"; https://codalab.lisn.upsaclay.fr/competitions/6883; 6883; 10351,10352,10353,10354,10355,10356,10357,10358,10359,10360
+FCGEC: Fine-Grained Corpus for Chinese Grammatical Error Correction; https://codalab.lisn.upsaclay.fr/competitions/8020; 8020; 13099,13100
+LongEval 2023 Classification; https://codalab.lisn.upsaclay.fr/competitions/12762; 12762; 20482,20483,20484
+AmericasNLP2022-v2 Task1: ASR for Indigenous Languages of the Americas, Track 1; https://codalab.lisn.upsaclay.fr/competitions/8027; 8027; 13108,13109,13110
+Far-field Speaker Verification Challenge (FFSVC2022) - Task2; https://codalab.lisn.upsaclay.fr/competitions/2166; 2166; 3313,3314
+ICIP 2023 Point Cloud Visual Quality Assesment ( Track 5 - Intra reference); https://codalab.lisn.upsaclay.fr/competitions/10966; 10966; 17803,17804
+8th Sclera Segmentation and Recognition Benchmarking Competition; https://codalab.lisn.upsaclay.fr/competitions/12050; 12050; 19345,19346,19347
+UNLP 2023 Shared Task in Grammatical Error Correction for Ukrainian; https://codalab.lisn.upsaclay.fr/competitions/10740; 10740; 17436,17437
+SemEval 2022 Task 2 - Post-Evaluation; https://codalab.lisn.upsaclay.fr/competitions/8121; 8121; 13241,13242,13243
+Taxonomy Enrichment task; https://codalab.lisn.upsaclay.fr/competitions/539; 539; 758,759,760,761,762,763
+MICCAI FLARE23: Fast, Low-resource, and Accurate oRgan and Pan-cancer sEgmentation in Abdomen CT; https://codalab.lisn.upsaclay.fr/competitions/12239; 12239; 19574,19575
+Quality Estimation Shared Task 2022 (WMT'22) - Sentence-level "Critical Error Detection"; https://codalab.lisn.upsaclay.fr/competitions/6893; 6893; 10373,10374,10375,10376
+VLSP2022 - EVJVQA Challenge: Multilingual Visual Question Answering; https://codalab.lisn.upsaclay.fr/competitions/12274; 12274; 19607,19608,19609
+Customized Chat Grounding Persona and Knowledge; https://codalab.lisn.upsaclay.fr/competitions/3754; 3754; 5763,5764
+GQA-LT Dataset Evaluation (Long Tail Visual Relationship Recognition); https://codalab.lisn.upsaclay.fr/competitions/10821; 10821; 17571
+ICFHR2022 Competition on Signature Verification in the Wild (SVW 22); https://codalab.lisn.upsaclay.fr/competitions/6556; 6556; 9715,9716
+SMM4H 2022 - Task 6 - Classification of tweets indicating self-reported COVID-19 vaccination status; https://codalab.lisn.upsaclay.fr/competitions/3536; 3536; 5494,5495,5496
+Transliteration task; https://codalab.lisn.upsaclay.fr/competitions/12240; 12240; 19576,19577
+SMM4H23 Task 4 - Binary classification of posts self-reporting a social anxiety disorder diagnosis; https://codalab.lisn.upsaclay.fr/competitions/13160; 13160; 21080,21081,21082
+(Additional scoring) Shared Task on Multilingual protest news detection CASE 2021 @ ACL-IJCNLP 2021; https://codalab.lisn.upsaclay.fr/competitions/7126; 7126; 10849,10850,10851,10852,10853,10854,10855,10856,10857,10858,10859,10860,10861
+TextGraphs-16 Shared Task on Natural Language Premise Selection; https://codalab.lisn.upsaclay.fr/competitions/5692; 5692; 8629,8630,8631
+IberLEF 2022 Task - PoliticEs. Spanish Author Profiling for Political Ideology; https://codalab.lisn.upsaclay.fr/competitions/1948; 1948; 2984,2985,2986
+[Additional Scoring] Causal News Corpus - Event Causality Shared Task 2023; https://codalab.lisn.upsaclay.fr/competitions/14265; 14265; 22856,22857,22858,22859
+ImageNet-S Semantic  Segmentation (Fully unsupervised protocol); https://codalab.lisn.upsaclay.fr/competitions/1317; 1317; 1955,1956,1957
+(Additional Scoring) Shared Task on Multilingual protest news detection CASE 2022; https://codalab.lisn.upsaclay.fr/competitions/7768; 7768; 12734,12735,12736,12737,12738,12739,12740
+STPLS3D Instance Segmentation; https://codalab.lisn.upsaclay.fr/competitions/4646; 4646; 7134
+SMM4H 2022 - Task 9 Classification of social media forum posts self-reporting exact age; https://codalab.lisn.upsaclay.fr/competitions/3646; 3646; 5631,5632,5633
+To be, or not to be?; https://codalab.lisn.upsaclay.fr/competitions/17; 17; 33
+WASSA 2023 Shared Task on Empathy Emotion and Personality Detection in Interactions; https://codalab.lisn.upsaclay.fr/competitions/11167; 11167; 18154,18155,18156
+Causal VidQA Evaluation; https://codalab.lisn.upsaclay.fr/competitions/6269; 6269; 9311
+ALTA Shared Task 2022; https://codalab.lisn.upsaclay.fr/competitions/6935; 6935; 10412,10413,10414
+ICIP 2023 Point Cloud Visual Quality Assesment ( Track 3 - Full Ref. high quality range); https://codalab.lisn.upsaclay.fr/competitions/10962; 10962; 17797,17798
+TempoWiC - Detecting Meaning Shift in Social Media; https://codalab.lisn.upsaclay.fr/competitions/5360; 5360; 8149,8150
+Inférence du prix d'un téléphone mobile en fonction de ses caractéristiques.; https://codalab.lisn.upsaclay.fr/competitions/11192; 11192; 18203
+Knowledge oriented Reading Comprehension; https://codalab.lisn.upsaclay.fr/competitions/13865; 13865; 22273
+SegTHOR; https://codalab.lisn.upsaclay.fr/competitions/843; 843; 1226,1227
+Occluded Video Instance Segmentation (OVIS); https://codalab.lisn.upsaclay.fr/competitions/4763; 4763; 7270
+SMM4H 2023 - Task 5 - Normalization of adverse drug events in English tweets; https://codalab.lisn.upsaclay.fr/competitions/12941; 12941; 20763,20764,20765
+IberLEF 2023 Task - PoliticEs. Political ideology detection in Spanish texts; https://codalab.lisn.upsaclay.fr/competitions/10173; 10173; 16365,16366,16367
+Testing-Feature Selection Challenge; https://codalab.lisn.upsaclay.fr/competitions/7363; 7363; 11983
+The Condensed Movies Challenge 2021; https://codalab.lisn.upsaclay.fr/competitions/7333; 7333; 11965,11966
+Leaf Segmentation Challenge (LSC); https://codalab.lisn.upsaclay.fr/competitions/8970; 8970; 14805,14806
+MultiCoNER II: SemEval-2023 Task 2 (Practice Phase); https://codalab.lisn.upsaclay.fr/competitions/9885; 9885; 15941,15942,15943,15944,15945,15946,15947,15948,15949,15950,15951,15952,15953
+Smarter Mobility Data Challenge; https://codalab.lisn.upsaclay.fr/competitions/7192; 7192; 11003,11006,11007
+Far-field Speaker Verification Challenge (FFSVC2022) - Task1; https://codalab.lisn.upsaclay.fr/competitions/2167; 2167; 3315,3316
+BioNLP 2023 Shared Task 1A - Problem List Summarization; https://codalab.lisn.upsaclay.fr/competitions/12388; 12388; 19798,19799
+SMM4H 2022 Task 8: Classification of self-reported chronic stress on Twitter; https://codalab.lisn.upsaclay.fr/competitions/1542; 1542; 2343,2344,2345
+RuCoСo; https://codalab.lisn.upsaclay.fr/competitions/10273; 10273; 16545,16546,16547
+Comparison Identification; https://codalab.lisn.upsaclay.fr/competitions/531; 531; 741,742,743
+FewRel 2.0 None-of-the-above; https://codalab.lisn.upsaclay.fr/competitions/7398; 7398; 12001
+Word Sense Induction and Disambiguation for the Russian Language: all tracks; https://codalab.lisn.upsaclay.fr/competitions/8322; 8322; 13520,13521,13522,13523,13524,13525,13526,13527,13528
+WASPSYN @ ISBI 2023; https://codalab.lisn.upsaclay.fr/competitions/9169; 9169; 15030
+Histology Classification; https://codalab.lisn.upsaclay.fr/competitions/1283; 1283; 1881,1882
+ICIP 2023 Point Cloud Visual Quality Assesment ( Track 2 - No Ref. broad range); https://codalab.lisn.upsaclay.fr/competitions/10961; 10961; 17795,17796
+GUA-SPA@IberLEF2023: Guarani-Spanish Code Switching Analysis; https://codalab.lisn.upsaclay.fr/competitions/11030; 11030; 17906,17907,17908
+LoveDA Unsupervised Domain Adaptation; https://codalab.lisn.upsaclay.fr/competitions/424; 424; 566,568
+H2O - Hand Pose; https://codalab.lisn.upsaclay.fr/competitions/4822; 4822; 7330
+MultiCoNER II: SemEval-2023 Task 2 (Evaluation Phase); https://codalab.lisn.upsaclay.fr/competitions/10025; 10025; 16200,16201,16202,16203,16204,16205,16206,16207,16208,16209,16210,16211,16212
+SMM4H 2023 Task 1 - Binary classification of English tweets self-reporting a COVID-19 diagnosis; https://codalab.lisn.upsaclay.fr/competitions/12763; 12763; 20485,20486,20487
+MOCS: Detecting Moving Objects in Construction Sites; https://codalab.lisn.upsaclay.fr/competitions/2319; 2319; 3585,3587
+IBERLEF 2023 Task - FinancES. Financial Targeted Sentiment Analysis in Spanish; https://codalab.lisn.upsaclay.fr/competitions/10052; 10052; 16265,16266,16267
+UAVid semantic segmentation; https://codalab.lisn.upsaclay.fr/competitions/7302; 7302; 11772,11773
+UNCV2023 | MUAD Uncertainty Estimation for Semantic Segmentation Challenge; https://codalab.lisn.upsaclay.fr/competitions/8007; 8007; 13073,13074
+RUSSE 2022 Russian Text Detoxification Based on Parallel Corpora; https://codalab.lisn.upsaclay.fr/competitions/642; 642; 915,2824,917
+Factify; https://codalab.lisn.upsaclay.fr/competitions/8275; 8275; 13444,13445
+Fact Extraction and VERification (FEVER) Challenge; https://codalab.lisn.upsaclay.fr/competitions/7308; 7308; 11911,11912,11913
+HCMC AI Challenge 2022; https://codalab.lisn.upsaclay.fr/competitions/8247; 8247; 13385,13387,13388,13390,13392,13394,13395,13397,13399,13401
+TVR Evaluation; https://codalab.lisn.upsaclay.fr/competitions/6975; 6975; 10444
+Small Object Detection Challenge for Spotting Birds @MVA2023; https://codalab.lisn.upsaclay.fr/competitions/9594; 9594; 15574,15576
+FewRel 2.0 Domain Adaptation; https://codalab.lisn.upsaclay.fr/competitions/7397; 7397; 12000
+PACHAMAMA Challenge; https://codalab.lisn.upsaclay.fr/competitions/1447; 1447; 2202,2203
+Microsoft COCO Image Captioning Challenge; https://codalab.lisn.upsaclay.fr/competitions/7404; 7404; 12011
+AmericasNLP2022-v2 Task2: Text-to-text translation for Indigenous Languages of the Americas, Track 1; https://codalab.lisn.upsaclay.fr/competitions/8030; 8030; 13114,13115,13116
+FewRel 1.0; https://codalab.lisn.upsaclay.fr/competitions/7395; 7395; 11998
+Feature Selection Challenge; https://codalab.lisn.upsaclay.fr/competitions/7194; 7194; 11009
+SHARP 2022 - Challenge 1 / Track 1 @ CVPR 2022 - Evaluation Phase; https://codalab.lisn.upsaclay.fr/competitions/4604; 4604; 7102
+SMM4H 2022 - Task 5 - Classification of tweets of self-reported COVID-19 symptoms in Spanish; https://codalab.lisn.upsaclay.fr/competitions/3535; 3535; 5491,5492,5493
+Task11 @SemEval2023: Learning With Disagreements (Le-Wi-Di), 2nd edition; https://codalab.lisn.upsaclay.fr/competitions/6146; 6146; 9214,9215,9216,9217
+SEMarkup: hard track; https://codalab.lisn.upsaclay.fr/competitions/10471; 10471; 16798,16799
+Memotion 3.0; https://codalab.lisn.upsaclay.fr/competitions/8299; 8299; 13477,13478
+TGCSR (Vacation set, T/F format); https://codalab.lisn.upsaclay.fr/competitions/5001; 5001; 7603
+Quality Estimation Shared Task 2022 (WMT'22) - Sentence-level "MQM"; https://codalab.lisn.upsaclay.fr/competitions/6866; 6866; 10302,10303,10304,10305
+Histology Challenge Multi Set; https://codalab.lisn.upsaclay.fr/competitions/1992; 1992; 3053,3054
+HO3D (version 2); https://codalab.lisn.upsaclay.fr/competitions/4318; 4318; 6800
+SemanticKITTI: Semantic Scene Completion; https://codalab.lisn.upsaclay.fr/competitions/7170; 7170; 10939
+SemanticKITTI: Moving Object Segmentation; https://codalab.lisn.upsaclay.fr/competitions/7088; 7088; 10771
+VoiceMOS Challenge; https://codalab.lisn.upsaclay.fr/competitions/695; 695; 994,995,996,997
+SIDD Benchmark - RawRGB; https://codalab.lisn.upsaclay.fr/competitions/5589; 5589; 8418
+MedMTEval; https://codalab.lisn.upsaclay.fr/competitions/1856; 1856; 2867
+Named Entity Oriented Sentiment Analysis Task (RuSentNE-2023); https://codalab.lisn.upsaclay.fr/competitions/9538; 9538; 15468,15469,15470
+Toloka Visual Question Answering Challenge (WSDM Cup 2023); https://codalab.lisn.upsaclay.fr/competitions/7434; 7434; 12105,12106,12107
+SemanticKITTI: 4D Panoptic Segmentation; https://codalab.lisn.upsaclay.fr/competitions/7097; 7097; 10778
+SemanticKITTI: Panoptic Segmentation; https://codalab.lisn.upsaclay.fr/competitions/7092; 7092; 10775
+MAVEN Event Detection Challenge; https://codalab.lisn.upsaclay.fr/competitions/395; 395; 544
+TRUSTAI Competition; https://codalab.lisn.upsaclay.fr/competitions/2103; 2103; 3233,3234
+TG-CSR (Vacation dataset, Multi-set format); https://codalab.lisn.upsaclay.fr/competitions/3080; 3080; 4863
+CodRED; https://codalab.lisn.upsaclay.fr/competitions/3770; 3770; 5779,5780
+ROD2021 Challenge; https://codalab.lisn.upsaclay.fr/competitions/1063; 1063; 1552,1553
+MultiHiertt Competition; https://codalab.lisn.upsaclay.fr/competitions/6738; 6738; 9982
+LoveDA Semantic Segmentation; https://codalab.lisn.upsaclay.fr/competitions/421; 421; 564
+SMM4H'2022, Task 10 - Detection of disease mentions in tweets–SocialDisNER; https://codalab.lisn.upsaclay.fr/competitions/3531; 3531; 5482,5483,5484
+SMM4H 2022 - Task 1 - ADE Mining in English Tweets; https://codalab.lisn.upsaclay.fr/competitions/2073; 2073; 3180,3181,3182,3183,3184,3185,3186,3187,3188
+The Shared Task on Euphemism Detection: Post-Competition; https://codalab.lisn.upsaclay.fr/competitions/8043; 8043; 13128
+UIoU Dark Zurich at Vision for All Seasons Workshop, CVPR 2020; https://codalab.lisn.upsaclay.fr/competitions/3783; 3783; 5798,5799
+Quality Estimation Shared Task 2022 (WMT'22) - Subtask on "Explainable QE"; https://codalab.lisn.upsaclay.fr/competitions/6863; 6863; 10293,10294,10295,10296,10297,10298,10299,10300,10301
+COPEN; https://codalab.lisn.upsaclay.fr/competitions/8542; 8542; 13823
+2022 IEEE GRSS Data Fusion Contest Track SLM; https://codalab.lisn.upsaclay.fr/competitions/880; 880; 1270,1271,1272
+EVE: End-to-end Video-based Eye Tracking; https://codalab.lisn.upsaclay.fr/competitions/11397; 11397; 18495,18492
+Covid-19 Infection Percentage Estimation; https://codalab.lisn.upsaclay.fr/competitions/7065; 7065; 10720

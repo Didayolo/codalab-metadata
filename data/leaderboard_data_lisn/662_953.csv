@@ -1,0 +1,3 @@
+submission_pk,User,b'Completion Rate (F1)',b'Completion Rate (Precision)',b'Completion Rate (Recall)',b'Success Rate',b'Episode Reward'
+16729,neuroAI,0.2186 (1),0.1750 (1),0.5400 (1),0.0000 (1),-15.21 (1),
+25727,Zoya,0.1792 (2),0.1440 (2),0.3331 (2),0.0000 (1),-17.70 (2),

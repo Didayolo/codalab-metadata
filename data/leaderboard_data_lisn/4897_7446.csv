@@ -1,0 +1,4 @@
+submission_pk,User,b'Mean joint error (procrustes alignment)',b'Mean joint error (trans alignment)',b'Mean relative translation error',b'Mean joint AUC (procrustes alignment)',b'Mean joint AUC (trans alignment)',b'Mean relative translation AUC',b'Mesh error (procrustes alignment)',b'Mesh error AUC (procrustes alignment)',b'F-score@5mm (procrustes alignment)',b'F-score@15mm (procrustes alignment)'
+488773,zijinxuxu,1.07 (1),15.04 (3),29.01 (3),0.786 (1),0.062 (3),0.016 (3),-1.00 (1),-1.000 (1),-1.000 (1),-1.000 (1),
+173822,ETH,1.10 (2),3.12 (2),10.52 (2),0.781 (2),0.462 (1),0.135 (2),-1.00 (1),-1.000 (1),-1.000 (1),-1.000 (1),
+109727,bullet,1.17 (3),3.09 (1),8.28 (1),0.769 (3),0.455 (2),0.186 (1),-1.00 (1),-1.000 (1),-1.000 (1),-1.000 (1),

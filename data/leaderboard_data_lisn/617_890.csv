@@ -1,0 +1,8 @@
+submission_pk,User,SLS,SLS,SLS,Mean Average Precision (%),Mean Average Precision (%),Mean Average Precision (%),Normalised Discounted Cumulative Gain (%),Normalised Discounted Cumulative Gain (%),Normalised Discounted Cumulative Gain (%)
+,b'PT',b'TL',b'TD',b'Avg.',b'T2V',b'V2T',b'Avg.',b'T2V',b'V2T'
+459365,yzhao,3.00 (1),63.11 (1),72.25 (1),,,,,,,,,,
+458898,ctai,3.00 (1),60.01 (2),70.01 (2),,,,,,,,,,
+125086,kevin.lin,3.00 (1),53.84 (3),63.29 (3),,,,,,,,,,
+459339,afalcon,3.00 (1),47.79 (4),58.65 (4),,,,,,,,,,
+120577,buraksatar,3.00 (1),47.52 (5),56.55 (5),,,,,,,,,,
+14219,MI-MM,3.00 (1),32.09 (6),43.72 (6),,,,,,,,,,

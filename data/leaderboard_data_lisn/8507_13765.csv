@@ -1,0 +1,4 @@
+submission_pk,User,b'Average Macro F1',b'F1 Gender',b'F1 Ideology Binary',b'F1 Ideology Multiclass'
+465179,chromei,0.777761 (1),0.769002 (2),0.925572 (1),0.638710 (1),
+467326,NLP_URJC,0.693836 (2),0.778101 (1),0.722582 (3),0.580826 (2),
+448490,JoseAGD,0.569732 (3),0.536981 (3),0.809592 (2),0.362623 (3),

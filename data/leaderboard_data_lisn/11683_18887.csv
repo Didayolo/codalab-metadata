@@ -1,0 +1,4 @@
+submission_pk,User,b'Score',b'Error rate',b'Memory usage (MiB)',b'CPU time (ms)'
+418711,neuralchecker,0.0569728 (1),0.0053492 (1),118.0 (1),0.09700 (2),
+387629,EdiMuskardin,0.0601653 (2),0.0118116 (2),118.0 (1),0.04350 (1),
+375104,TAYSIR-Baseline,0.1949540 (3),0.2536402 (3),148.0 (2),0.16450 (3),

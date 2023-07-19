@@ -1,0 +1,5 @@
+submission_pk,User,b'F1',"b'avg. BLEU (BLEU1, BLEU2, BLEU3, BLEU4)'"
+464303,naot97,0.3815 (1),0.2681 (1),
+391929,daeron,0.3442 (2),0.2085 (2),
+470637,josephhlinn,0.2326 (3),0.0738 (3),
+453672,pakapro,0.0364 (4),0.0224 (4),

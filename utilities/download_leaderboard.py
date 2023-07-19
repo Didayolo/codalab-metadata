@@ -1,13 +1,15 @@
 import subprocess
 
-BASE_URL = 'https://competitions.codalab.org/competitions/'
+#BASE_URL = 'https://competitions.codalab.org/competitions/'
+BASE_URL = 'https://codalab.lisn.fr/competitions/'
 
 # Clean data folder
 process = subprocess.Popen('rm leaderboard_data/*'.split(), stdout=subprocess.PIPE)
 output, error = process.communicate()
 
 # Read competitions.csv
-f = open('competitions.csv', 'r')
+csv_location = '../data/competitions-lisn.csv'
+f = open(csv_location, 'r')
 rows = f.read().split('\n')
 rows = rows[:-1]
 f.close()

@@ -1,0 +1,7 @@
+submission_pk,User,b'Max AUROC (\xe2\x86\x93)',b'MNTD AUROC (\xe2\x86\x93)',b'Accuracy-Based Detector AUROC (\xe2\x86\x93)',b'Specificity-Based Detector AUROC (\xe2\x86\x93)'
+164160,neuronoverflow,51.5 (1),47.8 (1),47.3 (1),51.5 (2),
+186948,tak,64.0 (2),64.0 (3),62.4 (3),49.1 (1),
+157964,evasive_trojan_baseline,73.3 (3),72.7 (5),67.5 (5),73.3 (3),
+190700,pavel.pleskov,74.0 (4),71.3 (4),58.5 (2),74.0 (4),
+160637,pmz1362533695,77.7 (5),60.5 (2),69.4 (6),77.7 (5),
+157989,standard_trojan_baseline,94.1 (6),83.9 (6),63.7 (4),94.1 (6),

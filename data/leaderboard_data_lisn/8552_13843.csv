@@ -1,0 +1,12 @@
+submission_pk,User,b'Average TPR@0.1FPR across the three scenarios'
+296742,tianjian10,0.1221 (1),
+293720,micochallenge,0.1086 (2),
+submission_pk,User,b'TPR@0.1FPR',b'TPR@0.01FPR',b'TPR@0.001FPR',b'AUC',b'MIA',b'Accuracy'
+296742,tianjian10,0.1286 (1),0.0124 (1),0.0004 (1),0.5498 (1),0.0790 (1),0.5395 (1),
+293720,micochallenge,0.1120 (2),0.0120 (2),0.0000 (2),0.5208 (2),0.0362 (2),0.5181 (2),
+submission_pk,User,b'TPR@0.1FPR',b'TPR@0.01FPR',b'TPR@0.001FPR',b'AUC',b'MIA',b'Accuracy'
+296742,tianjian10,0.1350 (1),0.0178 (1),0.0014 (1),0.5503 (1),0.0794 (1),0.5397 (1),
+293720,micochallenge,0.1078 (2),0.0000 (2),0.0000 (2),0.5315 (2),0.0626 (2),0.5313 (2),
+submission_pk,User,b'TPR@0.1FPR',b'TPR@0.01FPR',b'TPR@0.001FPR',b'AUC',b'MIA',b'Accuracy'
+296742,tianjian10,0.1028 (2),0.0084 (2),0.0008 (1),0.5085 (1),0.0226 (2),0.5113 (2),
+293720,micochallenge,0.1060 (1),0.0090 (1),0.0000 (2),0.5085 (2),0.0230 (1),0.5115 (1),
