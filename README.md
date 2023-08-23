@@ -1,4 +1,4 @@
-# Analysis of the competitions from Codalab Plateform.
+# Analysis of the competitions from CodaLab Platform.
 
 1. In order to generate scores of utility of the competitions, one needs to run `leaderboard_cleaning.ipynb`, which consists mainly of two functions:
 
